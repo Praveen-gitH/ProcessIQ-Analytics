@@ -1,0 +1,3127 @@
+case_id,activity,timestamp,region,channel
+ORD10001,Order Created,2026-03-12 06:00:00,South,Website
+ORD10001,Payment Approved,2026-03-16 06:00:00,South,Website
+ORD10001,Inventory Checked,2026-03-21 06:00:00,South,Website
+ORD10001,Order Packed,2026-03-30 07:00:00,South,Website
+ORD10001,Order Shipped,2026-04-01 10:00:00,South,Website
+ORD10001,Order Delivered,2026-04-11 13:00:00,South,Website
+ORD10002,Order Created,2026-02-21 06:00:00,South,Marketplace
+ORD10002,Payment Approved,2026-02-25 11:00:00,South,Marketplace
+ORD10002,Inventory Checked,2026-03-12 15:00:00,South,Marketplace
+ORD10002,Order Packed,2026-03-13 17:00:00,South,Marketplace
+ORD10002,Order Shipped,2026-03-16 20:00:00,South,Marketplace
+ORD10002,Order Delivered,2026-03-29 01:00:00,South,Marketplace
+ORD10003,Order Created,2026-04-08 01:00:00,South,Website
+ORD10003,Payment Approved,2026-04-14 07:00:00,South,Website
+ORD10003,Inventory Checked,2026-04-26 08:00:00,South,Website
+ORD10003,Order Packed,2026-05-08 16:00:00,South,Website
+ORD10003,Order Shipped,2026-05-16 20:00:00,South,Website
+ORD10003,Order Delivered,2026-05-26 01:00:00,South,Website
+ORD10004,Order Created,2026-01-18 04:00:00,North,Marketplace
+ORD10004,Payment Approved,2026-01-29 11:00:00,North,Marketplace
+ORD10004,Inventory Checked,2026-02-06 16:00:00,North,Marketplace
+ORD10004,Order Packed,2026-02-10 18:00:00,North,Marketplace
+ORD10004,Order Shipped,2026-02-12 23:00:00,North,Marketplace
+ORD10004,Order Delivered,2026-02-20 04:00:00,North,Marketplace
+ORD10005,Order Created,2026-03-10 08:00:00,North,Marketplace
+ORD10005,Payment Approved,2026-03-20 11:00:00,North,Marketplace
+ORD10005,Inventory Checked,2026-03-26 16:00:00,North,Marketplace
+ORD10005,Order Packed,2026-04-03 16:00:00,North,Marketplace
+ORD10005,Order Shipped,2026-04-10 19:00:00,North,Marketplace
+ORD10005,Order Delivered,2026-04-15 19:00:00,North,Marketplace
+ORD10006,Order Created,2026-03-10 04:00:00,East,Mobile App
+ORD10006,Payment Approved,2026-03-14 06:00:00,East,Mobile App
+ORD10006,Inventory Checked,2026-03-25 09:00:00,East,Mobile App
+ORD10006,Order Packed,2026-04-05 17:00:00,East,Mobile App
+ORD10006,Order Shipped,2026-04-14 01:00:00,East,Mobile App
+ORD10006,Order Delivered,2026-04-17 05:00:00,East,Mobile App
+ORD10007,Order Created,2026-04-14 02:00:00,West,Marketplace
+ORD10007,Payment Approved,2026-04-18 08:00:00,West,Marketplace
+ORD10007,Inventory Checked,2026-04-23 09:00:00,West,Marketplace
+ORD10007,Payment Retry,2026-04-24 15:00:00,West,Marketplace
+ORD10007,Order Packed,2026-04-26 21:00:00,West,Marketplace
+ORD10007,Order Shipped,2026-04-30 04:00:00,West,Marketplace
+ORD10007,Order Delivered,2026-05-11 12:00:00,West,Marketplace
+ORD10008,Order Created,2026-01-03 06:00:00,East,Marketplace
+ORD10008,Payment Approved,2026-01-14 08:00:00,East,Marketplace
+ORD10008,Inventory Checked,2026-02-01 15:00:00,East,Marketplace
+ORD10008,Order Packed,2026-02-07 15:00:00,East,Marketplace
+ORD10008,Order Shipped,2026-02-09 19:00:00,East,Marketplace
+ORD10008,Order Delivered,2026-02-15 03:00:00,East,Marketplace
+ORD10009,Order Created,2026-01-29 05:00:00,North,Marketplace
+ORD10009,Payment Approved,2026-02-09 12:00:00,North,Marketplace
+ORD10009,Inventory Checked,2026-02-26 12:00:00,North,Marketplace
+ORD10009,Order Packed,2026-03-01 13:00:00,North,Marketplace
+ORD10009,Order Shipped,2026-03-02 18:00:00,North,Marketplace
+ORD10009,Order Delivered,2026-03-12 22:00:00,North,Marketplace
+ORD10010,Order Created,2026-03-03 07:00:00,North,Website
+ORD10010,Payment Approved,2026-03-05 15:00:00,North,Website
+ORD10010,Inventory Checked,2026-03-21 17:00:00,North,Website
+ORD10010,Order Packed,2026-03-30 21:00:00,North,Website
+ORD10010,Order Shipped,2026-04-03 05:00:00,North,Website
+ORD10010,Order Delivered,2026-04-06 11:00:00,North,Website
+ORD10011,Order Created,2026-02-22 01:00:00,North,Marketplace
+ORD10011,Payment Approved,2026-03-01 06:00:00,North,Marketplace
+ORD10011,Inventory Checked,2026-03-13 06:00:00,North,Marketplace
+ORD10011,Order Packed,2026-03-15 14:00:00,North,Marketplace
+ORD10011,Order Shipped,2026-03-19 17:00:00,North,Marketplace
+ORD10011,Order Delivered,2026-03-23 20:00:00,North,Marketplace
+ORD10012,Order Created,2026-01-16 08:00:00,South,Website
+ORD10012,Payment Approved,2026-01-18 10:00:00,South,Website
+ORD10012,Inventory Checked,2026-01-20 17:00:00,South,Website
+ORD10012,Payment Retry,2026-01-24 20:00:00,South,Website
+ORD10012,Order Packed,2026-01-30 03:00:00,South,Website
+ORD10012,Order Shipped,2026-02-07 09:00:00,South,Website
+ORD10012,Order Delivered,2026-02-11 12:00:00,South,Website
+ORD10013,Order Created,2026-04-22 06:00:00,South,Website
+ORD10013,Payment Approved,2026-04-29 11:00:00,South,Website
+ORD10013,Inventory Checked,2026-05-13 12:00:00,South,Website
+ORD10013,Order Packed,2026-05-24 15:00:00,South,Website
+ORD10013,Order Shipped,2026-05-26 18:00:00,South,Website
+ORD10013,Order Delivered,2026-05-27 21:00:00,South,Website
+ORD10014,Order Created,2026-04-19 08:00:00,West,Website
+ORD10014,Payment Approved,2026-04-24 08:00:00,West,Website
+ORD10014,Inventory Checked,2026-05-09 09:00:00,West,Website
+ORD10014,Order Packed,2026-05-17 12:00:00,West,Website
+ORD10014,Order Shipped,2026-05-19 14:00:00,West,Website
+ORD10014,Order Delivered,2026-05-20 20:00:00,West,Website
+ORD10015,Order Created,2026-02-25 06:00:00,West,Mobile App
+ORD10015,Payment Approved,2026-02-26 14:00:00,West,Mobile App
+ORD10015,Inventory Checked,2026-03-04 21:00:00,West,Mobile App
+ORD10015,Order Packed,2026-03-09 23:00:00,West,Mobile App
+ORD10015,Order Shipped,2026-03-18 02:00:00,West,Mobile App
+ORD10015,Order Delivered,2026-03-23 06:00:00,West,Mobile App
+ORD10016,Order Created,2026-05-29 08:00:00,North,Website
+ORD10016,Payment Approved,2026-06-10 09:00:00,North,Website
+ORD10016,Inventory Checked,2026-06-21 11:00:00,North,Website
+ORD10016,Inventory Recheck,2026-07-01 12:00:00,North,Website
+ORD10016,Order Packed,2026-07-10 13:00:00,North,Website
+ORD10016,Order Shipped,2026-07-13 16:00:00,North,Website
+ORD10016,Order Delivered,2026-07-14 22:00:00,North,Website
+ORD10017,Order Created,2026-03-05 03:00:00,South,Marketplace
+ORD10017,Payment Approved,2026-03-15 08:00:00,South,Marketplace
+ORD10017,Inventory Checked,2026-03-18 11:00:00,South,Marketplace
+ORD10017,Order Packed,2026-03-27 15:00:00,South,Marketplace
+ORD10017,Order Shipped,2026-04-02 21:00:00,South,Marketplace
+ORD10017,Order Delivered,2026-04-07 23:00:00,South,Marketplace
+ORD10018,Order Created,2026-03-22 03:00:00,East,Mobile App
+ORD10018,Payment Approved,2026-03-23 11:00:00,East,Mobile App
+ORD10018,Inventory Checked,2026-04-07 15:00:00,East,Mobile App
+ORD10018,Order Packed,2026-04-09 17:00:00,East,Mobile App
+ORD10018,Order Shipped,2026-04-11 22:00:00,East,Mobile App
+ORD10018,Order Delivered,2026-04-20 23:00:00,East,Mobile App
+ORD10019,Order Created,2026-03-14 08:00:00,North,Mobile App
+ORD10019,Payment Approved,2026-03-22 12:00:00,North,Mobile App
+ORD10019,Inventory Checked,2026-04-09 13:00:00,North,Mobile App
+ORD10019,Order Packed,2026-04-20 15:00:00,North,Mobile App
+ORD10019,Order Shipped,2026-04-21 19:00:00,North,Mobile App
+ORD10019,Order Delivered,2026-05-02 20:00:00,North,Mobile App
+ORD10020,Order Created,2026-05-22 07:00:00,South,Marketplace
+ORD10020,Payment Approved,2026-05-27 11:00:00,South,Marketplace
+ORD10020,Inventory Checked,2026-06-06 11:00:00,South,Marketplace
+ORD10020,Order Packed,2026-06-10 12:00:00,South,Marketplace
+ORD10020,Order Shipped,2026-06-15 18:00:00,South,Marketplace
+ORD10020,Order Delivered,2026-06-24 22:00:00,South,Marketplace
+ORD10021,Order Created,2026-03-27 00:00:00,South,Website
+ORD10021,Payment Approved,2026-04-07 01:00:00,South,Website
+ORD10021,Inventory Checked,2026-04-16 02:00:00,South,Website
+ORD10021,Order Packed,2026-04-28 04:00:00,South,Website
+ORD10021,Order Shipped,2026-05-05 12:00:00,South,Website
+ORD10021,Order Delivered,2026-05-14 12:00:00,South,Website
+ORD10022,Order Created,2026-05-22 03:00:00,East,Marketplace
+ORD10022,Payment Approved,2026-05-29 04:00:00,East,Marketplace
+ORD10022,Inventory Checked,2026-06-03 09:00:00,East,Marketplace
+ORD10022,Inventory Recheck,2026-06-09 17:00:00,East,Marketplace
+ORD10022,Order Packed,2026-06-10 23:00:00,East,Marketplace
+ORD10022,Order Shipped,2026-06-17 01:00:00,East,Marketplace
+ORD10022,Order Delivered,2026-06-21 04:00:00,East,Marketplace
+ORD10023,Order Created,2026-04-16 02:00:00,North,Website
+ORD10023,Payment Approved,2026-04-19 03:00:00,North,Website
+ORD10023,Inventory Checked,2026-04-30 09:00:00,North,Website
+ORD10023,Order Packed,2026-05-11 09:00:00,North,Website
+ORD10023,Order Shipped,2026-05-15 16:00:00,North,Website
+ORD10023,Order Delivered,2026-05-20 19:00:00,North,Website
+ORD10024,Order Created,2026-04-01 04:00:00,North,Mobile App
+ORD10024,Payment Approved,2026-04-05 09:00:00,North,Mobile App
+ORD10024,Inventory Checked,2026-04-13 17:00:00,North,Mobile App
+ORD10024,Inventory Recheck,2026-04-17 23:00:00,North,Mobile App
+ORD10024,Order Packed,2026-04-23 07:00:00,North,Mobile App
+ORD10024,Order Shipped,2026-04-25 12:00:00,North,Mobile App
+ORD10024,Order Delivered,2026-05-08 12:00:00,North,Mobile App
+ORD10025,Order Created,2026-02-16 08:00:00,South,Mobile App
+ORD10025,Payment Approved,2026-02-17 09:00:00,South,Mobile App
+ORD10025,Inventory Checked,2026-02-21 15:00:00,South,Mobile App
+ORD10025,Order Packed,2026-02-27 18:00:00,South,Mobile App
+ORD10025,Order Shipped,2026-03-06 22:00:00,South,Mobile App
+ORD10025,Order Delivered,2026-03-16 22:00:00,South,Mobile App
+ORD10026,Order Created,2026-05-14 04:00:00,West,Website
+ORD10026,Payment Approved,2026-05-20 12:00:00,West,Website
+ORD10026,Inventory Checked,2026-06-03 16:00:00,West,Website
+ORD10026,Inventory Recheck,2026-06-09 22:00:00,West,Website
+ORD10026,Order Packed,2026-06-21 03:00:00,West,Website
+ORD10026,Order Shipped,2026-06-23 09:00:00,West,Website
+ORD10026,Order Delivered,2026-07-05 13:00:00,West,Website
+ORD10027,Order Created,2026-04-19 04:00:00,North,Website
+ORD10027,Payment Approved,2026-04-30 07:00:00,North,Website
+ORD10027,Inventory Checked,2026-05-06 13:00:00,North,Website
+ORD10027,Order Packed,2026-05-15 18:00:00,North,Website
+ORD10027,Order Shipped,2026-05-17 01:00:00,North,Website
+ORD10027,Order Delivered,2026-05-22 08:00:00,North,Website
+ORD10028,Order Created,2026-02-25 03:00:00,West,Marketplace
+ORD10028,Payment Approved,2026-03-09 07:00:00,West,Marketplace
+ORD10028,Inventory Checked,2026-03-15 10:00:00,West,Marketplace
+ORD10028,Order Packed,2026-03-26 13:00:00,West,Marketplace
+ORD10028,Order Shipped,2026-04-01 15:00:00,West,Marketplace
+ORD10028,Order Delivered,2026-04-03 15:00:00,West,Marketplace
+ORD10029,Order Created,2026-05-02 06:00:00,South,Website
+ORD10029,Payment Approved,2026-05-10 09:00:00,South,Website
+ORD10029,Inventory Checked,2026-05-24 11:00:00,South,Website
+ORD10029,Order Packed,2026-06-05 11:00:00,South,Website
+ORD10029,Order Shipped,2026-06-12 12:00:00,South,Website
+ORD10029,Order Delivered,2026-06-20 18:00:00,South,Website
+ORD10030,Order Created,2026-05-14 07:00:00,North,Website
+ORD10030,Payment Approved,2026-05-15 15:00:00,North,Website
+ORD10030,Inventory Checked,2026-06-02 23:00:00,North,Website
+ORD10030,Order Packed,2026-06-11 04:00:00,North,Website
+ORD10030,Order Shipped,2026-06-14 11:00:00,North,Website
+ORD10030,Order Delivered,2026-06-27 19:00:00,North,Website
+ORD10031,Order Created,2026-04-25 08:00:00,West,Marketplace
+ORD10031,Payment Approved,2026-05-07 15:00:00,West,Marketplace
+ORD10031,Inventory Checked,2026-05-23 18:00:00,West,Marketplace
+ORD10031,Order Packed,2026-06-03 22:00:00,West,Marketplace
+ORD10031,Order Shipped,2026-06-09 05:00:00,West,Marketplace
+ORD10031,Order Delivered,2026-06-22 06:00:00,West,Marketplace
+ORD10032,Order Created,2026-03-12 03:00:00,East,Website
+ORD10032,Payment Approved,2026-03-18 04:00:00,East,Website
+ORD10032,Inventory Checked,2026-04-05 10:00:00,East,Website
+ORD10032,Inventory Recheck,2026-04-08 16:00:00,East,Website
+ORD10032,Order Packed,2026-04-20 21:00:00,East,Website
+ORD10032,Order Shipped,2026-04-24 05:00:00,East,Website
+ORD10032,Order Delivered,2026-05-06 12:00:00,East,Website
+ORD10033,Order Created,2026-02-23 05:00:00,West,Website
+ORD10033,Payment Approved,2026-03-02 09:00:00,West,Website
+ORD10033,Inventory Checked,2026-03-03 15:00:00,West,Website
+ORD10033,Order Packed,2026-03-10 21:00:00,West,Website
+ORD10033,Order Shipped,2026-03-19 05:00:00,West,Website
+ORD10033,Order Delivered,2026-03-20 13:00:00,West,Website
+ORD10034,Order Created,2026-02-27 07:00:00,North,Mobile App
+ORD10034,Payment Approved,2026-03-06 09:00:00,North,Mobile App
+ORD10034,Inventory Checked,2026-03-22 17:00:00,North,Mobile App
+ORD10034,Inventory Recheck,2026-03-28 17:00:00,North,Mobile App
+ORD10034,Order Packed,2026-04-04 23:00:00,North,Mobile App
+ORD10034,Order Shipped,2026-04-07 23:00:00,North,Mobile App
+ORD10034,Order Delivered,2026-04-22 00:00:00,North,Mobile App
+ORD10035,Order Created,2026-04-29 06:00:00,West,Website
+ORD10035,Payment Approved,2026-04-30 10:00:00,West,Website
+ORD10035,Inventory Checked,2026-05-09 16:00:00,West,Website
+ORD10035,Order Packed,2026-05-15 20:00:00,West,Website
+ORD10035,Order Shipped,2026-05-21 21:00:00,West,Website
+ORD10035,Order Delivered,2026-06-04 04:00:00,West,Website
+ORD10036,Order Created,2026-05-19 00:00:00,South,Marketplace
+ORD10036,Payment Approved,2026-05-25 03:00:00,South,Marketplace
+ORD10036,Inventory Checked,2026-06-02 06:00:00,South,Marketplace
+ORD10036,Order Packed,2026-06-13 06:00:00,South,Marketplace
+ORD10036,Order Shipped,2026-06-14 08:00:00,South,Marketplace
+ORD10036,Order Delivered,2026-06-27 11:00:00,South,Marketplace
+ORD10037,Order Created,2026-01-30 02:00:00,North,Mobile App
+ORD10037,Payment Approved,2026-02-07 06:00:00,North,Mobile App
+ORD10037,Inventory Checked,2026-02-16 07:00:00,North,Mobile App
+ORD10037,Order Packed,2026-02-26 07:00:00,North,Mobile App
+ORD10037,Order Shipped,2026-02-28 11:00:00,North,Mobile App
+ORD10037,Order Delivered,2026-03-13 17:00:00,North,Mobile App
+ORD10038,Order Created,2026-02-20 00:00:00,West,Marketplace
+ORD10038,Payment Approved,2026-03-02 05:00:00,West,Marketplace
+ORD10038,Inventory Checked,2026-03-10 13:00:00,West,Marketplace
+ORD10038,Inventory Recheck,2026-03-15 19:00:00,West,Marketplace
+ORD10038,Order Packed,2026-03-26 00:00:00,West,Marketplace
+ORD10038,Order Shipped,2026-03-28 01:00:00,West,Marketplace
+ORD10038,Order Delivered,2026-04-10 09:00:00,West,Marketplace
+ORD10039,Order Created,2026-04-19 02:00:00,East,Website
+ORD10039,Payment Approved,2026-04-21 10:00:00,East,Website
+ORD10039,Inventory Checked,2026-05-05 14:00:00,East,Website
+ORD10039,Order Packed,2026-05-13 22:00:00,East,Website
+ORD10039,Order Shipped,2026-05-17 05:00:00,East,Website
+ORD10039,Order Delivered,2026-05-24 12:00:00,East,Website
+ORD10040,Order Created,2026-03-11 00:00:00,West,Marketplace
+ORD10040,Payment Approved,2026-03-15 07:00:00,West,Marketplace
+ORD10040,Inventory Checked,2026-03-18 12:00:00,West,Marketplace
+ORD10040,Order Packed,2026-03-26 14:00:00,West,Marketplace
+ORD10040,Order Shipped,2026-04-02 21:00:00,West,Marketplace
+ORD10040,Order Delivered,2026-04-09 00:00:00,West,Marketplace
+ORD10041,Order Created,2026-03-30 06:00:00,East,Mobile App
+ORD10041,Payment Approved,2026-04-09 13:00:00,East,Mobile App
+ORD10041,Inventory Checked,2026-04-18 21:00:00,East,Mobile App
+ORD10041,Order Packed,2026-04-23 00:00:00,East,Mobile App
+ORD10041,Order Shipped,2026-04-25 07:00:00,East,Mobile App
+ORD10041,Order Delivered,2026-04-29 14:00:00,East,Mobile App
+ORD10042,Order Created,2026-01-25 08:00:00,West,Website
+ORD10042,Payment Approved,2026-01-29 16:00:00,West,Website
+ORD10042,Inventory Checked,2026-02-11 21:00:00,West,Website
+ORD10042,Order Packed,2026-02-22 03:00:00,West,Website
+ORD10042,Order Shipped,2026-02-28 11:00:00,West,Website
+ORD10042,Order Delivered,2026-03-08 16:00:00,West,Website
+ORD10043,Order Created,2026-04-28 08:00:00,East,Marketplace
+ORD10043,Payment Approved,2026-05-03 10:00:00,East,Marketplace
+ORD10043,Inventory Checked,2026-05-12 13:00:00,East,Marketplace
+ORD10043,Order Packed,2026-05-18 16:00:00,East,Marketplace
+ORD10043,Order Shipped,2026-05-20 23:00:00,East,Marketplace
+ORD10043,Order Delivered,2026-06-02 03:00:00,East,Marketplace
+ORD10044,Order Created,2026-02-20 08:00:00,East,Website
+ORD10044,Payment Approved,2026-02-24 12:00:00,East,Website
+ORD10044,Inventory Checked,2026-03-08 14:00:00,East,Website
+ORD10044,Payment Retry,2026-03-11 21:00:00,East,Website
+ORD10044,Order Packed,2026-03-16 22:00:00,East,Website
+ORD10044,Order Shipped,2026-03-17 22:00:00,East,Website
+ORD10044,Order Delivered,2026-03-19 02:00:00,East,Website
+ORD10045,Order Created,2026-04-24 07:00:00,West,Mobile App
+ORD10045,Payment Approved,2026-04-27 08:00:00,West,Mobile App
+ORD10045,Inventory Checked,2026-04-29 08:00:00,West,Mobile App
+ORD10045,Order Packed,2026-05-01 10:00:00,West,Mobile App
+ORD10045,Order Shipped,2026-05-03 12:00:00,West,Mobile App
+ORD10045,Order Delivered,2026-05-10 16:00:00,West,Mobile App
+ORD10046,Order Created,2026-02-01 06:00:00,South,Website
+ORD10046,Payment Approved,2026-02-11 10:00:00,South,Website
+ORD10046,Inventory Checked,2026-02-19 10:00:00,South,Website
+ORD10046,Order Packed,2026-02-27 11:00:00,South,Website
+ORD10046,Order Shipped,2026-03-04 14:00:00,South,Website
+ORD10046,Order Delivered,2026-03-18 17:00:00,South,Website
+ORD10047,Order Created,2026-01-21 07:00:00,East,Marketplace
+ORD10047,Payment Approved,2026-01-25 11:00:00,East,Marketplace
+ORD10047,Inventory Checked,2026-01-31 11:00:00,East,Marketplace
+ORD10047,Order Packed,2026-02-07 14:00:00,East,Marketplace
+ORD10047,Order Shipped,2026-02-15 18:00:00,East,Marketplace
+ORD10047,Order Delivered,2026-02-27 22:00:00,East,Marketplace
+ORD10048,Order Created,2026-03-02 02:00:00,West,Website
+ORD10048,Payment Approved,2026-03-13 03:00:00,West,Website
+ORD10048,Inventory Checked,2026-03-20 03:00:00,West,Website
+ORD10048,Order Packed,2026-03-31 05:00:00,West,Website
+ORD10048,Order Shipped,2026-04-03 09:00:00,West,Website
+ORD10048,Order Delivered,2026-04-08 13:00:00,West,Website
+ORD10049,Order Created,2026-05-01 00:00:00,West,Website
+ORD10049,Payment Approved,2026-05-13 06:00:00,West,Website
+ORD10049,Inventory Checked,2026-05-26 11:00:00,West,Website
+ORD10049,Order Packed,2026-06-03 15:00:00,West,Website
+ORD10049,Order Shipped,2026-06-11 15:00:00,West,Website
+ORD10049,Order Delivered,2026-06-13 16:00:00,West,Website
+ORD10050,Order Created,2026-05-28 07:00:00,North,Marketplace
+ORD10050,Payment Approved,2026-06-08 11:00:00,North,Marketplace
+ORD10050,Inventory Checked,2026-06-17 13:00:00,North,Marketplace
+ORD10050,Order Packed,2026-06-20 19:00:00,North,Marketplace
+ORD10050,Order Shipped,2026-06-29 02:00:00,North,Marketplace
+ORD10050,Order Delivered,2026-07-08 03:00:00,North,Marketplace
+ORD10051,Order Created,2026-04-16 06:00:00,West,Mobile App
+ORD10051,Payment Approved,2026-04-22 14:00:00,West,Mobile App
+ORD10051,Inventory Checked,2026-04-26 14:00:00,West,Mobile App
+ORD10051,Order Packed,2026-05-08 21:00:00,West,Mobile App
+ORD10051,Order Shipped,2026-05-16 22:00:00,West,Mobile App
+ORD10051,Order Delivered,2026-05-22 03:00:00,West,Mobile App
+ORD10052,Order Created,2026-01-31 08:00:00,East,Mobile App
+ORD10052,Payment Approved,2026-02-09 13:00:00,East,Mobile App
+ORD10052,Inventory Checked,2026-02-10 20:00:00,East,Mobile App
+ORD10052,Order Packed,2026-02-18 03:00:00,East,Mobile App
+ORD10052,Order Shipped,2026-02-19 03:00:00,East,Mobile App
+ORD10052,Order Delivered,2026-02-23 06:00:00,East,Mobile App
+ORD10053,Order Created,2026-02-04 08:00:00,East,Marketplace
+ORD10053,Payment Approved,2026-02-12 08:00:00,East,Marketplace
+ORD10053,Inventory Checked,2026-02-28 16:00:00,East,Marketplace
+ORD10053,Inventory Recheck,2026-03-10 22:00:00,East,Marketplace
+ORD10053,Order Packed,2026-03-22 23:00:00,East,Marketplace
+ORD10053,Order Shipped,2026-03-26 02:00:00,East,Marketplace
+ORD10053,Order Delivered,2026-03-31 03:00:00,East,Marketplace
+ORD10054,Order Created,2026-02-10 07:00:00,West,Website
+ORD10054,Payment Approved,2026-02-22 15:00:00,West,Website
+ORD10054,Inventory Checked,2026-03-04 17:00:00,West,Website
+ORD10054,Order Packed,2026-03-12 23:00:00,West,Website
+ORD10054,Order Shipped,2026-03-21 02:00:00,West,Website
+ORD10054,Order Delivered,2026-03-25 10:00:00,West,Website
+ORD10055,Order Created,2026-03-13 02:00:00,North,Website
+ORD10055,Payment Approved,2026-03-19 09:00:00,North,Website
+ORD10055,Inventory Checked,2026-04-05 17:00:00,North,Website
+ORD10055,Payment Retry,2026-04-11 00:00:00,North,Website
+ORD10055,Order Packed,2026-04-21 05:00:00,North,Website
+ORD10055,Order Shipped,2026-04-29 10:00:00,North,Website
+ORD10055,Order Delivered,2026-05-13 18:00:00,North,Website
+ORD10056,Order Created,2026-03-24 07:00:00,West,Mobile App
+ORD10056,Payment Approved,2026-04-05 13:00:00,West,Mobile App
+ORD10056,Inventory Checked,2026-04-13 19:00:00,West,Mobile App
+ORD10056,Order Packed,2026-04-20 21:00:00,West,Mobile App
+ORD10056,Order Shipped,2026-04-22 04:00:00,West,Mobile App
+ORD10056,Order Delivered,2026-04-28 04:00:00,West,Mobile App
+ORD10057,Order Created,2026-03-26 02:00:00,North,Marketplace
+ORD10057,Payment Approved,2026-04-03 03:00:00,North,Marketplace
+ORD10057,Inventory Checked,2026-04-07 10:00:00,North,Marketplace
+ORD10057,Order Packed,2026-04-19 14:00:00,North,Marketplace
+ORD10057,Order Shipped,2026-04-22 19:00:00,North,Marketplace
+ORD10057,Order Delivered,2026-04-30 01:00:00,North,Marketplace
+ORD10058,Order Created,2026-05-18 01:00:00,South,Mobile App
+ORD10058,Payment Approved,2026-05-24 07:00:00,South,Mobile App
+ORD10058,Inventory Checked,2026-06-09 08:00:00,South,Mobile App
+ORD10058,Payment Retry,2026-06-11 09:00:00,South,Mobile App
+ORD10058,Order Packed,2026-06-15 16:00:00,South,Mobile App
+ORD10058,Order Shipped,2026-06-20 18:00:00,South,Mobile App
+ORD10058,Order Delivered,2026-06-24 22:00:00,South,Mobile App
+ORD10059,Order Created,2026-03-25 02:00:00,South,Website
+ORD10059,Payment Approved,2026-03-30 04:00:00,South,Website
+ORD10059,Inventory Checked,2026-04-11 06:00:00,South,Website
+ORD10059,Order Packed,2026-04-20 07:00:00,South,Website
+ORD10059,Order Shipped,2026-04-27 13:00:00,South,Website
+ORD10059,Order Delivered,2026-05-07 16:00:00,South,Website
+ORD10060,Order Created,2026-02-06 08:00:00,West,Marketplace
+ORD10060,Payment Approved,2026-02-14 10:00:00,West,Marketplace
+ORD10060,Inventory Checked,2026-02-23 11:00:00,West,Marketplace
+ORD10060,Order Packed,2026-03-03 18:00:00,West,Marketplace
+ORD10060,Order Shipped,2026-03-08 23:00:00,West,Marketplace
+ORD10060,Order Delivered,2026-03-20 03:00:00,West,Marketplace
+ORD10061,Order Created,2026-03-07 05:00:00,West,Marketplace
+ORD10061,Payment Approved,2026-03-12 09:00:00,West,Marketplace
+ORD10061,Inventory Checked,2026-03-19 13:00:00,West,Marketplace
+ORD10061,Order Packed,2026-03-21 13:00:00,West,Marketplace
+ORD10061,Order Shipped,2026-03-25 19:00:00,West,Marketplace
+ORD10061,Order Delivered,2026-04-01 23:00:00,West,Marketplace
+ORD10062,Order Created,2026-01-14 04:00:00,South,Marketplace
+ORD10062,Payment Approved,2026-01-19 06:00:00,South,Marketplace
+ORD10062,Inventory Checked,2026-01-27 07:00:00,South,Marketplace
+ORD10062,Order Packed,2026-02-07 07:00:00,South,Marketplace
+ORD10062,Order Shipped,2026-02-11 11:00:00,South,Marketplace
+ORD10062,Order Delivered,2026-02-21 18:00:00,South,Marketplace
+ORD10063,Order Created,2026-04-04 08:00:00,South,Marketplace
+ORD10063,Payment Approved,2026-04-06 13:00:00,South,Marketplace
+ORD10063,Inventory Checked,2026-04-16 21:00:00,South,Marketplace
+ORD10063,Order Packed,2026-04-21 05:00:00,South,Marketplace
+ORD10063,Order Shipped,2026-04-24 09:00:00,South,Marketplace
+ORD10063,Order Delivered,2026-05-07 11:00:00,South,Marketplace
+ORD10064,Order Created,2026-03-18 08:00:00,East,Mobile App
+ORD10064,Payment Approved,2026-03-20 13:00:00,East,Mobile App
+ORD10064,Inventory Checked,2026-04-04 14:00:00,East,Mobile App
+ORD10064,Order Packed,2026-04-08 20:00:00,East,Mobile App
+ORD10064,Order Shipped,2026-04-15 20:00:00,East,Mobile App
+ORD10064,Order Delivered,2026-04-30 00:00:00,East,Mobile App
+ORD10065,Order Created,2026-04-06 00:00:00,South,Mobile App
+ORD10065,Payment Approved,2026-04-16 08:00:00,South,Mobile App
+ORD10065,Inventory Checked,2026-04-29 13:00:00,South,Mobile App
+ORD10065,Order Packed,2026-05-01 16:00:00,South,Mobile App
+ORD10065,Order Shipped,2026-05-05 17:00:00,South,Mobile App
+ORD10065,Order Delivered,2026-05-14 00:00:00,South,Mobile App
+ORD10066,Order Created,2026-04-15 03:00:00,East,Marketplace
+ORD10066,Payment Approved,2026-04-18 11:00:00,East,Marketplace
+ORD10066,Inventory Checked,2026-04-20 13:00:00,East,Marketplace
+ORD10066,Order Packed,2026-04-28 19:00:00,East,Marketplace
+ORD10066,Order Shipped,2026-05-01 02:00:00,East,Marketplace
+ORD10066,Order Delivered,2026-05-03 07:00:00,East,Marketplace
+ORD10067,Order Created,2026-02-10 05:00:00,West,Marketplace
+ORD10067,Payment Approved,2026-02-21 08:00:00,West,Marketplace
+ORD10067,Inventory Checked,2026-02-25 15:00:00,West,Marketplace
+ORD10067,Order Packed,2026-03-02 22:00:00,West,Marketplace
+ORD10067,Order Shipped,2026-03-04 01:00:00,West,Marketplace
+ORD10067,Order Delivered,2026-03-16 06:00:00,West,Marketplace
+ORD10068,Order Created,2026-04-06 03:00:00,South,Marketplace
+ORD10068,Payment Approved,2026-04-07 03:00:00,South,Marketplace
+ORD10068,Inventory Checked,2026-04-20 03:00:00,South,Marketplace
+ORD10068,Order Packed,2026-04-28 08:00:00,South,Marketplace
+ORD10068,Order Shipped,2026-04-30 11:00:00,South,Marketplace
+ORD10068,Order Delivered,2026-05-11 13:00:00,South,Marketplace
+ORD10069,Order Created,2026-05-22 02:00:00,North,Website
+ORD10069,Payment Approved,2026-06-01 04:00:00,North,Website
+ORD10069,Inventory Checked,2026-06-08 12:00:00,North,Website
+ORD10069,Order Packed,2026-06-11 16:00:00,North,Website
+ORD10069,Order Shipped,2026-06-12 18:00:00,North,Website
+ORD10069,Order Delivered,2026-06-17 19:00:00,North,Website
+ORD10070,Order Created,2026-01-05 01:00:00,South,Website
+ORD10070,Payment Approved,2026-01-09 08:00:00,South,Website
+ORD10070,Inventory Checked,2026-01-20 15:00:00,South,Website
+ORD10070,Inventory Recheck,2026-01-25 20:00:00,South,Website
+ORD10070,Payment Retry,2026-02-02 04:00:00,South,Website
+ORD10070,Order Packed,2026-02-11 05:00:00,South,Website
+ORD10070,Order Shipped,2026-02-13 12:00:00,South,Website
+ORD10070,Order Delivered,2026-02-25 20:00:00,South,Website
+ORD10071,Order Created,2026-01-13 07:00:00,North,Marketplace
+ORD10071,Payment Approved,2026-01-21 08:00:00,North,Marketplace
+ORD10071,Inventory Checked,2026-01-22 09:00:00,North,Marketplace
+ORD10071,Inventory Recheck,2026-01-30 14:00:00,North,Marketplace
+ORD10071,Order Packed,2026-02-06 16:00:00,North,Marketplace
+ORD10071,Order Shipped,2026-02-08 17:00:00,North,Marketplace
+ORD10071,Order Delivered,2026-02-16 19:00:00,North,Marketplace
+ORD10072,Order Created,2026-05-31 01:00:00,East,Marketplace
+ORD10072,Payment Approved,2026-06-07 09:00:00,East,Marketplace
+ORD10072,Inventory Checked,2026-06-24 12:00:00,East,Marketplace
+ORD10072,Order Packed,2026-07-01 18:00:00,East,Marketplace
+ORD10072,Order Shipped,2026-07-04 01:00:00,East,Marketplace
+ORD10072,Order Delivered,2026-07-17 04:00:00,East,Marketplace
+ORD10073,Order Created,2026-04-28 07:00:00,West,Mobile App
+ORD10073,Payment Approved,2026-05-05 08:00:00,West,Mobile App
+ORD10073,Inventory Checked,2026-05-09 09:00:00,West,Mobile App
+ORD10073,Order Packed,2026-05-14 10:00:00,West,Mobile App
+ORD10073,Order Shipped,2026-05-20 11:00:00,West,Mobile App
+ORD10073,Order Delivered,2026-05-23 17:00:00,West,Mobile App
+ORD10074,Order Created,2026-04-06 05:00:00,South,Marketplace
+ORD10074,Payment Approved,2026-04-15 11:00:00,South,Marketplace
+ORD10074,Inventory Checked,2026-04-17 11:00:00,South,Marketplace
+ORD10074,Order Packed,2026-04-23 15:00:00,South,Marketplace
+ORD10074,Order Shipped,2026-04-25 19:00:00,South,Marketplace
+ORD10074,Order Delivered,2026-05-03 00:00:00,South,Marketplace
+ORD10075,Order Created,2026-05-10 04:00:00,South,Marketplace
+ORD10075,Payment Approved,2026-05-13 07:00:00,South,Marketplace
+ORD10075,Inventory Checked,2026-05-29 13:00:00,South,Marketplace
+ORD10075,Order Packed,2026-06-07 21:00:00,South,Marketplace
+ORD10075,Order Shipped,2026-06-14 05:00:00,South,Marketplace
+ORD10075,Order Delivered,2026-06-16 05:00:00,South,Marketplace
+ORD10076,Order Created,2026-02-17 06:00:00,East,Website
+ORD10076,Payment Approved,2026-03-01 07:00:00,East,Website
+ORD10076,Inventory Checked,2026-03-11 09:00:00,East,Website
+ORD10076,Order Packed,2026-03-14 09:00:00,East,Website
+ORD10076,Order Shipped,2026-03-17 10:00:00,East,Website
+ORD10076,Order Delivered,2026-03-27 18:00:00,East,Website
+ORD10077,Order Created,2026-04-19 02:00:00,North,Mobile App
+ORD10077,Payment Approved,2026-04-25 04:00:00,North,Mobile App
+ORD10077,Inventory Checked,2026-05-01 04:00:00,North,Mobile App
+ORD10077,Order Packed,2026-05-11 05:00:00,North,Mobile App
+ORD10077,Order Shipped,2026-05-13 09:00:00,North,Mobile App
+ORD10077,Order Delivered,2026-05-14 16:00:00,North,Mobile App
+ORD10078,Order Created,2026-04-25 07:00:00,West,Mobile App
+ORD10078,Payment Approved,2026-04-30 15:00:00,West,Mobile App
+ORD10078,Inventory Checked,2026-05-07 19:00:00,West,Mobile App
+ORD10078,Order Packed,2026-05-14 19:00:00,West,Mobile App
+ORD10078,Order Shipped,2026-05-16 22:00:00,West,Mobile App
+ORD10078,Order Delivered,2026-05-22 04:00:00,West,Mobile App
+ORD10079,Order Created,2026-02-23 06:00:00,South,Website
+ORD10079,Payment Approved,2026-02-27 08:00:00,South,Website
+ORD10079,Inventory Checked,2026-03-04 10:00:00,South,Website
+ORD10079,Order Packed,2026-03-06 16:00:00,South,Website
+ORD10079,Order Shipped,2026-03-08 00:00:00,South,Website
+ORD10079,Order Delivered,2026-03-16 03:00:00,South,Website
+ORD10080,Order Created,2026-04-12 06:00:00,East,Website
+ORD10080,Payment Approved,2026-04-19 12:00:00,East,Website
+ORD10080,Inventory Checked,2026-04-20 16:00:00,East,Website
+ORD10080,Payment Retry,2026-04-26 17:00:00,East,Website
+ORD10080,Order Packed,2026-05-06 23:00:00,East,Website
+ORD10080,Order Shipped,2026-05-13 23:00:00,East,Website
+ORD10080,Order Delivered,2026-05-24 04:00:00,East,Website
+ORD10081,Order Created,2026-04-29 01:00:00,North,Marketplace
+ORD10081,Payment Approved,2026-05-01 07:00:00,North,Marketplace
+ORD10081,Inventory Checked,2026-05-15 11:00:00,North,Marketplace
+ORD10081,Order Packed,2026-05-25 16:00:00,North,Marketplace
+ORD10081,Order Shipped,2026-06-01 19:00:00,North,Marketplace
+ORD10081,Order Delivered,2026-06-11 00:00:00,North,Marketplace
+ORD10082,Order Created,2026-05-11 01:00:00,North,Website
+ORD10082,Payment Approved,2026-05-20 03:00:00,North,Website
+ORD10082,Inventory Checked,2026-06-06 07:00:00,North,Website
+ORD10082,Order Packed,2026-06-12 10:00:00,North,Website
+ORD10082,Order Shipped,2026-06-15 12:00:00,North,Website
+ORD10082,Order Delivered,2026-06-19 14:00:00,North,Website
+ORD10083,Order Created,2026-05-08 05:00:00,South,Website
+ORD10083,Payment Approved,2026-05-18 07:00:00,South,Website
+ORD10083,Inventory Checked,2026-06-02 14:00:00,South,Website
+ORD10083,Order Packed,2026-06-13 15:00:00,South,Website
+ORD10083,Order Shipped,2026-06-19 22:00:00,South,Website
+ORD10083,Order Delivered,2026-07-04 05:00:00,South,Website
+ORD10084,Order Created,2026-01-16 04:00:00,East,Mobile App
+ORD10084,Payment Approved,2026-01-25 05:00:00,East,Mobile App
+ORD10084,Inventory Checked,2026-01-28 06:00:00,East,Mobile App
+ORD10084,Order Packed,2026-01-29 14:00:00,East,Mobile App
+ORD10084,Order Shipped,2026-02-04 20:00:00,East,Mobile App
+ORD10084,Order Delivered,2026-02-19 03:00:00,East,Mobile App
+ORD10085,Order Created,2026-05-27 05:00:00,South,Mobile App
+ORD10085,Payment Approved,2026-06-02 06:00:00,South,Mobile App
+ORD10085,Inventory Checked,2026-06-18 14:00:00,South,Mobile App
+ORD10085,Order Packed,2026-06-26 16:00:00,South,Mobile App
+ORD10085,Order Shipped,2026-06-28 16:00:00,South,Mobile App
+ORD10085,Order Delivered,2026-07-11 19:00:00,South,Mobile App
+ORD10086,Order Created,2026-05-15 05:00:00,West,Mobile App
+ORD10086,Payment Approved,2026-05-21 06:00:00,West,Mobile App
+ORD10086,Inventory Checked,2026-06-02 11:00:00,West,Mobile App
+ORD10086,Order Packed,2026-06-08 12:00:00,West,Mobile App
+ORD10086,Order Shipped,2026-06-09 20:00:00,West,Mobile App
+ORD10086,Order Delivered,2026-06-23 02:00:00,West,Mobile App
+ORD10087,Order Created,2026-02-09 01:00:00,East,Mobile App
+ORD10087,Payment Approved,2026-02-11 05:00:00,East,Mobile App
+ORD10087,Inventory Checked,2026-02-16 13:00:00,East,Mobile App
+ORD10087,Order Packed,2026-02-27 19:00:00,East,Mobile App
+ORD10087,Order Shipped,2026-03-07 00:00:00,East,Mobile App
+ORD10087,Order Delivered,2026-03-10 02:00:00,East,Mobile App
+ORD10088,Order Created,2026-04-20 03:00:00,South,Marketplace
+ORD10088,Payment Approved,2026-04-21 05:00:00,South,Marketplace
+ORD10088,Inventory Checked,2026-05-03 07:00:00,South,Marketplace
+ORD10088,Order Packed,2026-05-09 08:00:00,South,Marketplace
+ORD10088,Order Shipped,2026-05-17 12:00:00,South,Marketplace
+ORD10088,Order Delivered,2026-05-21 13:00:00,South,Marketplace
+ORD10089,Order Created,2026-03-28 07:00:00,South,Marketplace
+ORD10089,Payment Approved,2026-04-07 07:00:00,South,Marketplace
+ORD10089,Inventory Checked,2026-04-20 13:00:00,South,Marketplace
+ORD10089,Inventory Recheck,2026-04-23 18:00:00,South,Marketplace
+ORD10089,Order Packed,2026-05-03 21:00:00,South,Marketplace
+ORD10089,Order Shipped,2026-05-07 04:00:00,South,Marketplace
+ORD10089,Order Delivered,2026-05-19 08:00:00,South,Marketplace
+ORD10090,Order Created,2026-05-17 04:00:00,West,Website
+ORD10090,Payment Approved,2026-05-22 10:00:00,West,Website
+ORD10090,Inventory Checked,2026-06-07 18:00:00,West,Website
+ORD10090,Order Packed,2026-06-19 02:00:00,West,Website
+ORD10090,Order Shipped,2026-06-27 08:00:00,West,Website
+ORD10090,Order Delivered,2026-07-05 10:00:00,West,Website
+ORD10091,Order Created,2026-02-06 01:00:00,North,Marketplace
+ORD10091,Payment Approved,2026-02-07 03:00:00,North,Marketplace
+ORD10091,Inventory Checked,2026-02-23 07:00:00,North,Marketplace
+ORD10091,Order Packed,2026-02-25 14:00:00,North,Marketplace
+ORD10091,Order Shipped,2026-02-27 22:00:00,North,Marketplace
+ORD10091,Order Delivered,2026-03-05 00:00:00,North,Marketplace
+ORD10092,Order Created,2026-02-27 01:00:00,West,Website
+ORD10092,Payment Approved,2026-03-05 06:00:00,West,Website
+ORD10092,Inventory Checked,2026-03-06 09:00:00,West,Website
+ORD10092,Order Packed,2026-03-12 09:00:00,West,Website
+ORD10092,Order Shipped,2026-03-16 14:00:00,West,Website
+ORD10092,Order Delivered,2026-03-23 15:00:00,West,Website
+ORD10093,Order Created,2026-02-05 00:00:00,East,Website
+ORD10093,Payment Approved,2026-02-10 01:00:00,East,Website
+ORD10093,Inventory Checked,2026-02-26 01:00:00,East,Website
+ORD10093,Order Packed,2026-03-10 05:00:00,East,Website
+ORD10093,Order Shipped,2026-03-18 08:00:00,East,Website
+ORD10093,Order Delivered,2026-03-26 10:00:00,East,Website
+ORD10094,Order Created,2026-03-15 01:00:00,West,Website
+ORD10094,Payment Approved,2026-03-20 08:00:00,West,Website
+ORD10094,Inventory Checked,2026-03-24 16:00:00,West,Website
+ORD10094,Inventory Recheck,2026-03-31 16:00:00,West,Website
+ORD10094,Order Packed,2026-04-11 00:00:00,West,Website
+ORD10094,Order Shipped,2026-04-19 03:00:00,West,Website
+ORD10094,Order Delivered,2026-04-21 05:00:00,West,Website
+ORD10095,Order Created,2026-01-02 08:00:00,East,Mobile App
+ORD10095,Payment Approved,2026-01-06 16:00:00,East,Mobile App
+ORD10095,Inventory Checked,2026-01-21 00:00:00,East,Mobile App
+ORD10095,Order Packed,2026-01-30 08:00:00,East,Mobile App
+ORD10095,Order Shipped,2026-02-05 16:00:00,East,Mobile App
+ORD10095,Order Delivered,2026-02-07 16:00:00,East,Mobile App
+ORD10096,Order Created,2026-01-13 01:00:00,West,Mobile App
+ORD10096,Payment Approved,2026-01-19 06:00:00,West,Mobile App
+ORD10096,Inventory Checked,2026-01-28 08:00:00,West,Mobile App
+ORD10096,Order Packed,2026-01-30 08:00:00,West,Mobile App
+ORD10096,Order Shipped,2026-02-05 13:00:00,West,Mobile App
+ORD10096,Order Delivered,2026-02-09 21:00:00,West,Mobile App
+ORD10097,Order Created,2026-02-15 04:00:00,East,Marketplace
+ORD10097,Payment Approved,2026-02-27 07:00:00,East,Marketplace
+ORD10097,Inventory Checked,2026-03-15 07:00:00,East,Marketplace
+ORD10097,Order Packed,2026-03-17 10:00:00,East,Marketplace
+ORD10097,Order Shipped,2026-03-25 10:00:00,East,Marketplace
+ORD10097,Order Delivered,2026-03-26 15:00:00,East,Marketplace
+ORD10098,Order Created,2026-04-13 05:00:00,East,Marketplace
+ORD10098,Payment Approved,2026-04-18 09:00:00,East,Marketplace
+ORD10098,Inventory Checked,2026-04-20 10:00:00,East,Marketplace
+ORD10098,Order Packed,2026-04-26 15:00:00,East,Marketplace
+ORD10098,Order Shipped,2026-04-27 21:00:00,East,Marketplace
+ORD10098,Order Delivered,2026-05-12 03:00:00,East,Marketplace
+ORD10099,Order Created,2026-03-28 06:00:00,West,Mobile App
+ORD10099,Payment Approved,2026-04-05 07:00:00,West,Mobile App
+ORD10099,Inventory Checked,2026-04-21 13:00:00,West,Mobile App
+ORD10099,Order Packed,2026-04-26 15:00:00,West,Mobile App
+ORD10099,Order Shipped,2026-04-28 23:00:00,West,Mobile App
+ORD10099,Order Delivered,2026-05-11 03:00:00,West,Mobile App
+ORD10100,Order Created,2026-01-22 07:00:00,East,Website
+ORD10100,Payment Approved,2026-02-02 12:00:00,East,Website
+ORD10100,Inventory Checked,2026-02-12 19:00:00,East,Website
+ORD10100,Order Packed,2026-02-19 19:00:00,East,Website
+ORD10100,Order Shipped,2026-02-23 00:00:00,East,Website
+ORD10100,Order Delivered,2026-03-07 06:00:00,East,Website
+ORD10101,Order Created,2026-01-15 02:00:00,East,Marketplace
+ORD10101,Payment Approved,2026-01-26 09:00:00,East,Marketplace
+ORD10101,Inventory Checked,2026-02-08 09:00:00,East,Marketplace
+ORD10101,Order Packed,2026-02-19 11:00:00,East,Marketplace
+ORD10101,Order Shipped,2026-02-22 12:00:00,East,Marketplace
+ORD10101,Order Delivered,2026-02-23 15:00:00,East,Marketplace
+ORD10102,Order Created,2026-04-09 01:00:00,East,Mobile App
+ORD10102,Payment Approved,2026-04-19 03:00:00,East,Mobile App
+ORD10102,Inventory Checked,2026-04-24 11:00:00,East,Mobile App
+ORD10102,Order Packed,2026-04-30 16:00:00,East,Mobile App
+ORD10102,Order Shipped,2026-05-08 22:00:00,East,Mobile App
+ORD10102,Order Delivered,2026-05-22 03:00:00,East,Mobile App
+ORD10103,Order Created,2026-01-30 04:00:00,East,Website
+ORD10103,Payment Approved,2026-02-11 11:00:00,East,Website
+ORD10103,Inventory Checked,2026-02-17 14:00:00,East,Website
+ORD10103,Order Packed,2026-02-26 18:00:00,East,Website
+ORD10103,Order Shipped,2026-03-01 01:00:00,East,Website
+ORD10103,Order Delivered,2026-03-06 04:00:00,East,Website
+ORD10104,Order Created,2026-01-20 01:00:00,South,Website
+ORD10104,Payment Approved,2026-01-23 09:00:00,South,Website
+ORD10104,Inventory Checked,2026-02-07 17:00:00,South,Website
+ORD10104,Order Packed,2026-02-13 21:00:00,South,Website
+ORD10104,Order Shipped,2026-02-20 01:00:00,South,Website
+ORD10104,Order Delivered,2026-03-04 03:00:00,South,Website
+ORD10105,Order Created,2026-05-11 08:00:00,North,Mobile App
+ORD10105,Payment Approved,2026-05-13 13:00:00,North,Mobile App
+ORD10105,Inventory Checked,2026-05-20 20:00:00,North,Mobile App
+ORD10105,Order Packed,2026-05-29 04:00:00,North,Mobile App
+ORD10105,Order Shipped,2026-05-30 06:00:00,North,Mobile App
+ORD10105,Order Delivered,2026-06-05 07:00:00,North,Mobile App
+ORD10106,Order Created,2026-04-13 01:00:00,South,Mobile App
+ORD10106,Payment Approved,2026-04-22 08:00:00,South,Mobile App
+ORD10106,Inventory Checked,2026-05-06 15:00:00,South,Mobile App
+ORD10106,Order Packed,2026-05-08 23:00:00,South,Mobile App
+ORD10106,Order Shipped,2026-05-12 04:00:00,South,Mobile App
+ORD10106,Order Delivered,2026-05-18 06:00:00,South,Mobile App
+ORD10107,Order Created,2026-04-21 08:00:00,North,Website
+ORD10107,Payment Approved,2026-04-23 12:00:00,North,Website
+ORD10107,Inventory Checked,2026-05-10 13:00:00,North,Website
+ORD10107,Inventory Recheck,2026-05-13 17:00:00,North,Website
+ORD10107,Order Packed,2026-05-25 20:00:00,North,Website
+ORD10107,Order Shipped,2026-05-30 04:00:00,North,Website
+ORD10107,Order Delivered,2026-06-05 08:00:00,North,Website
+ORD10108,Order Created,2026-03-19 00:00:00,North,Marketplace
+ORD10108,Payment Approved,2026-03-28 00:00:00,North,Marketplace
+ORD10108,Inventory Checked,2026-04-03 01:00:00,North,Marketplace
+ORD10108,Order Packed,2026-04-06 01:00:00,North,Marketplace
+ORD10108,Order Shipped,2026-04-12 05:00:00,North,Marketplace
+ORD10108,Order Delivered,2026-04-26 08:00:00,North,Marketplace
+ORD10109,Order Created,2026-01-09 06:00:00,West,Marketplace
+ORD10109,Payment Approved,2026-01-20 10:00:00,West,Marketplace
+ORD10109,Inventory Checked,2026-02-07 17:00:00,West,Marketplace
+ORD10109,Order Packed,2026-02-15 18:00:00,West,Marketplace
+ORD10109,Order Shipped,2026-02-19 18:00:00,West,Marketplace
+ORD10109,Order Delivered,2026-03-04 20:00:00,West,Marketplace
+ORD10110,Order Created,2026-05-05 05:00:00,West,Mobile App
+ORD10110,Payment Approved,2026-05-09 11:00:00,West,Mobile App
+ORD10110,Inventory Checked,2026-05-20 13:00:00,West,Mobile App
+ORD10110,Order Packed,2026-06-01 18:00:00,West,Mobile App
+ORD10110,Order Shipped,2026-06-08 02:00:00,West,Mobile App
+ORD10110,Order Delivered,2026-06-20 10:00:00,West,Mobile App
+ORD10111,Order Created,2026-03-04 06:00:00,South,Mobile App
+ORD10111,Payment Approved,2026-03-06 09:00:00,South,Mobile App
+ORD10111,Inventory Checked,2026-03-15 11:00:00,South,Mobile App
+ORD10111,Order Packed,2026-03-16 16:00:00,South,Mobile App
+ORD10111,Order Shipped,2026-03-21 21:00:00,South,Mobile App
+ORD10111,Order Delivered,2026-03-29 00:00:00,South,Mobile App
+ORD10112,Order Created,2026-05-13 03:00:00,North,Mobile App
+ORD10112,Payment Approved,2026-05-21 08:00:00,North,Mobile App
+ORD10112,Inventory Checked,2026-05-31 08:00:00,North,Mobile App
+ORD10112,Payment Retry,2026-06-07 08:00:00,North,Mobile App
+ORD10112,Order Packed,2026-06-16 12:00:00,North,Mobile App
+ORD10112,Order Shipped,2026-06-24 19:00:00,North,Mobile App
+ORD10112,Order Delivered,2026-06-29 02:00:00,North,Mobile App
+ORD10113,Order Created,2026-01-03 06:00:00,East,Marketplace
+ORD10113,Payment Approved,2026-01-10 06:00:00,East,Marketplace
+ORD10113,Inventory Checked,2026-01-15 14:00:00,East,Marketplace
+ORD10113,Order Packed,2026-01-22 17:00:00,East,Marketplace
+ORD10113,Order Shipped,2026-01-28 22:00:00,East,Marketplace
+ORD10113,Order Delivered,2026-01-30 06:00:00,East,Marketplace
+ORD10114,Order Created,2026-04-10 01:00:00,East,Website
+ORD10114,Payment Approved,2026-04-19 07:00:00,East,Website
+ORD10114,Inventory Checked,2026-04-28 12:00:00,East,Website
+ORD10114,Order Packed,2026-05-08 17:00:00,East,Website
+ORD10114,Order Shipped,2026-05-11 01:00:00,East,Website
+ORD10114,Order Delivered,2026-05-14 06:00:00,East,Website
+ORD10115,Order Created,2026-05-12 08:00:00,North,Website
+ORD10115,Payment Approved,2026-05-21 10:00:00,North,Website
+ORD10115,Inventory Checked,2026-05-23 15:00:00,North,Website
+ORD10115,Inventory Recheck,2026-05-26 20:00:00,North,Website
+ORD10115,Order Packed,2026-06-03 22:00:00,North,Website
+ORD10115,Order Shipped,2026-06-12 04:00:00,North,Website
+ORD10115,Order Delivered,2026-06-15 08:00:00,North,Website
+ORD10116,Order Created,2026-05-12 04:00:00,East,Marketplace
+ORD10116,Payment Approved,2026-05-24 04:00:00,East,Marketplace
+ORD10116,Inventory Checked,2026-06-03 11:00:00,East,Marketplace
+ORD10116,Payment Retry,2026-06-09 15:00:00,East,Marketplace
+ORD10116,Order Packed,2026-06-20 18:00:00,East,Marketplace
+ORD10116,Order Shipped,2026-06-22 18:00:00,East,Marketplace
+ORD10116,Order Delivered,2026-06-30 01:00:00,East,Marketplace
+ORD10117,Order Created,2026-04-08 02:00:00,North,Marketplace
+ORD10117,Payment Approved,2026-04-19 08:00:00,North,Marketplace
+ORD10117,Inventory Checked,2026-04-27 11:00:00,North,Marketplace
+ORD10117,Inventory Recheck,2026-04-29 17:00:00,North,Marketplace
+ORD10117,Order Packed,2026-05-08 01:00:00,North,Marketplace
+ORD10117,Order Shipped,2026-05-14 08:00:00,North,Marketplace
+ORD10117,Order Delivered,2026-05-21 08:00:00,North,Marketplace
+ORD10118,Order Created,2026-02-24 05:00:00,North,Marketplace
+ORD10118,Payment Approved,2026-03-07 13:00:00,North,Marketplace
+ORD10118,Inventory Checked,2026-03-23 18:00:00,North,Marketplace
+ORD10118,Order Packed,2026-03-26 22:00:00,North,Marketplace
+ORD10118,Order Shipped,2026-04-04 05:00:00,North,Marketplace
+ORD10118,Order Delivered,2026-04-13 08:00:00,North,Marketplace
+ORD10119,Order Created,2026-05-24 07:00:00,North,Mobile App
+ORD10119,Payment Approved,2026-05-28 12:00:00,North,Mobile App
+ORD10119,Inventory Checked,2026-06-07 20:00:00,North,Mobile App
+ORD10119,Order Packed,2026-06-20 00:00:00,North,Mobile App
+ORD10119,Order Shipped,2026-06-28 04:00:00,North,Mobile App
+ORD10119,Order Delivered,2026-07-04 05:00:00,North,Mobile App
+ORD10120,Order Created,2026-03-30 04:00:00,West,Mobile App
+ORD10120,Payment Approved,2026-04-04 11:00:00,West,Mobile App
+ORD10120,Inventory Checked,2026-04-06 14:00:00,West,Mobile App
+ORD10120,Order Packed,2026-04-12 17:00:00,West,Mobile App
+ORD10120,Order Shipped,2026-04-21 01:00:00,West,Mobile App
+ORD10120,Order Delivered,2026-05-02 05:00:00,West,Mobile App
+ORD10121,Order Created,2026-01-28 01:00:00,East,Website
+ORD10121,Payment Approved,2026-02-01 07:00:00,East,Website
+ORD10121,Inventory Checked,2026-02-03 12:00:00,East,Website
+ORD10121,Order Packed,2026-02-14 19:00:00,East,Website
+ORD10121,Order Shipped,2026-02-18 20:00:00,East,Website
+ORD10121,Order Delivered,2026-02-19 22:00:00,East,Website
+ORD10122,Order Created,2026-02-11 00:00:00,South,Marketplace
+ORD10122,Payment Approved,2026-02-22 01:00:00,South,Marketplace
+ORD10122,Inventory Checked,2026-03-10 04:00:00,South,Marketplace
+ORD10122,Order Packed,2026-03-15 12:00:00,South,Marketplace
+ORD10122,Order Shipped,2026-03-21 12:00:00,South,Marketplace
+ORD10122,Order Delivered,2026-03-26 14:00:00,South,Marketplace
+ORD10123,Order Created,2026-01-11 04:00:00,West,Website
+ORD10123,Payment Approved,2026-01-19 05:00:00,West,Website
+ORD10123,Inventory Checked,2026-01-25 10:00:00,West,Website
+ORD10123,Order Packed,2026-01-30 14:00:00,West,Website
+ORD10123,Order Shipped,2026-01-31 21:00:00,West,Website
+ORD10123,Order Delivered,2026-02-02 05:00:00,West,Website
+ORD10124,Order Created,2026-05-11 04:00:00,West,Website
+ORD10124,Payment Approved,2026-05-16 06:00:00,West,Website
+ORD10124,Inventory Checked,2026-05-23 06:00:00,West,Website
+ORD10124,Order Packed,2026-06-04 11:00:00,West,Website
+ORD10124,Order Shipped,2026-06-12 15:00:00,West,Website
+ORD10124,Order Delivered,2026-06-23 18:00:00,West,Website
+ORD10125,Order Created,2026-04-15 03:00:00,North,Marketplace
+ORD10125,Payment Approved,2026-04-24 03:00:00,North,Marketplace
+ORD10125,Inventory Checked,2026-05-05 07:00:00,North,Marketplace
+ORD10125,Inventory Recheck,2026-05-07 13:00:00,North,Marketplace
+ORD10125,Order Packed,2026-05-10 16:00:00,North,Marketplace
+ORD10125,Order Shipped,2026-05-18 23:00:00,North,Marketplace
+ORD10125,Order Delivered,2026-05-25 03:00:00,North,Marketplace
+ORD10126,Order Created,2026-05-30 06:00:00,East,Mobile App
+ORD10126,Payment Approved,2026-06-04 14:00:00,East,Mobile App
+ORD10126,Inventory Checked,2026-06-16 18:00:00,East,Mobile App
+ORD10126,Payment Retry,2026-06-18 19:00:00,East,Mobile App
+ORD10126,Order Packed,2026-06-26 23:00:00,East,Mobile App
+ORD10126,Order Shipped,2026-07-02 04:00:00,East,Mobile App
+ORD10126,Order Delivered,2026-07-05 07:00:00,East,Mobile App
+ORD10127,Order Created,2026-05-03 03:00:00,North,Website
+ORD10127,Payment Approved,2026-05-11 04:00:00,North,Website
+ORD10127,Inventory Checked,2026-05-23 12:00:00,North,Website
+ORD10127,Order Packed,2026-05-31 19:00:00,North,Website
+ORD10127,Order Shipped,2026-06-05 03:00:00,North,Website
+ORD10127,Order Delivered,2026-06-18 08:00:00,North,Website
+ORD10128,Order Created,2026-01-29 08:00:00,South,Marketplace
+ORD10128,Payment Approved,2026-02-07 15:00:00,South,Marketplace
+ORD10128,Inventory Checked,2026-02-24 16:00:00,South,Marketplace
+ORD10128,Order Packed,2026-02-27 19:00:00,South,Marketplace
+ORD10128,Order Shipped,2026-03-06 02:00:00,South,Marketplace
+ORD10128,Order Delivered,2026-03-20 03:00:00,South,Marketplace
+ORD10129,Order Created,2026-04-27 00:00:00,West,Website
+ORD10129,Payment Approved,2026-05-06 06:00:00,West,Website
+ORD10129,Inventory Checked,2026-05-20 10:00:00,West,Website
+ORD10129,Payment Retry,2026-05-28 10:00:00,West,Website
+ORD10129,Order Packed,2026-06-08 13:00:00,West,Website
+ORD10129,Order Shipped,2026-06-13 14:00:00,West,Website
+ORD10129,Order Delivered,2026-06-25 14:00:00,West,Website
+ORD10130,Order Created,2026-01-17 06:00:00,West,Mobile App
+ORD10130,Payment Approved,2026-01-19 13:00:00,West,Mobile App
+ORD10130,Inventory Checked,2026-02-04 19:00:00,West,Mobile App
+ORD10130,Inventory Recheck,2026-02-12 01:00:00,West,Mobile App
+ORD10130,Order Packed,2026-02-15 02:00:00,West,Mobile App
+ORD10130,Order Shipped,2026-02-22 10:00:00,West,Mobile App
+ORD10130,Order Delivered,2026-02-28 12:00:00,West,Mobile App
+ORD10131,Order Created,2026-02-16 07:00:00,East,Website
+ORD10131,Payment Approved,2026-02-25 15:00:00,East,Website
+ORD10131,Inventory Checked,2026-03-02 21:00:00,East,Website
+ORD10131,Order Packed,2026-03-04 05:00:00,East,Website
+ORD10131,Order Shipped,2026-03-05 11:00:00,East,Website
+ORD10131,Order Delivered,2026-03-10 14:00:00,East,Website
+ORD10132,Order Created,2026-03-30 06:00:00,North,Mobile App
+ORD10132,Payment Approved,2026-04-04 06:00:00,North,Mobile App
+ORD10132,Inventory Checked,2026-04-11 09:00:00,North,Mobile App
+ORD10132,Order Packed,2026-04-13 12:00:00,North,Mobile App
+ORD10132,Order Shipped,2026-04-14 13:00:00,North,Mobile App
+ORD10132,Order Delivered,2026-04-27 14:00:00,North,Mobile App
+ORD10133,Order Created,2026-01-13 08:00:00,South,Mobile App
+ORD10133,Payment Approved,2026-01-25 12:00:00,South,Mobile App
+ORD10133,Inventory Checked,2026-01-27 15:00:00,South,Mobile App
+ORD10133,Order Packed,2026-01-31 20:00:00,South,Mobile App
+ORD10133,Order Shipped,2026-02-02 01:00:00,South,Mobile App
+ORD10133,Order Delivered,2026-02-05 04:00:00,South,Mobile App
+ORD10134,Order Created,2026-05-14 06:00:00,East,Website
+ORD10134,Payment Approved,2026-05-21 14:00:00,East,Website
+ORD10134,Inventory Checked,2026-05-31 21:00:00,East,Website
+ORD10134,Order Packed,2026-06-10 21:00:00,East,Website
+ORD10134,Order Shipped,2026-06-14 02:00:00,East,Website
+ORD10134,Order Delivered,2026-06-25 08:00:00,East,Website
+ORD10135,Order Created,2026-04-18 03:00:00,East,Marketplace
+ORD10135,Payment Approved,2026-04-21 07:00:00,East,Marketplace
+ORD10135,Inventory Checked,2026-05-01 09:00:00,East,Marketplace
+ORD10135,Order Packed,2026-05-09 16:00:00,East,Marketplace
+ORD10135,Order Shipped,2026-05-13 16:00:00,East,Marketplace
+ORD10135,Order Delivered,2026-05-28 00:00:00,East,Marketplace
+ORD10136,Order Created,2026-05-23 05:00:00,West,Mobile App
+ORD10136,Payment Approved,2026-05-30 06:00:00,West,Mobile App
+ORD10136,Inventory Checked,2026-06-07 14:00:00,West,Mobile App
+ORD10136,Order Packed,2026-06-09 17:00:00,West,Mobile App
+ORD10136,Order Shipped,2026-06-17 17:00:00,West,Mobile App
+ORD10136,Order Delivered,2026-07-01 21:00:00,West,Mobile App
+ORD10137,Order Created,2026-01-11 03:00:00,West,Marketplace
+ORD10137,Payment Approved,2026-01-15 06:00:00,West,Marketplace
+ORD10137,Inventory Checked,2026-02-02 07:00:00,West,Marketplace
+ORD10137,Order Packed,2026-02-08 14:00:00,West,Marketplace
+ORD10137,Order Shipped,2026-02-13 17:00:00,West,Marketplace
+ORD10137,Order Delivered,2026-02-14 20:00:00,West,Marketplace
+ORD10138,Order Created,2026-05-23 08:00:00,West,Website
+ORD10138,Payment Approved,2026-05-28 15:00:00,West,Website
+ORD10138,Inventory Checked,2026-06-10 22:00:00,West,Website
+ORD10138,Order Packed,2026-06-15 23:00:00,West,Website
+ORD10138,Order Shipped,2026-06-21 06:00:00,West,Website
+ORD10138,Order Delivered,2026-06-27 11:00:00,West,Website
+ORD10139,Order Created,2026-03-23 05:00:00,North,Mobile App
+ORD10139,Payment Approved,2026-03-24 08:00:00,North,Mobile App
+ORD10139,Inventory Checked,2026-04-01 14:00:00,North,Mobile App
+ORD10139,Payment Retry,2026-04-08 17:00:00,North,Mobile App
+ORD10139,Order Packed,2026-04-14 00:00:00,North,Mobile App
+ORD10139,Order Shipped,2026-04-17 08:00:00,North,Mobile App
+ORD10139,Order Delivered,2026-04-21 13:00:00,North,Mobile App
+ORD10140,Order Created,2026-05-07 00:00:00,East,Mobile App
+ORD10140,Payment Approved,2026-05-10 08:00:00,East,Mobile App
+ORD10140,Inventory Checked,2026-05-22 08:00:00,East,Mobile App
+ORD10140,Order Packed,2026-05-30 09:00:00,East,Mobile App
+ORD10140,Order Shipped,2026-06-02 09:00:00,East,Mobile App
+ORD10140,Order Delivered,2026-06-11 09:00:00,East,Mobile App
+ORD10141,Order Created,2026-03-01 07:00:00,West,Website
+ORD10141,Payment Approved,2026-03-13 07:00:00,West,Website
+ORD10141,Inventory Checked,2026-03-18 07:00:00,West,Website
+ORD10141,Inventory Recheck,2026-03-27 15:00:00,West,Website
+ORD10141,Order Packed,2026-03-28 23:00:00,West,Website
+ORD10141,Order Shipped,2026-04-06 05:00:00,West,Website
+ORD10141,Order Delivered,2026-04-17 05:00:00,West,Website
+ORD10142,Order Created,2026-03-13 08:00:00,South,Marketplace
+ORD10142,Payment Approved,2026-03-14 10:00:00,South,Marketplace
+ORD10142,Inventory Checked,2026-03-31 13:00:00,South,Marketplace
+ORD10142,Order Packed,2026-04-03 16:00:00,South,Marketplace
+ORD10142,Order Shipped,2026-04-06 00:00:00,South,Marketplace
+ORD10142,Order Delivered,2026-04-08 04:00:00,South,Marketplace
+ORD10143,Order Created,2026-04-12 01:00:00,East,Mobile App
+ORD10143,Payment Approved,2026-04-18 01:00:00,East,Mobile App
+ORD10143,Inventory Checked,2026-05-01 02:00:00,East,Mobile App
+ORD10143,Order Packed,2026-05-13 08:00:00,East,Mobile App
+ORD10143,Order Shipped,2026-05-17 14:00:00,East,Mobile App
+ORD10143,Order Delivered,2026-05-22 20:00:00,East,Mobile App
+ORD10144,Order Created,2026-01-03 00:00:00,West,Website
+ORD10144,Payment Approved,2026-01-05 03:00:00,West,Website
+ORD10144,Inventory Checked,2026-01-21 06:00:00,West,Website
+ORD10144,Order Packed,2026-01-27 13:00:00,West,Website
+ORD10144,Order Shipped,2026-01-29 17:00:00,West,Website
+ORD10144,Order Delivered,2026-02-07 17:00:00,West,Website
+ORD10145,Order Created,2026-03-13 04:00:00,South,Marketplace
+ORD10145,Payment Approved,2026-03-16 06:00:00,South,Marketplace
+ORD10145,Inventory Checked,2026-03-27 09:00:00,South,Marketplace
+ORD10145,Inventory Recheck,2026-03-31 15:00:00,South,Marketplace
+ORD10145,Order Packed,2026-04-12 23:00:00,South,Marketplace
+ORD10145,Order Shipped,2026-04-20 04:00:00,South,Marketplace
+ORD10145,Order Delivered,2026-04-22 10:00:00,South,Marketplace
+ORD10146,Order Created,2026-01-22 05:00:00,North,Marketplace
+ORD10146,Payment Approved,2026-01-23 05:00:00,North,Marketplace
+ORD10146,Inventory Checked,2026-01-27 09:00:00,North,Marketplace
+ORD10146,Order Packed,2026-02-02 16:00:00,North,Marketplace
+ORD10146,Order Shipped,2026-02-09 23:00:00,North,Marketplace
+ORD10146,Order Delivered,2026-02-23 02:00:00,North,Marketplace
+ORD10147,Order Created,2026-04-08 04:00:00,East,Marketplace
+ORD10147,Payment Approved,2026-04-11 06:00:00,East,Marketplace
+ORD10147,Inventory Checked,2026-04-24 12:00:00,East,Marketplace
+ORD10147,Inventory Recheck,2026-05-04 14:00:00,East,Marketplace
+ORD10147,Order Packed,2026-05-08 20:00:00,East,Marketplace
+ORD10147,Order Shipped,2026-05-11 01:00:00,East,Marketplace
+ORD10147,Order Delivered,2026-05-13 06:00:00,East,Marketplace
+ORD10148,Order Created,2026-01-03 07:00:00,South,Website
+ORD10148,Payment Approved,2026-01-11 15:00:00,South,Website
+ORD10148,Inventory Checked,2026-01-23 23:00:00,South,Website
+ORD10148,Order Packed,2026-01-26 07:00:00,South,Website
+ORD10148,Order Shipped,2026-01-29 13:00:00,South,Website
+ORD10148,Order Delivered,2026-02-05 14:00:00,South,Website
+ORD10149,Order Created,2026-04-01 08:00:00,South,Website
+ORD10149,Payment Approved,2026-04-11 11:00:00,South,Website
+ORD10149,Inventory Checked,2026-04-22 19:00:00,South,Website
+ORD10149,Payment Retry,2026-04-29 21:00:00,South,Website
+ORD10149,Order Packed,2026-05-07 03:00:00,South,Website
+ORD10149,Order Shipped,2026-05-09 05:00:00,South,Website
+ORD10149,Order Delivered,2026-05-21 07:00:00,South,Website
+ORD10150,Order Created,2026-03-11 01:00:00,East,Mobile App
+ORD10150,Payment Approved,2026-03-14 06:00:00,East,Mobile App
+ORD10150,Inventory Checked,2026-03-17 10:00:00,East,Mobile App
+ORD10150,Order Packed,2026-03-22 13:00:00,East,Mobile App
+ORD10150,Order Shipped,2026-03-30 20:00:00,East,Mobile App
+ORD10150,Order Delivered,2026-04-12 23:00:00,East,Mobile App
+ORD10151,Order Created,2026-02-05 06:00:00,West,Website
+ORD10151,Payment Approved,2026-02-06 08:00:00,West,Website
+ORD10151,Inventory Checked,2026-02-19 12:00:00,West,Website
+ORD10151,Order Packed,2026-02-25 17:00:00,West,Website
+ORD10151,Order Shipped,2026-03-05 20:00:00,West,Website
+ORD10151,Order Delivered,2026-03-12 03:00:00,West,Website
+ORD10152,Order Created,2026-04-13 06:00:00,East,Website
+ORD10152,Payment Approved,2026-04-18 11:00:00,East,Website
+ORD10152,Inventory Checked,2026-05-04 12:00:00,East,Website
+ORD10152,Order Packed,2026-05-10 15:00:00,East,Website
+ORD10152,Order Shipped,2026-05-17 23:00:00,East,Website
+ORD10152,Order Delivered,2026-05-23 01:00:00,East,Website
+ORD10153,Order Created,2026-04-29 04:00:00,South,Marketplace
+ORD10153,Payment Approved,2026-05-07 07:00:00,South,Marketplace
+ORD10153,Inventory Checked,2026-05-17 11:00:00,South,Marketplace
+ORD10153,Payment Retry,2026-05-24 13:00:00,South,Marketplace
+ORD10153,Order Packed,2026-06-04 19:00:00,South,Marketplace
+ORD10153,Order Shipped,2026-06-13 01:00:00,South,Marketplace
+ORD10153,Order Delivered,2026-06-16 02:00:00,South,Marketplace
+ORD10154,Order Created,2026-05-04 05:00:00,West,Marketplace
+ORD10154,Payment Approved,2026-05-13 13:00:00,West,Marketplace
+ORD10154,Inventory Checked,2026-05-30 14:00:00,West,Marketplace
+ORD10154,Order Packed,2026-06-06 15:00:00,West,Marketplace
+ORD10154,Order Shipped,2026-06-07 18:00:00,West,Marketplace
+ORD10154,Order Delivered,2026-06-20 23:00:00,West,Marketplace
+ORD10155,Order Created,2026-01-13 05:00:00,North,Marketplace
+ORD10155,Payment Approved,2026-01-19 11:00:00,North,Marketplace
+ORD10155,Inventory Checked,2026-02-02 18:00:00,North,Marketplace
+ORD10155,Inventory Recheck,2026-02-05 02:00:00,North,Marketplace
+ORD10155,Order Packed,2026-02-14 04:00:00,North,Marketplace
+ORD10155,Order Shipped,2026-02-18 09:00:00,North,Marketplace
+ORD10155,Order Delivered,2026-02-26 09:00:00,North,Marketplace
+ORD10156,Order Created,2026-03-18 07:00:00,West,Website
+ORD10156,Payment Approved,2026-03-20 10:00:00,West,Website
+ORD10156,Inventory Checked,2026-03-24 18:00:00,West,Website
+ORD10156,Order Packed,2026-03-31 01:00:00,West,Website
+ORD10156,Order Shipped,2026-04-05 06:00:00,West,Website
+ORD10156,Order Delivered,2026-04-11 13:00:00,West,Website
+ORD10157,Order Created,2026-04-27 02:00:00,South,Mobile App
+ORD10157,Payment Approved,2026-04-29 05:00:00,South,Mobile App
+ORD10157,Inventory Checked,2026-05-09 13:00:00,South,Mobile App
+ORD10157,Inventory Recheck,2026-05-11 15:00:00,South,Mobile App
+ORD10157,Payment Retry,2026-05-17 23:00:00,South,Mobile App
+ORD10157,Order Packed,2026-05-29 01:00:00,South,Mobile App
+ORD10157,Order Shipped,2026-05-31 06:00:00,South,Mobile App
+ORD10157,Order Delivered,2026-06-11 14:00:00,South,Mobile App
+ORD10158,Order Created,2026-03-02 03:00:00,West,Mobile App
+ORD10158,Payment Approved,2026-03-13 10:00:00,West,Mobile App
+ORD10158,Inventory Checked,2026-03-19 16:00:00,West,Mobile App
+ORD10158,Order Packed,2026-03-26 22:00:00,West,Mobile App
+ORD10158,Order Shipped,2026-03-27 22:00:00,West,Mobile App
+ORD10158,Order Delivered,2026-04-09 01:00:00,West,Mobile App
+ORD10159,Order Created,2026-01-17 07:00:00,North,Mobile App
+ORD10159,Payment Approved,2026-01-26 15:00:00,North,Mobile App
+ORD10159,Inventory Checked,2026-02-01 20:00:00,North,Mobile App
+ORD10159,Order Packed,2026-02-04 02:00:00,North,Mobile App
+ORD10159,Order Shipped,2026-02-09 08:00:00,North,Mobile App
+ORD10159,Order Delivered,2026-02-20 09:00:00,North,Mobile App
+ORD10160,Order Created,2026-04-28 01:00:00,East,Mobile App
+ORD10160,Payment Approved,2026-05-09 04:00:00,East,Mobile App
+ORD10160,Inventory Checked,2026-05-19 08:00:00,East,Mobile App
+ORD10160,Order Packed,2026-05-30 09:00:00,East,Mobile App
+ORD10160,Order Shipped,2026-06-02 11:00:00,East,Mobile App
+ORD10160,Order Delivered,2026-06-08 16:00:00,East,Mobile App
+ORD10161,Order Created,2026-04-11 02:00:00,North,Marketplace
+ORD10161,Payment Approved,2026-04-21 09:00:00,North,Marketplace
+ORD10161,Inventory Checked,2026-04-26 13:00:00,North,Marketplace
+ORD10161,Order Packed,2026-05-04 15:00:00,North,Marketplace
+ORD10161,Order Shipped,2026-05-07 17:00:00,North,Marketplace
+ORD10161,Order Delivered,2026-05-16 22:00:00,North,Marketplace
+ORD10162,Order Created,2026-01-15 07:00:00,West,Marketplace
+ORD10162,Payment Approved,2026-01-16 13:00:00,West,Marketplace
+ORD10162,Inventory Checked,2026-02-01 20:00:00,West,Marketplace
+ORD10162,Inventory Recheck,2026-02-09 03:00:00,West,Marketplace
+ORD10162,Order Packed,2026-02-18 05:00:00,West,Marketplace
+ORD10162,Order Shipped,2026-02-26 06:00:00,West,Marketplace
+ORD10162,Order Delivered,2026-03-05 06:00:00,West,Marketplace
+ORD10163,Order Created,2026-01-10 08:00:00,North,Mobile App
+ORD10163,Payment Approved,2026-01-14 09:00:00,North,Mobile App
+ORD10163,Inventory Checked,2026-02-01 10:00:00,North,Mobile App
+ORD10163,Order Packed,2026-02-11 14:00:00,North,Mobile App
+ORD10163,Order Shipped,2026-02-19 22:00:00,North,Mobile App
+ORD10163,Order Delivered,2026-03-01 03:00:00,North,Mobile App
+ORD10164,Order Created,2026-04-23 00:00:00,South,Marketplace
+ORD10164,Payment Approved,2026-04-30 07:00:00,South,Marketplace
+ORD10164,Inventory Checked,2026-05-04 11:00:00,South,Marketplace
+ORD10164,Order Packed,2026-05-08 16:00:00,South,Marketplace
+ORD10164,Order Shipped,2026-05-13 17:00:00,South,Marketplace
+ORD10164,Order Delivered,2026-05-28 00:00:00,South,Marketplace
+ORD10165,Order Created,2026-02-24 00:00:00,South,Website
+ORD10165,Payment Approved,2026-03-08 05:00:00,South,Website
+ORD10165,Inventory Checked,2026-03-22 13:00:00,South,Website
+ORD10165,Order Packed,2026-03-26 17:00:00,South,Website
+ORD10165,Order Shipped,2026-03-31 01:00:00,South,Website
+ORD10165,Order Delivered,2026-04-13 03:00:00,South,Website
+ORD10166,Order Created,2026-03-17 06:00:00,East,Marketplace
+ORD10166,Payment Approved,2026-03-27 06:00:00,East,Marketplace
+ORD10166,Inventory Checked,2026-04-05 10:00:00,East,Marketplace
+ORD10166,Order Packed,2026-04-16 12:00:00,East,Marketplace
+ORD10166,Order Shipped,2026-04-18 14:00:00,East,Marketplace
+ORD10166,Order Delivered,2026-04-21 17:00:00,East,Marketplace
+ORD10167,Order Created,2026-03-24 07:00:00,North,Marketplace
+ORD10167,Payment Approved,2026-04-04 08:00:00,North,Marketplace
+ORD10167,Inventory Checked,2026-04-17 09:00:00,North,Marketplace
+ORD10167,Order Packed,2026-04-22 15:00:00,North,Marketplace
+ORD10167,Order Shipped,2026-04-29 23:00:00,North,Marketplace
+ORD10167,Order Delivered,2026-05-07 03:00:00,North,Marketplace
+ORD10168,Order Created,2026-05-06 05:00:00,East,Mobile App
+ORD10168,Payment Approved,2026-05-16 06:00:00,East,Mobile App
+ORD10168,Inventory Checked,2026-05-17 14:00:00,East,Mobile App
+ORD10168,Order Packed,2026-05-19 20:00:00,East,Mobile App
+ORD10168,Order Shipped,2026-05-27 23:00:00,East,Mobile App
+ORD10168,Order Delivered,2026-06-08 05:00:00,East,Mobile App
+ORD10169,Order Created,2026-03-11 00:00:00,North,Mobile App
+ORD10169,Payment Approved,2026-03-16 00:00:00,North,Mobile App
+ORD10169,Inventory Checked,2026-03-27 01:00:00,North,Mobile App
+ORD10169,Order Packed,2026-04-04 08:00:00,North,Mobile App
+ORD10169,Order Shipped,2026-04-10 08:00:00,North,Mobile App
+ORD10169,Order Delivered,2026-04-21 09:00:00,North,Mobile App
+ORD10170,Order Created,2026-04-27 04:00:00,North,Mobile App
+ORD10170,Payment Approved,2026-05-04 05:00:00,North,Mobile App
+ORD10170,Inventory Checked,2026-05-11 10:00:00,North,Mobile App
+ORD10170,Order Packed,2026-05-22 14:00:00,North,Mobile App
+ORD10170,Order Shipped,2026-05-27 15:00:00,North,Mobile App
+ORD10170,Order Delivered,2026-05-30 20:00:00,North,Mobile App
+ORD10171,Order Created,2026-04-13 01:00:00,North,Website
+ORD10171,Payment Approved,2026-04-25 03:00:00,North,Website
+ORD10171,Inventory Checked,2026-05-03 06:00:00,North,Website
+ORD10171,Payment Retry,2026-05-05 14:00:00,North,Website
+ORD10171,Order Packed,2026-05-06 21:00:00,North,Website
+ORD10171,Order Shipped,2026-05-10 21:00:00,North,Website
+ORD10171,Order Delivered,2026-05-18 21:00:00,North,Website
+ORD10172,Order Created,2026-04-19 04:00:00,East,Website
+ORD10172,Payment Approved,2026-04-27 06:00:00,East,Website
+ORD10172,Inventory Checked,2026-04-30 12:00:00,East,Website
+ORD10172,Payment Retry,2026-05-02 14:00:00,East,Website
+ORD10172,Order Packed,2026-05-04 16:00:00,East,Website
+ORD10172,Order Shipped,2026-05-10 17:00:00,East,Website
+ORD10172,Order Delivered,2026-05-17 01:00:00,East,Website
+ORD10173,Order Created,2026-02-13 03:00:00,South,Marketplace
+ORD10173,Payment Approved,2026-02-19 04:00:00,South,Marketplace
+ORD10173,Inventory Checked,2026-02-26 05:00:00,South,Marketplace
+ORD10173,Order Packed,2026-03-05 07:00:00,South,Marketplace
+ORD10173,Order Shipped,2026-03-13 08:00:00,South,Marketplace
+ORD10173,Order Delivered,2026-03-27 14:00:00,South,Marketplace
+ORD10174,Order Created,2026-03-22 00:00:00,East,Mobile App
+ORD10174,Payment Approved,2026-03-26 04:00:00,East,Mobile App
+ORD10174,Inventory Checked,2026-04-04 07:00:00,East,Mobile App
+ORD10174,Order Packed,2026-04-14 15:00:00,East,Mobile App
+ORD10174,Order Shipped,2026-04-19 23:00:00,East,Mobile App
+ORD10174,Order Delivered,2026-05-03 02:00:00,East,Mobile App
+ORD10175,Order Created,2026-01-14 05:00:00,West,Mobile App
+ORD10175,Payment Approved,2026-01-22 07:00:00,West,Mobile App
+ORD10175,Inventory Checked,2026-02-04 13:00:00,West,Mobile App
+ORD10175,Inventory Recheck,2026-02-12 19:00:00,West,Mobile App
+ORD10175,Order Packed,2026-02-15 00:00:00,West,Mobile App
+ORD10175,Order Shipped,2026-02-16 08:00:00,West,Mobile App
+ORD10175,Order Delivered,2026-02-22 10:00:00,West,Mobile App
+ORD10176,Order Created,2026-01-05 08:00:00,West,Website
+ORD10176,Payment Approved,2026-01-06 14:00:00,West,Website
+ORD10176,Inventory Checked,2026-01-15 20:00:00,West,Website
+ORD10176,Order Packed,2026-01-23 02:00:00,West,Website
+ORD10176,Order Shipped,2026-01-28 03:00:00,West,Website
+ORD10176,Order Delivered,2026-02-08 11:00:00,West,Website
+ORD10177,Order Created,2026-01-23 01:00:00,North,Mobile App
+ORD10177,Payment Approved,2026-01-25 05:00:00,North,Mobile App
+ORD10177,Inventory Checked,2026-02-11 11:00:00,North,Mobile App
+ORD10177,Order Packed,2026-02-14 14:00:00,North,Mobile App
+ORD10177,Order Shipped,2026-02-20 14:00:00,North,Mobile App
+ORD10177,Order Delivered,2026-02-27 17:00:00,North,Mobile App
+ORD10178,Order Created,2026-01-31 00:00:00,South,Mobile App
+ORD10178,Payment Approved,2026-02-10 02:00:00,South,Mobile App
+ORD10178,Inventory Checked,2026-02-12 02:00:00,South,Mobile App
+ORD10178,Order Packed,2026-02-24 04:00:00,South,Mobile App
+ORD10178,Order Shipped,2026-02-27 11:00:00,South,Mobile App
+ORD10178,Order Delivered,2026-03-01 16:00:00,South,Mobile App
+ORD10179,Order Created,2026-04-06 06:00:00,East,Website
+ORD10179,Payment Approved,2026-04-18 10:00:00,East,Website
+ORD10179,Inventory Checked,2026-04-27 18:00:00,East,Website
+ORD10179,Order Packed,2026-04-28 19:00:00,East,Website
+ORD10179,Order Shipped,2026-05-04 23:00:00,East,Website
+ORD10179,Order Delivered,2026-05-18 00:00:00,East,Website
+ORD10180,Order Created,2026-05-12 01:00:00,West,Mobile App
+ORD10180,Payment Approved,2026-05-13 02:00:00,West,Mobile App
+ORD10180,Inventory Checked,2026-05-29 05:00:00,West,Mobile App
+ORD10180,Order Packed,2026-06-01 13:00:00,West,Mobile App
+ORD10180,Order Shipped,2026-06-06 13:00:00,West,Mobile App
+ORD10180,Order Delivered,2026-06-19 13:00:00,West,Mobile App
+ORD10181,Order Created,2026-01-13 05:00:00,South,Website
+ORD10181,Payment Approved,2026-01-19 08:00:00,South,Website
+ORD10181,Inventory Checked,2026-02-01 14:00:00,South,Website
+ORD10181,Order Packed,2026-02-02 19:00:00,South,Website
+ORD10181,Order Shipped,2026-02-09 23:00:00,South,Website
+ORD10181,Order Delivered,2026-02-14 00:00:00,South,Website
+ORD10182,Order Created,2026-05-09 04:00:00,East,Website
+ORD10182,Payment Approved,2026-05-12 08:00:00,East,Website
+ORD10182,Inventory Checked,2026-05-20 13:00:00,East,Website
+ORD10182,Order Packed,2026-05-27 14:00:00,East,Website
+ORD10182,Order Shipped,2026-05-29 22:00:00,East,Website
+ORD10182,Order Delivered,2026-06-07 05:00:00,East,Website
+ORD10183,Order Created,2026-02-22 03:00:00,South,Mobile App
+ORD10183,Payment Approved,2026-03-04 11:00:00,South,Mobile App
+ORD10183,Inventory Checked,2026-03-14 14:00:00,South,Mobile App
+ORD10183,Order Packed,2026-03-20 16:00:00,South,Mobile App
+ORD10183,Order Shipped,2026-03-28 16:00:00,South,Mobile App
+ORD10183,Order Delivered,2026-04-10 22:00:00,South,Mobile App
+ORD10184,Order Created,2026-05-20 03:00:00,South,Website
+ORD10184,Payment Approved,2026-05-31 11:00:00,South,Website
+ORD10184,Inventory Checked,2026-06-01 14:00:00,South,Website
+ORD10184,Payment Retry,2026-06-08 20:00:00,South,Website
+ORD10184,Order Packed,2026-06-21 03:00:00,South,Website
+ORD10184,Order Shipped,2026-06-26 03:00:00,South,Website
+ORD10184,Order Delivered,2026-06-28 05:00:00,South,Website
+ORD10185,Order Created,2026-01-12 01:00:00,East,Website
+ORD10185,Payment Approved,2026-01-21 09:00:00,East,Website
+ORD10185,Inventory Checked,2026-02-04 11:00:00,East,Website
+ORD10185,Order Packed,2026-02-16 17:00:00,East,Website
+ORD10185,Order Shipped,2026-02-18 18:00:00,East,Website
+ORD10185,Order Delivered,2026-02-28 18:00:00,East,Website
+ORD10186,Order Created,2026-02-03 07:00:00,West,Marketplace
+ORD10186,Payment Approved,2026-02-08 11:00:00,West,Marketplace
+ORD10186,Inventory Checked,2026-02-17 14:00:00,West,Marketplace
+ORD10186,Order Packed,2026-02-24 15:00:00,West,Marketplace
+ORD10186,Order Shipped,2026-03-02 18:00:00,West,Marketplace
+ORD10186,Order Delivered,2026-03-08 20:00:00,West,Marketplace
+ORD10187,Order Created,2026-01-28 04:00:00,South,Website
+ORD10187,Payment Approved,2026-02-05 11:00:00,South,Website
+ORD10187,Inventory Checked,2026-02-20 15:00:00,South,Website
+ORD10187,Order Packed,2026-02-26 16:00:00,South,Website
+ORD10187,Order Shipped,2026-03-02 17:00:00,South,Website
+ORD10187,Order Delivered,2026-03-10 19:00:00,South,Website
+ORD10188,Order Created,2026-01-11 04:00:00,East,Marketplace
+ORD10188,Payment Approved,2026-01-17 08:00:00,East,Marketplace
+ORD10188,Inventory Checked,2026-01-22 10:00:00,East,Marketplace
+ORD10188,Inventory Recheck,2026-01-26 10:00:00,East,Marketplace
+ORD10188,Order Packed,2026-02-02 16:00:00,East,Marketplace
+ORD10188,Order Shipped,2026-02-03 23:00:00,East,Marketplace
+ORD10188,Order Delivered,2026-02-15 07:00:00,East,Marketplace
+ORD10189,Order Created,2026-04-29 01:00:00,North,Website
+ORD10189,Payment Approved,2026-05-02 05:00:00,North,Website
+ORD10189,Inventory Checked,2026-05-06 06:00:00,North,Website
+ORD10189,Inventory Recheck,2026-05-10 06:00:00,North,Website
+ORD10189,Order Packed,2026-05-17 07:00:00,North,Website
+ORD10189,Order Shipped,2026-05-23 10:00:00,North,Website
+ORD10189,Order Delivered,2026-06-03 17:00:00,North,Website
+ORD10190,Order Created,2026-03-26 00:00:00,North,Website
+ORD10190,Payment Approved,2026-03-27 06:00:00,North,Website
+ORD10190,Inventory Checked,2026-04-11 12:00:00,North,Website
+ORD10190,Inventory Recheck,2026-04-21 14:00:00,North,Website
+ORD10190,Order Packed,2026-05-03 19:00:00,North,Website
+ORD10190,Order Shipped,2026-05-10 22:00:00,North,Website
+ORD10190,Order Delivered,2026-05-19 00:00:00,North,Website
+ORD10191,Order Created,2026-04-25 01:00:00,East,Mobile App
+ORD10191,Payment Approved,2026-04-26 05:00:00,East,Mobile App
+ORD10191,Inventory Checked,2026-05-04 11:00:00,East,Mobile App
+ORD10191,Order Packed,2026-05-13 13:00:00,East,Mobile App
+ORD10191,Order Shipped,2026-05-21 19:00:00,East,Mobile App
+ORD10191,Order Delivered,2026-05-22 22:00:00,East,Mobile App
+ORD10192,Order Created,2026-05-20 04:00:00,North,Marketplace
+ORD10192,Payment Approved,2026-05-27 06:00:00,North,Marketplace
+ORD10192,Inventory Checked,2026-06-08 06:00:00,North,Marketplace
+ORD10192,Order Packed,2026-06-14 11:00:00,North,Marketplace
+ORD10192,Order Shipped,2026-06-20 14:00:00,North,Marketplace
+ORD10192,Order Delivered,2026-06-27 14:00:00,North,Marketplace
+ORD10193,Order Created,2026-05-02 08:00:00,East,Website
+ORD10193,Payment Approved,2026-05-12 08:00:00,East,Website
+ORD10193,Inventory Checked,2026-05-20 11:00:00,East,Website
+ORD10193,Order Packed,2026-05-31 17:00:00,East,Website
+ORD10193,Order Shipped,2026-06-04 22:00:00,East,Website
+ORD10193,Order Delivered,2026-06-10 00:00:00,East,Website
+ORD10194,Order Created,2026-03-24 03:00:00,North,Website
+ORD10194,Payment Approved,2026-04-03 10:00:00,North,Website
+ORD10194,Inventory Checked,2026-04-04 18:00:00,North,Website
+ORD10194,Order Packed,2026-04-14 22:00:00,North,Website
+ORD10194,Order Shipped,2026-04-18 00:00:00,North,Website
+ORD10194,Order Delivered,2026-04-28 07:00:00,North,Website
+ORD10195,Order Created,2026-01-15 02:00:00,South,Website
+ORD10195,Payment Approved,2026-01-25 07:00:00,South,Website
+ORD10195,Inventory Checked,2026-02-02 07:00:00,South,Website
+ORD10195,Inventory Recheck,2026-02-10 07:00:00,South,Website
+ORD10195,Payment Retry,2026-02-14 09:00:00,South,Website
+ORD10195,Order Packed,2026-02-17 11:00:00,South,Website
+ORD10195,Order Shipped,2026-02-23 12:00:00,South,Website
+ORD10195,Order Delivered,2026-03-07 20:00:00,South,Website
+ORD10196,Order Created,2026-04-07 07:00:00,East,Website
+ORD10196,Payment Approved,2026-04-17 12:00:00,East,Website
+ORD10196,Inventory Checked,2026-04-21 14:00:00,East,Website
+ORD10196,Order Packed,2026-04-24 22:00:00,East,Website
+ORD10196,Order Shipped,2026-05-02 03:00:00,East,Website
+ORD10196,Order Delivered,2026-05-15 06:00:00,East,Website
+ORD10197,Order Created,2026-03-21 00:00:00,North,Mobile App
+ORD10197,Payment Approved,2026-03-24 02:00:00,North,Mobile App
+ORD10197,Inventory Checked,2026-03-30 07:00:00,North,Mobile App
+ORD10197,Order Packed,2026-04-09 10:00:00,North,Mobile App
+ORD10197,Order Shipped,2026-04-16 11:00:00,North,Mobile App
+ORD10197,Order Delivered,2026-04-30 18:00:00,North,Mobile App
+ORD10198,Order Created,2026-01-20 00:00:00,North,Mobile App
+ORD10198,Payment Approved,2026-01-26 04:00:00,North,Mobile App
+ORD10198,Inventory Checked,2026-02-06 07:00:00,North,Mobile App
+ORD10198,Order Packed,2026-02-08 10:00:00,North,Mobile App
+ORD10198,Order Shipped,2026-02-14 11:00:00,North,Mobile App
+ORD10198,Order Delivered,2026-02-22 16:00:00,North,Mobile App
+ORD10199,Order Created,2026-01-01 05:00:00,East,Website
+ORD10199,Payment Approved,2026-01-08 13:00:00,East,Website
+ORD10199,Inventory Checked,2026-01-23 19:00:00,East,Website
+ORD10199,Order Packed,2026-01-30 20:00:00,East,Website
+ORD10199,Order Shipped,2026-02-08 03:00:00,East,Website
+ORD10199,Order Delivered,2026-02-15 06:00:00,East,Website
+ORD10200,Order Created,2026-01-19 06:00:00,North,Mobile App
+ORD10200,Payment Approved,2026-01-24 08:00:00,North,Mobile App
+ORD10200,Inventory Checked,2026-01-25 09:00:00,North,Mobile App
+ORD10200,Order Packed,2026-01-27 17:00:00,North,Mobile App
+ORD10200,Order Shipped,2026-02-02 18:00:00,North,Mobile App
+ORD10200,Order Delivered,2026-02-05 23:00:00,North,Mobile App
+ORD10201,Order Created,2026-01-09 03:00:00,West,Marketplace
+ORD10201,Payment Approved,2026-01-20 06:00:00,West,Marketplace
+ORD10201,Inventory Checked,2026-01-26 12:00:00,West,Marketplace
+ORD10201,Order Packed,2026-01-27 20:00:00,West,Marketplace
+ORD10201,Order Shipped,2026-01-30 04:00:00,West,Marketplace
+ORD10201,Order Delivered,2026-02-05 08:00:00,West,Marketplace
+ORD10202,Order Created,2026-03-02 00:00:00,East,Mobile App
+ORD10202,Payment Approved,2026-03-03 06:00:00,East,Mobile App
+ORD10202,Inventory Checked,2026-03-16 07:00:00,East,Mobile App
+ORD10202,Order Packed,2026-03-19 11:00:00,East,Mobile App
+ORD10202,Order Shipped,2026-03-20 18:00:00,East,Mobile App
+ORD10202,Order Delivered,2026-03-26 21:00:00,East,Mobile App
+ORD10203,Order Created,2026-02-22 06:00:00,South,Website
+ORD10203,Payment Approved,2026-03-05 13:00:00,South,Website
+ORD10203,Inventory Checked,2026-03-15 20:00:00,South,Website
+ORD10203,Order Packed,2026-03-18 00:00:00,South,Website
+ORD10203,Order Shipped,2026-03-23 01:00:00,South,Website
+ORD10203,Order Delivered,2026-04-05 09:00:00,South,Website
+ORD10204,Order Created,2026-04-06 04:00:00,West,Website
+ORD10204,Payment Approved,2026-04-12 04:00:00,West,Website
+ORD10204,Inventory Checked,2026-04-18 06:00:00,West,Website
+ORD10204,Order Packed,2026-04-26 07:00:00,West,Website
+ORD10204,Order Shipped,2026-05-01 08:00:00,West,Website
+ORD10204,Order Delivered,2026-05-05 13:00:00,West,Website
+ORD10205,Order Created,2026-02-28 04:00:00,West,Marketplace
+ORD10205,Payment Approved,2026-03-07 05:00:00,West,Marketplace
+ORD10205,Inventory Checked,2026-03-24 11:00:00,West,Marketplace
+ORD10205,Order Packed,2026-04-01 11:00:00,West,Marketplace
+ORD10205,Order Shipped,2026-04-05 19:00:00,West,Marketplace
+ORD10205,Order Delivered,2026-04-14 03:00:00,West,Marketplace
+ORD10206,Order Created,2026-04-25 06:00:00,North,Website
+ORD10206,Payment Approved,2026-04-28 09:00:00,North,Website
+ORD10206,Inventory Checked,2026-05-05 11:00:00,North,Website
+ORD10206,Order Packed,2026-05-12 15:00:00,North,Website
+ORD10206,Order Shipped,2026-05-14 20:00:00,North,Website
+ORD10206,Order Delivered,2026-05-25 21:00:00,North,Website
+ORD10207,Order Created,2026-05-24 06:00:00,South,Mobile App
+ORD10207,Payment Approved,2026-06-02 08:00:00,South,Mobile App
+ORD10207,Inventory Checked,2026-06-13 10:00:00,South,Mobile App
+ORD10207,Order Packed,2026-06-14 11:00:00,South,Mobile App
+ORD10207,Order Shipped,2026-06-21 12:00:00,South,Mobile App
+ORD10207,Order Delivered,2026-06-23 13:00:00,South,Mobile App
+ORD10208,Order Created,2026-03-31 04:00:00,East,Marketplace
+ORD10208,Payment Approved,2026-04-05 10:00:00,East,Marketplace
+ORD10208,Inventory Checked,2026-04-18 12:00:00,East,Marketplace
+ORD10208,Order Packed,2026-04-26 18:00:00,East,Marketplace
+ORD10208,Order Shipped,2026-04-27 18:00:00,East,Marketplace
+ORD10208,Order Delivered,2026-05-01 00:00:00,East,Marketplace
+ORD10209,Order Created,2026-03-02 04:00:00,East,Marketplace
+ORD10209,Payment Approved,2026-03-14 08:00:00,East,Marketplace
+ORD10209,Inventory Checked,2026-03-30 12:00:00,East,Marketplace
+ORD10209,Order Packed,2026-03-31 19:00:00,East,Marketplace
+ORD10209,Order Shipped,2026-04-06 20:00:00,East,Marketplace
+ORD10209,Order Delivered,2026-04-20 23:00:00,East,Marketplace
+ORD10210,Order Created,2026-04-25 07:00:00,North,Mobile App
+ORD10210,Payment Approved,2026-04-30 15:00:00,North,Mobile App
+ORD10210,Inventory Checked,2026-05-14 20:00:00,North,Mobile App
+ORD10210,Payment Retry,2026-05-22 20:00:00,North,Mobile App
+ORD10210,Order Packed,2026-05-27 04:00:00,North,Mobile App
+ORD10210,Order Shipped,2026-06-03 06:00:00,North,Mobile App
+ORD10210,Order Delivered,2026-06-15 07:00:00,North,Mobile App
+ORD10211,Order Created,2026-05-11 00:00:00,East,Marketplace
+ORD10211,Payment Approved,2026-05-14 07:00:00,East,Marketplace
+ORD10211,Inventory Checked,2026-05-31 07:00:00,East,Marketplace
+ORD10211,Payment Retry,2026-06-04 12:00:00,East,Marketplace
+ORD10211,Order Packed,2026-06-08 15:00:00,East,Marketplace
+ORD10211,Order Shipped,2026-06-09 19:00:00,East,Marketplace
+ORD10211,Order Delivered,2026-06-14 00:00:00,East,Marketplace
+ORD10212,Order Created,2026-04-12 07:00:00,West,Marketplace
+ORD10212,Payment Approved,2026-04-23 15:00:00,West,Marketplace
+ORD10212,Inventory Checked,2026-04-24 20:00:00,West,Marketplace
+ORD10212,Order Packed,2026-05-03 01:00:00,West,Marketplace
+ORD10212,Order Shipped,2026-05-06 03:00:00,West,Marketplace
+ORD10212,Order Delivered,2026-05-20 07:00:00,West,Marketplace
+ORD10213,Order Created,2026-01-09 03:00:00,South,Mobile App
+ORD10213,Payment Approved,2026-01-10 06:00:00,South,Mobile App
+ORD10213,Inventory Checked,2026-01-16 10:00:00,South,Mobile App
+ORD10213,Order Packed,2026-01-20 16:00:00,South,Mobile App
+ORD10213,Order Shipped,2026-01-25 00:00:00,South,Mobile App
+ORD10213,Order Delivered,2026-02-05 00:00:00,South,Mobile App
+ORD10214,Order Created,2026-02-03 06:00:00,South,Mobile App
+ORD10214,Payment Approved,2026-02-13 11:00:00,South,Mobile App
+ORD10214,Inventory Checked,2026-02-14 18:00:00,South,Mobile App
+ORD10214,Order Packed,2026-02-19 22:00:00,South,Mobile App
+ORD10214,Order Shipped,2026-02-25 01:00:00,South,Mobile App
+ORD10214,Order Delivered,2026-03-04 08:00:00,South,Mobile App
+ORD10215,Order Created,2026-05-15 01:00:00,East,Marketplace
+ORD10215,Payment Approved,2026-05-25 08:00:00,East,Marketplace
+ORD10215,Inventory Checked,2026-05-29 09:00:00,East,Marketplace
+ORD10215,Inventory Recheck,2026-06-04 14:00:00,East,Marketplace
+ORD10215,Order Packed,2026-06-14 18:00:00,East,Marketplace
+ORD10215,Order Shipped,2026-06-19 23:00:00,East,Marketplace
+ORD10215,Order Delivered,2026-06-25 03:00:00,East,Marketplace
+ORD10216,Order Created,2026-03-18 05:00:00,East,Marketplace
+ORD10216,Payment Approved,2026-03-21 07:00:00,East,Marketplace
+ORD10216,Inventory Checked,2026-04-07 07:00:00,East,Marketplace
+ORD10216,Order Packed,2026-04-17 14:00:00,East,Marketplace
+ORD10216,Order Shipped,2026-04-24 18:00:00,East,Marketplace
+ORD10216,Order Delivered,2026-05-05 22:00:00,East,Marketplace
+ORD10217,Order Created,2026-04-10 05:00:00,West,Mobile App
+ORD10217,Payment Approved,2026-04-20 13:00:00,West,Mobile App
+ORD10217,Inventory Checked,2026-04-27 17:00:00,West,Mobile App
+ORD10217,Order Packed,2026-05-08 19:00:00,West,Mobile App
+ORD10217,Order Shipped,2026-05-17 03:00:00,West,Mobile App
+ORD10217,Order Delivered,2026-05-28 05:00:00,West,Mobile App
+ORD10218,Order Created,2026-05-01 01:00:00,East,Website
+ORD10218,Payment Approved,2026-05-13 04:00:00,East,Website
+ORD10218,Inventory Checked,2026-05-22 09:00:00,East,Website
+ORD10218,Order Packed,2026-05-25 12:00:00,East,Website
+ORD10218,Order Shipped,2026-05-31 16:00:00,East,Website
+ORD10218,Order Delivered,2026-06-11 22:00:00,East,Website
+ORD10219,Order Created,2026-03-09 03:00:00,East,Mobile App
+ORD10219,Payment Approved,2026-03-17 11:00:00,East,Mobile App
+ORD10219,Inventory Checked,2026-03-21 12:00:00,East,Mobile App
+ORD10219,Order Packed,2026-03-31 18:00:00,East,Mobile App
+ORD10219,Order Shipped,2026-04-03 02:00:00,East,Mobile App
+ORD10219,Order Delivered,2026-04-11 06:00:00,East,Mobile App
+ORD10220,Order Created,2026-02-08 02:00:00,West,Website
+ORD10220,Payment Approved,2026-02-12 03:00:00,West,Website
+ORD10220,Inventory Checked,2026-02-23 10:00:00,West,Website
+ORD10220,Order Packed,2026-03-03 15:00:00,West,Website
+ORD10220,Order Shipped,2026-03-06 17:00:00,West,Website
+ORD10220,Order Delivered,2026-03-12 22:00:00,West,Website
+ORD10221,Order Created,2026-04-27 06:00:00,South,Website
+ORD10221,Payment Approved,2026-05-01 12:00:00,South,Website
+ORD10221,Inventory Checked,2026-05-07 18:00:00,South,Website
+ORD10221,Order Packed,2026-05-10 00:00:00,South,Website
+ORD10221,Order Shipped,2026-05-13 07:00:00,South,Website
+ORD10221,Order Delivered,2026-05-23 13:00:00,South,Website
+ORD10222,Order Created,2026-05-17 00:00:00,South,Website
+ORD10222,Payment Approved,2026-05-29 03:00:00,South,Website
+ORD10222,Inventory Checked,2026-06-10 06:00:00,South,Website
+ORD10222,Order Packed,2026-06-19 11:00:00,South,Website
+ORD10222,Order Shipped,2026-06-23 15:00:00,South,Website
+ORD10222,Order Delivered,2026-06-24 17:00:00,South,Website
+ORD10223,Order Created,2026-05-10 08:00:00,South,Mobile App
+ORD10223,Payment Approved,2026-05-13 16:00:00,South,Mobile App
+ORD10223,Inventory Checked,2026-05-16 21:00:00,South,Mobile App
+ORD10223,Order Packed,2026-05-22 03:00:00,South,Mobile App
+ORD10223,Order Shipped,2026-05-30 05:00:00,South,Mobile App
+ORD10223,Order Delivered,2026-06-11 10:00:00,South,Mobile App
+ORD10224,Order Created,2026-02-18 00:00:00,West,Mobile App
+ORD10224,Payment Approved,2026-02-25 08:00:00,West,Mobile App
+ORD10224,Inventory Checked,2026-02-26 10:00:00,West,Mobile App
+ORD10224,Order Packed,2026-03-01 11:00:00,West,Mobile App
+ORD10224,Order Shipped,2026-03-05 16:00:00,West,Mobile App
+ORD10224,Order Delivered,2026-03-17 16:00:00,West,Mobile App
+ORD10225,Order Created,2026-03-07 01:00:00,West,Marketplace
+ORD10225,Payment Approved,2026-03-17 07:00:00,West,Marketplace
+ORD10225,Inventory Checked,2026-03-19 14:00:00,West,Marketplace
+ORD10225,Order Packed,2026-03-20 20:00:00,West,Marketplace
+ORD10225,Order Shipped,2026-03-21 21:00:00,West,Marketplace
+ORD10225,Order Delivered,2026-04-03 05:00:00,West,Marketplace
+ORD10226,Order Created,2026-02-09 02:00:00,East,Mobile App
+ORD10226,Payment Approved,2026-02-21 08:00:00,East,Mobile App
+ORD10226,Inventory Checked,2026-02-22 09:00:00,East,Mobile App
+ORD10226,Order Packed,2026-03-05 17:00:00,East,Mobile App
+ORD10226,Order Shipped,2026-03-10 18:00:00,East,Mobile App
+ORD10226,Order Delivered,2026-03-20 22:00:00,East,Mobile App
+ORD10227,Order Created,2026-05-08 06:00:00,South,Website
+ORD10227,Payment Approved,2026-05-18 10:00:00,South,Website
+ORD10227,Inventory Checked,2026-05-25 12:00:00,South,Website
+ORD10227,Order Packed,2026-05-29 12:00:00,South,Website
+ORD10227,Order Shipped,2026-06-04 20:00:00,South,Website
+ORD10227,Order Delivered,2026-06-17 03:00:00,South,Website
+ORD10228,Order Created,2026-05-05 01:00:00,North,Marketplace
+ORD10228,Payment Approved,2026-05-09 09:00:00,North,Marketplace
+ORD10228,Inventory Checked,2026-05-10 10:00:00,North,Marketplace
+ORD10228,Inventory Recheck,2026-05-12 11:00:00,North,Marketplace
+ORD10228,Order Packed,2026-05-22 15:00:00,North,Marketplace
+ORD10228,Order Shipped,2026-05-30 18:00:00,North,Marketplace
+ORD10228,Order Delivered,2026-06-03 01:00:00,North,Marketplace
+ORD10229,Order Created,2026-04-29 01:00:00,East,Mobile App
+ORD10229,Payment Approved,2026-05-01 02:00:00,East,Mobile App
+ORD10229,Inventory Checked,2026-05-07 02:00:00,East,Mobile App
+ORD10229,Order Packed,2026-05-13 02:00:00,East,Mobile App
+ORD10229,Order Shipped,2026-05-19 04:00:00,East,Mobile App
+ORD10229,Order Delivered,2026-05-26 06:00:00,East,Mobile App
+ORD10230,Order Created,2026-04-24 07:00:00,East,Mobile App
+ORD10230,Payment Approved,2026-05-06 11:00:00,East,Mobile App
+ORD10230,Inventory Checked,2026-05-09 17:00:00,East,Mobile App
+ORD10230,Order Packed,2026-05-12 00:00:00,East,Mobile App
+ORD10230,Order Shipped,2026-05-19 06:00:00,East,Mobile App
+ORD10230,Order Delivered,2026-05-26 08:00:00,East,Mobile App
+ORD10231,Order Created,2026-01-16 06:00:00,South,Website
+ORD10231,Payment Approved,2026-01-18 11:00:00,South,Website
+ORD10231,Inventory Checked,2026-02-01 11:00:00,South,Website
+ORD10231,Order Packed,2026-02-11 13:00:00,South,Website
+ORD10231,Order Shipped,2026-02-19 20:00:00,South,Website
+ORD10231,Order Delivered,2026-02-23 03:00:00,South,Website
+ORD10232,Order Created,2026-04-23 08:00:00,South,Mobile App
+ORD10232,Payment Approved,2026-04-25 09:00:00,South,Mobile App
+ORD10232,Inventory Checked,2026-05-04 15:00:00,South,Mobile App
+ORD10232,Payment Retry,2026-05-08 18:00:00,South,Mobile App
+ORD10232,Order Packed,2026-05-20 01:00:00,South,Mobile App
+ORD10232,Order Shipped,2026-05-26 06:00:00,South,Mobile App
+ORD10232,Order Delivered,2026-06-04 12:00:00,South,Mobile App
+ORD10233,Order Created,2026-01-14 07:00:00,North,Marketplace
+ORD10233,Payment Approved,2026-01-25 12:00:00,North,Marketplace
+ORD10233,Inventory Checked,2026-01-31 15:00:00,North,Marketplace
+ORD10233,Order Packed,2026-02-08 20:00:00,North,Marketplace
+ORD10233,Order Shipped,2026-02-12 00:00:00,North,Marketplace
+ORD10233,Order Delivered,2026-02-14 00:00:00,North,Marketplace
+ORD10234,Order Created,2026-04-08 07:00:00,North,Marketplace
+ORD10234,Payment Approved,2026-04-12 14:00:00,North,Marketplace
+ORD10234,Inventory Checked,2026-04-15 19:00:00,North,Marketplace
+ORD10234,Order Packed,2026-04-23 20:00:00,North,Marketplace
+ORD10234,Order Shipped,2026-04-26 03:00:00,North,Marketplace
+ORD10234,Order Delivered,2026-05-10 03:00:00,North,Marketplace
+ORD10235,Order Created,2026-04-16 08:00:00,South,Mobile App
+ORD10235,Payment Approved,2026-04-25 11:00:00,South,Mobile App
+ORD10235,Inventory Checked,2026-05-13 18:00:00,South,Mobile App
+ORD10235,Inventory Recheck,2026-05-15 23:00:00,South,Mobile App
+ORD10235,Order Packed,2026-05-26 04:00:00,South,Mobile App
+ORD10235,Order Shipped,2026-05-31 04:00:00,South,Mobile App
+ORD10235,Order Delivered,2026-06-09 07:00:00,South,Mobile App
+ORD10236,Order Created,2026-05-25 05:00:00,West,Mobile App
+ORD10236,Payment Approved,2026-06-06 10:00:00,West,Mobile App
+ORD10236,Inventory Checked,2026-06-18 14:00:00,West,Mobile App
+ORD10236,Order Packed,2026-06-29 22:00:00,West,Mobile App
+ORD10236,Order Shipped,2026-07-04 06:00:00,West,Mobile App
+ORD10236,Order Delivered,2026-07-05 11:00:00,West,Mobile App
+ORD10237,Order Created,2026-02-13 07:00:00,South,Website
+ORD10237,Payment Approved,2026-02-16 10:00:00,South,Website
+ORD10237,Inventory Checked,2026-03-02 15:00:00,South,Website
+ORD10237,Inventory Recheck,2026-03-12 16:00:00,South,Website
+ORD10237,Order Packed,2026-03-14 22:00:00,South,Website
+ORD10237,Order Shipped,2026-03-21 22:00:00,South,Website
+ORD10237,Order Delivered,2026-03-25 23:00:00,South,Website
+ORD10238,Order Created,2026-05-31 02:00:00,West,Mobile App
+ORD10238,Payment Approved,2026-06-08 04:00:00,West,Mobile App
+ORD10238,Inventory Checked,2026-06-09 06:00:00,West,Mobile App
+ORD10238,Payment Retry,2026-06-16 07:00:00,West,Mobile App
+ORD10238,Order Packed,2026-06-26 13:00:00,West,Mobile App
+ORD10238,Order Shipped,2026-07-04 18:00:00,West,Mobile App
+ORD10238,Order Delivered,2026-07-14 02:00:00,West,Mobile App
+ORD10239,Order Created,2026-03-06 08:00:00,West,Mobile App
+ORD10239,Payment Approved,2026-03-13 12:00:00,West,Mobile App
+ORD10239,Inventory Checked,2026-03-24 20:00:00,West,Mobile App
+ORD10239,Order Packed,2026-03-28 01:00:00,West,Mobile App
+ORD10239,Order Shipped,2026-03-31 09:00:00,West,Mobile App
+ORD10239,Order Delivered,2026-04-07 12:00:00,West,Mobile App
+ORD10240,Order Created,2026-03-17 01:00:00,North,Website
+ORD10240,Payment Approved,2026-03-28 06:00:00,North,Website
+ORD10240,Inventory Checked,2026-04-02 14:00:00,North,Website
+ORD10240,Order Packed,2026-04-05 21:00:00,North,Website
+ORD10240,Order Shipped,2026-04-12 03:00:00,North,Website
+ORD10240,Order Delivered,2026-04-24 11:00:00,North,Website
+ORD10241,Order Created,2026-01-04 04:00:00,East,Mobile App
+ORD10241,Payment Approved,2026-01-05 06:00:00,East,Mobile App
+ORD10241,Inventory Checked,2026-01-18 06:00:00,East,Mobile App
+ORD10241,Inventory Recheck,2026-01-19 10:00:00,East,Mobile App
+ORD10241,Order Packed,2026-01-22 13:00:00,East,Mobile App
+ORD10241,Order Shipped,2026-01-27 21:00:00,East,Mobile App
+ORD10241,Order Delivered,2026-02-07 21:00:00,East,Mobile App
+ORD10242,Order Created,2026-01-27 00:00:00,East,Mobile App
+ORD10242,Payment Approved,2026-02-08 06:00:00,East,Mobile App
+ORD10242,Inventory Checked,2026-02-26 12:00:00,East,Mobile App
+ORD10242,Order Packed,2026-03-10 18:00:00,East,Mobile App
+ORD10242,Order Shipped,2026-03-15 23:00:00,East,Mobile App
+ORD10242,Order Delivered,2026-03-28 07:00:00,East,Mobile App
+ORD10243,Order Created,2026-03-06 08:00:00,South,Website
+ORD10243,Payment Approved,2026-03-16 11:00:00,South,Website
+ORD10243,Inventory Checked,2026-03-31 14:00:00,South,Website
+ORD10243,Order Packed,2026-04-12 18:00:00,South,Website
+ORD10243,Order Shipped,2026-04-19 01:00:00,South,Website
+ORD10243,Order Delivered,2026-05-02 03:00:00,South,Website
+ORD10244,Order Created,2026-02-14 04:00:00,South,Website
+ORD10244,Payment Approved,2026-02-21 04:00:00,South,Website
+ORD10244,Inventory Checked,2026-02-23 09:00:00,South,Website
+ORD10244,Order Packed,2026-02-26 16:00:00,South,Website
+ORD10244,Order Shipped,2026-03-01 18:00:00,South,Website
+ORD10244,Order Delivered,2026-03-11 18:00:00,South,Website
+ORD10245,Order Created,2026-01-15 08:00:00,North,Mobile App
+ORD10245,Payment Approved,2026-01-23 09:00:00,North,Mobile App
+ORD10245,Inventory Checked,2026-02-10 17:00:00,North,Mobile App
+ORD10245,Order Packed,2026-02-16 19:00:00,North,Mobile App
+ORD10245,Order Shipped,2026-02-21 01:00:00,North,Mobile App
+ORD10245,Order Delivered,2026-02-24 09:00:00,North,Mobile App
+ORD10246,Order Created,2026-03-31 00:00:00,West,Website
+ORD10246,Payment Approved,2026-04-04 01:00:00,West,Website
+ORD10246,Inventory Checked,2026-04-15 06:00:00,West,Website
+ORD10246,Order Packed,2026-04-25 13:00:00,West,Website
+ORD10246,Order Shipped,2026-05-03 16:00:00,West,Website
+ORD10246,Order Delivered,2026-05-12 19:00:00,West,Website
+ORD10247,Order Created,2026-03-25 08:00:00,South,Marketplace
+ORD10247,Payment Approved,2026-03-27 15:00:00,South,Marketplace
+ORD10247,Inventory Checked,2026-04-09 22:00:00,South,Marketplace
+ORD10247,Order Packed,2026-04-10 22:00:00,South,Marketplace
+ORD10247,Order Shipped,2026-04-17 02:00:00,South,Marketplace
+ORD10247,Order Delivered,2026-04-26 05:00:00,South,Marketplace
+ORD10248,Order Created,2026-01-22 06:00:00,East,Marketplace
+ORD10248,Payment Approved,2026-01-25 07:00:00,East,Marketplace
+ORD10248,Inventory Checked,2026-02-12 10:00:00,East,Marketplace
+ORD10248,Order Packed,2026-02-16 18:00:00,East,Marketplace
+ORD10248,Order Shipped,2026-02-21 00:00:00,East,Marketplace
+ORD10248,Order Delivered,2026-03-07 01:00:00,East,Marketplace
+ORD10249,Order Created,2026-04-29 03:00:00,North,Website
+ORD10249,Payment Approved,2026-04-30 07:00:00,North,Website
+ORD10249,Inventory Checked,2026-05-03 13:00:00,North,Website
+ORD10249,Inventory Recheck,2026-05-06 19:00:00,North,Website
+ORD10249,Order Packed,2026-05-16 02:00:00,North,Website
+ORD10249,Order Shipped,2026-05-18 08:00:00,North,Website
+ORD10249,Order Delivered,2026-05-28 14:00:00,North,Website
+ORD10250,Order Created,2026-04-10 01:00:00,East,Website
+ORD10250,Payment Approved,2026-04-19 06:00:00,East,Website
+ORD10250,Inventory Checked,2026-04-20 14:00:00,East,Website
+ORD10250,Order Packed,2026-05-02 15:00:00,East,Website
+ORD10250,Order Shipped,2026-05-03 19:00:00,East,Website
+ORD10250,Order Delivered,2026-05-15 23:00:00,East,Website
+ORD10251,Order Created,2026-04-24 08:00:00,South,Mobile App
+ORD10251,Payment Approved,2026-05-01 12:00:00,South,Mobile App
+ORD10251,Inventory Checked,2026-05-02 14:00:00,South,Mobile App
+ORD10251,Order Packed,2026-05-05 18:00:00,South,Mobile App
+ORD10251,Order Shipped,2026-05-12 23:00:00,South,Mobile App
+ORD10251,Order Delivered,2026-05-25 23:00:00,South,Mobile App
+ORD10252,Order Created,2026-01-11 05:00:00,North,Website
+ORD10252,Payment Approved,2026-01-21 08:00:00,North,Website
+ORD10252,Inventory Checked,2026-02-03 14:00:00,North,Website
+ORD10252,Order Packed,2026-02-08 22:00:00,North,Website
+ORD10252,Order Shipped,2026-02-13 00:00:00,North,Website
+ORD10252,Order Delivered,2026-02-25 02:00:00,North,Website
+ORD10253,Order Created,2026-03-06 08:00:00,North,Website
+ORD10253,Payment Approved,2026-03-08 09:00:00,North,Website
+ORD10253,Inventory Checked,2026-03-14 13:00:00,North,Website
+ORD10253,Order Packed,2026-03-15 14:00:00,North,Website
+ORD10253,Order Shipped,2026-03-23 18:00:00,North,Website
+ORD10253,Order Delivered,2026-04-03 19:00:00,North,Website
+ORD10254,Order Created,2026-05-30 05:00:00,North,Marketplace
+ORD10254,Payment Approved,2026-06-05 12:00:00,North,Marketplace
+ORD10254,Inventory Checked,2026-06-17 19:00:00,North,Marketplace
+ORD10254,Inventory Recheck,2026-06-22 00:00:00,North,Marketplace
+ORD10254,Order Packed,2026-07-02 04:00:00,North,Marketplace
+ORD10254,Order Shipped,2026-07-04 06:00:00,North,Marketplace
+ORD10254,Order Delivered,2026-07-08 11:00:00,North,Marketplace
+ORD10255,Order Created,2026-02-13 05:00:00,East,Mobile App
+ORD10255,Payment Approved,2026-02-19 07:00:00,East,Mobile App
+ORD10255,Inventory Checked,2026-02-27 12:00:00,East,Mobile App
+ORD10255,Order Packed,2026-03-10 19:00:00,East,Mobile App
+ORD10255,Order Shipped,2026-03-18 02:00:00,East,Mobile App
+ORD10255,Order Delivered,2026-03-23 09:00:00,East,Mobile App
+ORD10256,Order Created,2026-05-05 01:00:00,East,Mobile App
+ORD10256,Payment Approved,2026-05-08 02:00:00,East,Mobile App
+ORD10256,Inventory Checked,2026-05-11 02:00:00,East,Mobile App
+ORD10256,Order Packed,2026-05-14 10:00:00,East,Mobile App
+ORD10256,Order Shipped,2026-05-18 10:00:00,East,Mobile App
+ORD10256,Order Delivered,2026-05-23 16:00:00,East,Mobile App
+ORD10257,Order Created,2026-05-23 04:00:00,North,Website
+ORD10257,Payment Approved,2026-06-01 06:00:00,North,Website
+ORD10257,Inventory Checked,2026-06-19 13:00:00,North,Website
+ORD10257,Order Packed,2026-06-25 21:00:00,North,Website
+ORD10257,Order Shipped,2026-07-03 05:00:00,North,Website
+ORD10257,Order Delivered,2026-07-07 06:00:00,North,Website
+ORD10258,Order Created,2026-05-09 08:00:00,West,Mobile App
+ORD10258,Payment Approved,2026-05-20 10:00:00,West,Mobile App
+ORD10258,Inventory Checked,2026-05-28 17:00:00,West,Mobile App
+ORD10258,Order Packed,2026-06-07 19:00:00,West,Mobile App
+ORD10258,Order Shipped,2026-06-10 21:00:00,West,Mobile App
+ORD10258,Order Delivered,2026-06-23 23:00:00,West,Mobile App
+ORD10259,Order Created,2026-01-11 05:00:00,West,Mobile App
+ORD10259,Payment Approved,2026-01-19 11:00:00,West,Mobile App
+ORD10259,Inventory Checked,2026-01-27 18:00:00,West,Mobile App
+ORD10259,Inventory Recheck,2026-02-03 01:00:00,West,Mobile App
+ORD10259,Order Packed,2026-02-14 01:00:00,West,Mobile App
+ORD10259,Order Shipped,2026-02-18 01:00:00,West,Mobile App
+ORD10259,Order Delivered,2026-02-27 06:00:00,West,Mobile App
+ORD10260,Order Created,2026-05-15 01:00:00,South,Marketplace
+ORD10260,Payment Approved,2026-05-27 09:00:00,South,Marketplace
+ORD10260,Inventory Checked,2026-06-05 13:00:00,South,Marketplace
+ORD10260,Order Packed,2026-06-12 19:00:00,South,Marketplace
+ORD10260,Order Shipped,2026-06-19 22:00:00,South,Marketplace
+ORD10260,Order Delivered,2026-06-26 06:00:00,South,Marketplace
+ORD10261,Order Created,2026-03-31 08:00:00,West,Mobile App
+ORD10261,Payment Approved,2026-04-08 12:00:00,West,Mobile App
+ORD10261,Inventory Checked,2026-04-09 15:00:00,West,Mobile App
+ORD10261,Order Packed,2026-04-12 17:00:00,West,Mobile App
+ORD10261,Order Shipped,2026-04-16 19:00:00,West,Mobile App
+ORD10261,Order Delivered,2026-04-18 21:00:00,West,Mobile App
+ORD10262,Order Created,2026-01-31 02:00:00,East,Marketplace
+ORD10262,Payment Approved,2026-02-07 08:00:00,East,Marketplace
+ORD10262,Inventory Checked,2026-02-18 08:00:00,East,Marketplace
+ORD10262,Order Packed,2026-02-26 11:00:00,East,Marketplace
+ORD10262,Order Shipped,2026-03-06 11:00:00,East,Marketplace
+ORD10262,Order Delivered,2026-03-10 13:00:00,East,Marketplace
+ORD10263,Order Created,2026-05-12 00:00:00,North,Website
+ORD10263,Payment Approved,2026-05-22 04:00:00,North,Website
+ORD10263,Inventory Checked,2026-05-27 05:00:00,North,Website
+ORD10263,Inventory Recheck,2026-06-01 08:00:00,North,Website
+ORD10263,Order Packed,2026-06-10 15:00:00,North,Website
+ORD10263,Order Shipped,2026-06-17 22:00:00,North,Website
+ORD10263,Order Delivered,2026-06-28 05:00:00,North,Website
+ORD10264,Order Created,2026-04-16 01:00:00,North,Website
+ORD10264,Payment Approved,2026-04-26 04:00:00,North,Website
+ORD10264,Inventory Checked,2026-05-02 10:00:00,North,Website
+ORD10264,Order Packed,2026-05-05 16:00:00,North,Website
+ORD10264,Order Shipped,2026-05-11 18:00:00,North,Website
+ORD10264,Order Delivered,2026-05-19 19:00:00,North,Website
+ORD10265,Order Created,2026-05-15 08:00:00,South,Website
+ORD10265,Payment Approved,2026-05-18 16:00:00,South,Website
+ORD10265,Inventory Checked,2026-05-22 17:00:00,South,Website
+ORD10265,Order Packed,2026-06-01 18:00:00,South,Website
+ORD10265,Order Shipped,2026-06-03 01:00:00,South,Website
+ORD10265,Order Delivered,2026-06-16 03:00:00,South,Website
+ORD10266,Order Created,2026-04-22 01:00:00,South,Marketplace
+ORD10266,Payment Approved,2026-04-28 07:00:00,South,Marketplace
+ORD10266,Inventory Checked,2026-04-30 09:00:00,South,Marketplace
+ORD10266,Order Packed,2026-05-08 13:00:00,South,Marketplace
+ORD10266,Order Shipped,2026-05-15 20:00:00,South,Marketplace
+ORD10266,Order Delivered,2026-05-21 23:00:00,South,Marketplace
+ORD10267,Order Created,2026-05-21 03:00:00,South,Mobile App
+ORD10267,Payment Approved,2026-05-26 08:00:00,South,Mobile App
+ORD10267,Inventory Checked,2026-06-02 14:00:00,South,Mobile App
+ORD10267,Inventory Recheck,2026-06-03 19:00:00,South,Mobile App
+ORD10267,Order Packed,2026-06-05 20:00:00,South,Mobile App
+ORD10267,Order Shipped,2026-06-06 22:00:00,South,Mobile App
+ORD10267,Order Delivered,2026-06-14 04:00:00,South,Mobile App
+ORD10268,Order Created,2026-05-19 08:00:00,East,Mobile App
+ORD10268,Payment Approved,2026-05-29 16:00:00,East,Mobile App
+ORD10268,Inventory Checked,2026-06-10 23:00:00,East,Mobile App
+ORD10268,Order Packed,2026-06-18 01:00:00,East,Mobile App
+ORD10268,Order Shipped,2026-06-22 06:00:00,East,Mobile App
+ORD10268,Order Delivered,2026-06-29 14:00:00,East,Mobile App
+ORD10269,Order Created,2026-03-21 03:00:00,West,Mobile App
+ORD10269,Payment Approved,2026-04-02 10:00:00,West,Mobile App
+ORD10269,Inventory Checked,2026-04-15 12:00:00,West,Mobile App
+ORD10269,Order Packed,2026-04-26 13:00:00,West,Mobile App
+ORD10269,Order Shipped,2026-04-28 16:00:00,West,Mobile App
+ORD10269,Order Delivered,2026-05-11 00:00:00,West,Mobile App
+ORD10270,Order Created,2026-05-21 06:00:00,West,Mobile App
+ORD10270,Payment Approved,2026-05-24 07:00:00,West,Mobile App
+ORD10270,Inventory Checked,2026-06-06 08:00:00,West,Mobile App
+ORD10270,Payment Retry,2026-06-08 12:00:00,West,Mobile App
+ORD10270,Order Packed,2026-06-11 15:00:00,West,Mobile App
+ORD10270,Order Shipped,2026-06-19 20:00:00,West,Mobile App
+ORD10270,Order Delivered,2026-06-29 21:00:00,West,Mobile App
+ORD10271,Order Created,2026-04-10 07:00:00,South,Marketplace
+ORD10271,Payment Approved,2026-04-20 14:00:00,South,Marketplace
+ORD10271,Inventory Checked,2026-05-07 14:00:00,South,Marketplace
+ORD10271,Order Packed,2026-05-08 17:00:00,South,Marketplace
+ORD10271,Order Shipped,2026-05-12 01:00:00,South,Marketplace
+ORD10271,Order Delivered,2026-05-23 05:00:00,South,Marketplace
+ORD10272,Order Created,2026-05-11 01:00:00,North,Website
+ORD10272,Payment Approved,2026-05-21 05:00:00,North,Website
+ORD10272,Inventory Checked,2026-05-27 11:00:00,North,Website
+ORD10272,Order Packed,2026-06-07 16:00:00,North,Website
+ORD10272,Order Shipped,2026-06-08 22:00:00,North,Website
+ORD10272,Order Delivered,2026-06-12 04:00:00,North,Website
+ORD10273,Order Created,2026-01-04 04:00:00,North,Marketplace
+ORD10273,Payment Approved,2026-01-06 07:00:00,North,Marketplace
+ORD10273,Inventory Checked,2026-01-24 10:00:00,North,Marketplace
+ORD10273,Order Packed,2026-02-03 17:00:00,North,Marketplace
+ORD10273,Order Shipped,2026-02-09 23:00:00,North,Marketplace
+ORD10273,Order Delivered,2026-02-15 23:00:00,North,Marketplace
+ORD10274,Order Created,2026-04-15 04:00:00,East,Website
+ORD10274,Payment Approved,2026-04-24 11:00:00,East,Website
+ORD10274,Inventory Checked,2026-04-27 17:00:00,East,Website
+ORD10274,Order Packed,2026-04-30 00:00:00,East,Website
+ORD10274,Order Shipped,2026-05-05 03:00:00,East,Website
+ORD10274,Order Delivered,2026-05-14 08:00:00,East,Website
+ORD10275,Order Created,2026-04-28 05:00:00,West,Marketplace
+ORD10275,Payment Approved,2026-05-06 11:00:00,West,Marketplace
+ORD10275,Inventory Checked,2026-05-10 16:00:00,West,Marketplace
+ORD10275,Order Packed,2026-05-15 00:00:00,West,Marketplace
+ORD10275,Order Shipped,2026-05-19 08:00:00,West,Marketplace
+ORD10275,Order Delivered,2026-06-01 08:00:00,West,Marketplace
+ORD10276,Order Created,2026-03-15 04:00:00,East,Website
+ORD10276,Payment Approved,2026-03-22 06:00:00,East,Website
+ORD10276,Inventory Checked,2026-04-02 09:00:00,East,Website
+ORD10276,Inventory Recheck,2026-04-05 16:00:00,East,Website
+ORD10276,Order Packed,2026-04-11 19:00:00,East,Website
+ORD10276,Order Shipped,2026-04-15 22:00:00,East,Website
+ORD10276,Order Delivered,2026-04-26 01:00:00,East,Website
+ORD10277,Order Created,2026-02-28 00:00:00,East,Website
+ORD10277,Payment Approved,2026-03-04 08:00:00,East,Website
+ORD10277,Inventory Checked,2026-03-16 08:00:00,East,Website
+ORD10277,Inventory Recheck,2026-03-18 15:00:00,East,Website
+ORD10277,Order Packed,2026-03-20 20:00:00,East,Website
+ORD10277,Order Shipped,2026-03-29 01:00:00,East,Website
+ORD10277,Order Delivered,2026-04-08 08:00:00,East,Website
+ORD10278,Order Created,2026-02-17 08:00:00,East,Mobile App
+ORD10278,Payment Approved,2026-02-24 08:00:00,East,Mobile App
+ORD10278,Inventory Checked,2026-03-04 16:00:00,East,Mobile App
+ORD10278,Order Packed,2026-03-13 21:00:00,East,Mobile App
+ORD10278,Order Shipped,2026-03-21 03:00:00,East,Mobile App
+ORD10278,Order Delivered,2026-03-29 05:00:00,East,Mobile App
+ORD10279,Order Created,2026-05-14 04:00:00,West,Website
+ORD10279,Payment Approved,2026-05-20 06:00:00,West,Website
+ORD10279,Inventory Checked,2026-05-21 14:00:00,West,Website
+ORD10279,Inventory Recheck,2026-05-25 18:00:00,West,Website
+ORD10279,Order Packed,2026-05-27 21:00:00,West,Website
+ORD10279,Order Shipped,2026-06-03 01:00:00,West,Website
+ORD10279,Order Delivered,2026-06-09 08:00:00,West,Website
+ORD10280,Order Created,2026-02-18 07:00:00,East,Mobile App
+ORD10280,Payment Approved,2026-02-25 09:00:00,East,Mobile App
+ORD10280,Inventory Checked,2026-03-04 11:00:00,East,Mobile App
+ORD10280,Order Packed,2026-03-10 14:00:00,East,Mobile App
+ORD10280,Order Shipped,2026-03-17 15:00:00,East,Mobile App
+ORD10280,Order Delivered,2026-03-22 19:00:00,East,Mobile App
+ORD10281,Order Created,2026-04-22 06:00:00,North,Marketplace
+ORD10281,Payment Approved,2026-04-26 13:00:00,North,Marketplace
+ORD10281,Inventory Checked,2026-05-01 15:00:00,North,Marketplace
+ORD10281,Order Packed,2026-05-09 23:00:00,North,Marketplace
+ORD10281,Order Shipped,2026-05-11 07:00:00,North,Marketplace
+ORD10281,Order Delivered,2026-05-14 12:00:00,North,Marketplace
+ORD10282,Order Created,2026-03-06 05:00:00,West,Mobile App
+ORD10282,Payment Approved,2026-03-13 09:00:00,West,Mobile App
+ORD10282,Inventory Checked,2026-03-17 14:00:00,West,Mobile App
+ORD10282,Payment Retry,2026-03-22 19:00:00,West,Mobile App
+ORD10282,Order Packed,2026-03-31 03:00:00,West,Mobile App
+ORD10282,Order Shipped,2026-04-02 11:00:00,West,Mobile App
+ORD10282,Order Delivered,2026-04-10 15:00:00,West,Mobile App
+ORD10283,Order Created,2026-04-16 04:00:00,East,Website
+ORD10283,Payment Approved,2026-04-22 09:00:00,East,Website
+ORD10283,Inventory Checked,2026-04-29 14:00:00,East,Website
+ORD10283,Order Packed,2026-05-08 22:00:00,East,Website
+ORD10283,Order Shipped,2026-05-12 05:00:00,East,Website
+ORD10283,Order Delivered,2026-05-25 12:00:00,East,Website
+ORD10284,Order Created,2026-03-16 06:00:00,South,Mobile App
+ORD10284,Payment Approved,2026-03-27 07:00:00,South,Mobile App
+ORD10284,Inventory Checked,2026-04-01 08:00:00,South,Mobile App
+ORD10284,Order Packed,2026-04-07 10:00:00,South,Mobile App
+ORD10284,Order Shipped,2026-04-14 15:00:00,South,Mobile App
+ORD10284,Order Delivered,2026-04-25 18:00:00,South,Mobile App
+ORD10285,Order Created,2026-03-17 02:00:00,East,Mobile App
+ORD10285,Payment Approved,2026-03-27 04:00:00,East,Mobile App
+ORD10285,Inventory Checked,2026-04-09 04:00:00,East,Mobile App
+ORD10285,Order Packed,2026-04-15 06:00:00,East,Mobile App
+ORD10285,Order Shipped,2026-04-23 09:00:00,East,Mobile App
+ORD10285,Order Delivered,2026-04-30 13:00:00,East,Mobile App
+ORD10286,Order Created,2026-02-13 01:00:00,South,Website
+ORD10286,Payment Approved,2026-02-15 02:00:00,South,Website
+ORD10286,Inventory Checked,2026-02-19 06:00:00,South,Website
+ORD10286,Inventory Recheck,2026-02-27 08:00:00,South,Website
+ORD10286,Order Packed,2026-02-28 09:00:00,South,Website
+ORD10286,Order Shipped,2026-03-07 15:00:00,South,Website
+ORD10286,Order Delivered,2026-03-16 19:00:00,South,Website
+ORD10287,Order Created,2026-03-15 08:00:00,North,Website
+ORD10287,Payment Approved,2026-03-26 12:00:00,North,Website
+ORD10287,Inventory Checked,2026-03-31 20:00:00,North,Website
+ORD10287,Inventory Recheck,2026-04-04 03:00:00,North,Website
+ORD10287,Payment Retry,2026-04-10 05:00:00,North,Website
+ORD10287,Order Packed,2026-04-16 13:00:00,North,Website
+ORD10287,Order Shipped,2026-04-24 15:00:00,North,Website
+ORD10287,Order Delivered,2026-05-02 22:00:00,North,Website
+ORD10288,Order Created,2026-05-18 06:00:00,West,Marketplace
+ORD10288,Payment Approved,2026-05-24 10:00:00,West,Marketplace
+ORD10288,Inventory Checked,2026-06-09 12:00:00,West,Marketplace
+ORD10288,Order Packed,2026-06-17 16:00:00,West,Marketplace
+ORD10288,Order Shipped,2026-06-22 16:00:00,West,Marketplace
+ORD10288,Order Delivered,2026-06-28 16:00:00,West,Marketplace
+ORD10289,Order Created,2026-03-16 06:00:00,North,Mobile App
+ORD10289,Payment Approved,2026-03-25 10:00:00,North,Mobile App
+ORD10289,Inventory Checked,2026-03-26 13:00:00,North,Mobile App
+ORD10289,Order Packed,2026-04-03 13:00:00,North,Mobile App
+ORD10289,Order Shipped,2026-04-08 21:00:00,North,Mobile App
+ORD10289,Order Delivered,2026-04-10 02:00:00,North,Mobile App
+ORD10290,Order Created,2026-05-25 04:00:00,North,Mobile App
+ORD10290,Payment Approved,2026-06-01 05:00:00,North,Mobile App
+ORD10290,Inventory Checked,2026-06-09 11:00:00,North,Mobile App
+ORD10290,Order Packed,2026-06-16 14:00:00,North,Mobile App
+ORD10290,Order Shipped,2026-06-23 22:00:00,North,Mobile App
+ORD10290,Order Delivered,2026-06-28 02:00:00,North,Mobile App
+ORD10291,Order Created,2026-05-18 07:00:00,East,Marketplace
+ORD10291,Payment Approved,2026-05-25 14:00:00,East,Marketplace
+ORD10291,Inventory Checked,2026-06-01 18:00:00,East,Marketplace
+ORD10291,Order Packed,2026-06-07 01:00:00,East,Marketplace
+ORD10291,Order Shipped,2026-06-09 04:00:00,East,Marketplace
+ORD10291,Order Delivered,2026-06-20 09:00:00,East,Marketplace
+ORD10292,Order Created,2026-01-13 01:00:00,South,Website
+ORD10292,Payment Approved,2026-01-16 03:00:00,South,Website
+ORD10292,Inventory Checked,2026-01-20 03:00:00,South,Website
+ORD10292,Order Packed,2026-01-28 10:00:00,South,Website
+ORD10292,Order Shipped,2026-01-29 13:00:00,South,Website
+ORD10292,Order Delivered,2026-02-02 18:00:00,South,Website
+ORD10293,Order Created,2026-05-09 06:00:00,West,Mobile App
+ORD10293,Payment Approved,2026-05-17 07:00:00,West,Mobile App
+ORD10293,Inventory Checked,2026-05-19 15:00:00,West,Mobile App
+ORD10293,Order Packed,2026-05-22 22:00:00,West,Mobile App
+ORD10293,Order Shipped,2026-05-24 00:00:00,West,Mobile App
+ORD10293,Order Delivered,2026-05-29 03:00:00,West,Mobile App
+ORD10294,Order Created,2026-01-04 07:00:00,East,Mobile App
+ORD10294,Payment Approved,2026-01-16 08:00:00,East,Mobile App
+ORD10294,Inventory Checked,2026-01-24 16:00:00,East,Mobile App
+ORD10294,Order Packed,2026-01-28 19:00:00,East,Mobile App
+ORD10294,Order Shipped,2026-01-30 02:00:00,East,Mobile App
+ORD10294,Order Delivered,2026-02-03 08:00:00,East,Mobile App
+ORD10295,Order Created,2026-02-10 05:00:00,East,Mobile App
+ORD10295,Payment Approved,2026-02-22 05:00:00,East,Mobile App
+ORD10295,Inventory Checked,2026-03-12 08:00:00,East,Mobile App
+ORD10295,Order Packed,2026-03-23 09:00:00,East,Mobile App
+ORD10295,Order Shipped,2026-03-28 12:00:00,East,Mobile App
+ORD10295,Order Delivered,2026-04-01 18:00:00,East,Mobile App
+ORD10296,Order Created,2026-02-13 02:00:00,East,Website
+ORD10296,Payment Approved,2026-02-23 07:00:00,East,Website
+ORD10296,Inventory Checked,2026-02-27 08:00:00,East,Website
+ORD10296,Order Packed,2026-02-28 11:00:00,East,Website
+ORD10296,Order Shipped,2026-03-08 13:00:00,East,Website
+ORD10296,Order Delivered,2026-03-20 20:00:00,East,Website
+ORD10297,Order Created,2026-03-28 03:00:00,South,Marketplace
+ORD10297,Payment Approved,2026-03-29 08:00:00,South,Marketplace
+ORD10297,Inventory Checked,2026-04-10 16:00:00,South,Marketplace
+ORD10297,Order Packed,2026-04-12 21:00:00,South,Marketplace
+ORD10297,Order Shipped,2026-04-16 04:00:00,South,Marketplace
+ORD10297,Order Delivered,2026-04-24 07:00:00,South,Marketplace
+ORD10298,Order Created,2026-04-08 07:00:00,South,Marketplace
+ORD10298,Payment Approved,2026-04-20 10:00:00,South,Marketplace
+ORD10298,Inventory Checked,2026-04-25 12:00:00,South,Marketplace
+ORD10298,Payment Retry,2026-05-03 20:00:00,South,Marketplace
+ORD10298,Order Packed,2026-05-13 01:00:00,South,Marketplace
+ORD10298,Order Shipped,2026-05-18 06:00:00,South,Marketplace
+ORD10298,Order Delivered,2026-05-27 13:00:00,South,Marketplace
+ORD10299,Order Created,2026-05-22 00:00:00,East,Marketplace
+ORD10299,Payment Approved,2026-05-24 08:00:00,East,Marketplace
+ORD10299,Inventory Checked,2026-06-10 14:00:00,East,Marketplace
+ORD10299,Inventory Recheck,2026-06-15 16:00:00,East,Marketplace
+ORD10299,Order Packed,2026-06-24 16:00:00,East,Marketplace
+ORD10299,Order Shipped,2026-06-30 21:00:00,East,Marketplace
+ORD10299,Order Delivered,2026-07-09 00:00:00,East,Marketplace
+ORD10300,Order Created,2026-01-18 06:00:00,East,Marketplace
+ORD10300,Payment Approved,2026-01-22 11:00:00,East,Marketplace
+ORD10300,Inventory Checked,2026-02-08 12:00:00,East,Marketplace
+ORD10300,Order Packed,2026-02-11 13:00:00,East,Marketplace
+ORD10300,Order Shipped,2026-02-16 21:00:00,East,Marketplace
+ORD10300,Order Delivered,2026-02-22 22:00:00,East,Marketplace
+ORD10301,Order Created,2026-02-15 04:00:00,South,Website
+ORD10301,Payment Approved,2026-02-19 04:00:00,South,Website
+ORD10301,Inventory Checked,2026-02-23 09:00:00,South,Website
+ORD10301,Payment Retry,2026-03-02 12:00:00,South,Website
+ORD10301,Order Packed,2026-03-13 13:00:00,South,Website
+ORD10301,Order Shipped,2026-03-21 13:00:00,South,Website
+ORD10301,Order Delivered,2026-03-30 16:00:00,South,Website
+ORD10302,Order Created,2026-04-30 04:00:00,West,Website
+ORD10302,Payment Approved,2026-05-06 12:00:00,West,Website
+ORD10302,Inventory Checked,2026-05-24 12:00:00,West,Website
+ORD10302,Order Packed,2026-05-30 13:00:00,West,Website
+ORD10302,Order Shipped,2026-05-31 17:00:00,West,Website
+ORD10302,Order Delivered,2026-06-14 18:00:00,West,Website
+ORD10303,Order Created,2026-01-25 02:00:00,North,Marketplace
+ORD10303,Payment Approved,2026-02-06 10:00:00,North,Marketplace
+ORD10303,Inventory Checked,2026-02-14 18:00:00,North,Marketplace
+ORD10303,Order Packed,2026-02-24 00:00:00,North,Marketplace
+ORD10303,Order Shipped,2026-02-28 01:00:00,North,Marketplace
+ORD10303,Order Delivered,2026-03-10 06:00:00,North,Marketplace
+ORD10304,Order Created,2026-04-20 07:00:00,West,Marketplace
+ORD10304,Payment Approved,2026-04-23 12:00:00,West,Marketplace
+ORD10304,Inventory Checked,2026-04-29 17:00:00,West,Marketplace
+ORD10304,Order Packed,2026-05-11 01:00:00,West,Marketplace
+ORD10304,Order Shipped,2026-05-14 06:00:00,West,Marketplace
+ORD10304,Order Delivered,2026-05-23 11:00:00,West,Marketplace
+ORD10305,Order Created,2026-04-22 07:00:00,West,Marketplace
+ORD10305,Payment Approved,2026-05-02 14:00:00,West,Marketplace
+ORD10305,Inventory Checked,2026-05-10 20:00:00,West,Marketplace
+ORD10305,Order Packed,2026-05-19 20:00:00,West,Marketplace
+ORD10305,Order Shipped,2026-05-24 20:00:00,West,Marketplace
+ORD10305,Order Delivered,2026-05-31 00:00:00,West,Marketplace
+ORD10306,Order Created,2026-02-05 04:00:00,South,Marketplace
+ORD10306,Payment Approved,2026-02-06 12:00:00,South,Marketplace
+ORD10306,Inventory Checked,2026-02-16 20:00:00,South,Marketplace
+ORD10306,Order Packed,2026-02-23 04:00:00,South,Marketplace
+ORD10306,Order Shipped,2026-02-24 06:00:00,South,Marketplace
+ORD10306,Order Delivered,2026-03-09 07:00:00,South,Marketplace
+ORD10307,Order Created,2026-04-02 04:00:00,South,Mobile App
+ORD10307,Payment Approved,2026-04-05 05:00:00,South,Mobile App
+ORD10307,Inventory Checked,2026-04-14 11:00:00,South,Mobile App
+ORD10307,Order Packed,2026-04-18 14:00:00,South,Mobile App
+ORD10307,Order Shipped,2026-04-23 15:00:00,South,Mobile App
+ORD10307,Order Delivered,2026-05-06 20:00:00,South,Mobile App
+ORD10308,Order Created,2026-05-05 06:00:00,West,Website
+ORD10308,Payment Approved,2026-05-15 12:00:00,West,Website
+ORD10308,Inventory Checked,2026-05-25 13:00:00,West,Website
+ORD10308,Inventory Recheck,2026-06-04 16:00:00,West,Website
+ORD10308,Order Packed,2026-06-05 16:00:00,West,Website
+ORD10308,Order Shipped,2026-06-11 22:00:00,West,Website
+ORD10308,Order Delivered,2026-06-17 22:00:00,West,Website
+ORD10309,Order Created,2026-01-12 06:00:00,East,Marketplace
+ORD10309,Payment Approved,2026-01-21 13:00:00,East,Marketplace
+ORD10309,Inventory Checked,2026-01-26 21:00:00,East,Marketplace
+ORD10309,Order Packed,2026-01-29 22:00:00,East,Marketplace
+ORD10309,Order Shipped,2026-01-31 01:00:00,East,Marketplace
+ORD10309,Order Delivered,2026-02-11 07:00:00,East,Marketplace
+ORD10310,Order Created,2026-02-07 01:00:00,East,Mobile App
+ORD10310,Payment Approved,2026-02-13 07:00:00,East,Mobile App
+ORD10310,Inventory Checked,2026-02-16 15:00:00,East,Mobile App
+ORD10310,Order Packed,2026-02-25 21:00:00,East,Mobile App
+ORD10310,Order Shipped,2026-03-04 23:00:00,East,Mobile App
+ORD10310,Order Delivered,2026-03-10 01:00:00,East,Mobile App
+ORD10311,Order Created,2026-02-21 01:00:00,West,Marketplace
+ORD10311,Payment Approved,2026-02-28 05:00:00,West,Marketplace
+ORD10311,Inventory Checked,2026-03-07 11:00:00,West,Marketplace
+ORD10311,Order Packed,2026-03-16 16:00:00,West,Marketplace
+ORD10311,Order Shipped,2026-03-20 17:00:00,West,Marketplace
+ORD10311,Order Delivered,2026-03-24 18:00:00,West,Marketplace
+ORD10312,Order Created,2026-04-05 07:00:00,West,Mobile App
+ORD10312,Payment Approved,2026-04-09 09:00:00,West,Mobile App
+ORD10312,Inventory Checked,2026-04-20 16:00:00,West,Mobile App
+ORD10312,Order Packed,2026-04-25 16:00:00,West,Mobile App
+ORD10312,Order Shipped,2026-04-28 19:00:00,West,Mobile App
+ORD10312,Order Delivered,2026-05-04 22:00:00,West,Mobile App
+ORD10313,Order Created,2026-01-22 05:00:00,East,Website
+ORD10313,Payment Approved,2026-02-03 06:00:00,East,Website
+ORD10313,Inventory Checked,2026-02-05 10:00:00,East,Website
+ORD10313,Order Packed,2026-02-08 17:00:00,East,Website
+ORD10313,Order Shipped,2026-02-14 00:00:00,East,Website
+ORD10313,Order Delivered,2026-02-15 00:00:00,East,Website
+ORD10314,Order Created,2026-05-18 00:00:00,East,Website
+ORD10314,Payment Approved,2026-05-22 06:00:00,East,Website
+ORD10314,Inventory Checked,2026-06-09 14:00:00,East,Website
+ORD10314,Order Packed,2026-06-17 14:00:00,East,Website
+ORD10314,Order Shipped,2026-06-20 18:00:00,East,Website
+ORD10314,Order Delivered,2026-07-02 20:00:00,East,Website
+ORD10315,Order Created,2026-02-22 05:00:00,South,Mobile App
+ORD10315,Payment Approved,2026-02-23 06:00:00,South,Mobile App
+ORD10315,Inventory Checked,2026-03-10 06:00:00,South,Mobile App
+ORD10315,Payment Retry,2026-03-17 10:00:00,South,Mobile App
+ORD10315,Order Packed,2026-03-28 16:00:00,South,Mobile App
+ORD10315,Order Shipped,2026-04-02 19:00:00,South,Mobile App
+ORD10315,Order Delivered,2026-04-14 01:00:00,South,Mobile App
+ORD10316,Order Created,2026-05-05 03:00:00,South,Mobile App
+ORD10316,Payment Approved,2026-05-08 11:00:00,South,Mobile App
+ORD10316,Inventory Checked,2026-05-15 15:00:00,South,Mobile App
+ORD10316,Order Packed,2026-05-27 20:00:00,South,Mobile App
+ORD10316,Order Shipped,2026-05-29 03:00:00,South,Mobile App
+ORD10316,Order Delivered,2026-05-30 09:00:00,South,Mobile App
+ORD10317,Order Created,2026-03-31 00:00:00,North,Website
+ORD10317,Payment Approved,2026-04-06 04:00:00,North,Website
+ORD10317,Inventory Checked,2026-04-16 10:00:00,North,Website
+ORD10317,Order Packed,2026-04-25 10:00:00,North,Website
+ORD10317,Order Shipped,2026-04-30 18:00:00,North,Website
+ORD10317,Order Delivered,2026-05-13 22:00:00,North,Website
+ORD10318,Order Created,2026-03-30 03:00:00,North,Website
+ORD10318,Payment Approved,2026-04-10 05:00:00,North,Website
+ORD10318,Inventory Checked,2026-04-15 11:00:00,North,Website
+ORD10318,Inventory Recheck,2026-04-22 15:00:00,North,Website
+ORD10318,Order Packed,2026-05-03 20:00:00,North,Website
+ORD10318,Order Shipped,2026-05-08 03:00:00,North,Website
+ORD10318,Order Delivered,2026-05-15 11:00:00,North,Website
+ORD10319,Order Created,2026-02-05 02:00:00,North,Website
+ORD10319,Payment Approved,2026-02-08 04:00:00,North,Website
+ORD10319,Inventory Checked,2026-02-18 09:00:00,North,Website
+ORD10319,Order Packed,2026-02-21 10:00:00,North,Website
+ORD10319,Order Shipped,2026-02-28 18:00:00,North,Website
+ORD10319,Order Delivered,2026-03-14 02:00:00,North,Website
+ORD10320,Order Created,2026-03-23 07:00:00,South,Website
+ORD10320,Payment Approved,2026-04-04 11:00:00,South,Website
+ORD10320,Inventory Checked,2026-04-05 13:00:00,South,Website
+ORD10320,Order Packed,2026-04-12 16:00:00,South,Website
+ORD10320,Order Shipped,2026-04-19 17:00:00,South,Website
+ORD10320,Order Delivered,2026-04-24 19:00:00,South,Website
+ORD10321,Order Created,2026-03-10 08:00:00,North,Website
+ORD10321,Payment Approved,2026-03-20 15:00:00,North,Website
+ORD10321,Inventory Checked,2026-03-28 20:00:00,North,Website
+ORD10321,Payment Retry,2026-03-30 22:00:00,North,Website
+ORD10321,Order Packed,2026-04-12 04:00:00,North,Website
+ORD10321,Order Shipped,2026-04-20 11:00:00,North,Website
+ORD10321,Order Delivered,2026-04-23 18:00:00,North,Website
+ORD10322,Order Created,2026-02-19 03:00:00,North,Website
+ORD10322,Payment Approved,2026-02-20 06:00:00,North,Website
+ORD10322,Inventory Checked,2026-03-06 07:00:00,North,Website
+ORD10322,Payment Retry,2026-03-11 09:00:00,North,Website
+ORD10322,Order Packed,2026-03-18 16:00:00,North,Website
+ORD10322,Order Shipped,2026-03-22 23:00:00,North,Website
+ORD10322,Order Delivered,2026-04-04 04:00:00,North,Website
+ORD10323,Order Created,2026-04-21 01:00:00,West,Website
+ORD10323,Payment Approved,2026-04-22 08:00:00,West,Website
+ORD10323,Inventory Checked,2026-05-05 15:00:00,West,Website
+ORD10323,Order Packed,2026-05-17 15:00:00,West,Website
+ORD10323,Order Shipped,2026-05-18 18:00:00,West,Website
+ORD10323,Order Delivered,2026-05-28 02:00:00,West,Website
+ORD10324,Order Created,2026-01-12 02:00:00,West,Marketplace
+ORD10324,Payment Approved,2026-01-21 08:00:00,West,Marketplace
+ORD10324,Inventory Checked,2026-01-23 12:00:00,West,Marketplace
+ORD10324,Order Packed,2026-01-28 12:00:00,West,Marketplace
+ORD10324,Order Shipped,2026-02-02 20:00:00,West,Marketplace
+ORD10324,Order Delivered,2026-02-10 22:00:00,West,Marketplace
+ORD10325,Order Created,2026-04-26 06:00:00,West,Marketplace
+ORD10325,Payment Approved,2026-05-08 11:00:00,West,Marketplace
+ORD10325,Inventory Checked,2026-05-25 18:00:00,West,Marketplace
+ORD10325,Inventory Recheck,2026-06-04 18:00:00,West,Marketplace
+ORD10325,Order Packed,2026-06-16 20:00:00,West,Marketplace
+ORD10325,Order Shipped,2026-06-20 03:00:00,West,Marketplace
+ORD10325,Order Delivered,2026-06-27 06:00:00,West,Marketplace
+ORD10326,Order Created,2026-03-07 05:00:00,West,Website
+ORD10326,Payment Approved,2026-03-19 06:00:00,West,Website
+ORD10326,Inventory Checked,2026-03-25 14:00:00,West,Website
+ORD10326,Order Packed,2026-03-27 20:00:00,West,Website
+ORD10326,Order Shipped,2026-04-05 04:00:00,West,Website
+ORD10326,Order Delivered,2026-04-16 06:00:00,West,Website
+ORD10327,Order Created,2026-04-08 02:00:00,West,Marketplace
+ORD10327,Payment Approved,2026-04-11 04:00:00,West,Marketplace
+ORD10327,Inventory Checked,2026-04-22 04:00:00,West,Marketplace
+ORD10327,Order Packed,2026-04-25 10:00:00,West,Marketplace
+ORD10327,Order Shipped,2026-04-28 14:00:00,West,Marketplace
+ORD10327,Order Delivered,2026-05-12 18:00:00,West,Marketplace
+ORD10328,Order Created,2026-02-16 07:00:00,West,Mobile App
+ORD10328,Payment Approved,2026-02-19 10:00:00,West,Mobile App
+ORD10328,Inventory Checked,2026-02-26 13:00:00,West,Mobile App
+ORD10328,Inventory Recheck,2026-03-03 20:00:00,West,Mobile App
+ORD10328,Payment Retry,2026-03-12 03:00:00,West,Mobile App
+ORD10328,Order Packed,2026-03-20 09:00:00,West,Mobile App
+ORD10328,Order Shipped,2026-03-21 16:00:00,West,Mobile App
+ORD10328,Order Delivered,2026-03-31 17:00:00,West,Mobile App
+ORD10329,Order Created,2026-05-22 05:00:00,South,Website
+ORD10329,Payment Approved,2026-06-01 05:00:00,South,Website
+ORD10329,Inventory Checked,2026-06-19 07:00:00,South,Website
+ORD10329,Order Packed,2026-06-22 07:00:00,South,Website
+ORD10329,Order Shipped,2026-06-25 11:00:00,South,Website
+ORD10329,Order Delivered,2026-06-26 16:00:00,South,Website
+ORD10330,Order Created,2026-01-29 05:00:00,South,Website
+ORD10330,Payment Approved,2026-02-01 05:00:00,South,Website
+ORD10330,Inventory Checked,2026-02-07 06:00:00,South,Website
+ORD10330,Order Packed,2026-02-19 10:00:00,South,Website
+ORD10330,Order Shipped,2026-02-22 15:00:00,South,Website
+ORD10330,Order Delivered,2026-03-02 20:00:00,South,Website
+ORD10331,Order Created,2026-04-20 03:00:00,West,Website
+ORD10331,Payment Approved,2026-04-25 03:00:00,West,Website
+ORD10331,Inventory Checked,2026-05-11 04:00:00,West,Website
+ORD10331,Inventory Recheck,2026-05-16 12:00:00,West,Website
+ORD10331,Order Packed,2026-05-23 13:00:00,West,Website
+ORD10331,Order Shipped,2026-05-27 20:00:00,West,Website
+ORD10331,Order Delivered,2026-06-09 00:00:00,West,Website
+ORD10332,Order Created,2026-03-24 02:00:00,West,Marketplace
+ORD10332,Payment Approved,2026-04-02 05:00:00,West,Marketplace
+ORD10332,Inventory Checked,2026-04-14 09:00:00,West,Marketplace
+ORD10332,Order Packed,2026-04-22 12:00:00,West,Marketplace
+ORD10332,Order Shipped,2026-04-30 12:00:00,West,Marketplace
+ORD10332,Order Delivered,2026-05-08 13:00:00,West,Marketplace
+ORD10333,Order Created,2026-01-31 03:00:00,South,Mobile App
+ORD10333,Payment Approved,2026-02-10 07:00:00,South,Mobile App
+ORD10333,Inventory Checked,2026-02-24 11:00:00,South,Mobile App
+ORD10333,Order Packed,2026-03-05 12:00:00,South,Mobile App
+ORD10333,Order Shipped,2026-03-09 16:00:00,South,Mobile App
+ORD10333,Order Delivered,2026-03-10 20:00:00,South,Mobile App
+ORD10334,Order Created,2026-01-31 05:00:00,East,Website
+ORD10334,Payment Approved,2026-02-06 10:00:00,East,Website
+ORD10334,Inventory Checked,2026-02-19 17:00:00,East,Website
+ORD10334,Order Packed,2026-02-21 00:00:00,East,Website
+ORD10334,Order Shipped,2026-02-24 00:00:00,East,Website
+ORD10334,Order Delivered,2026-02-28 02:00:00,East,Website
+ORD10335,Order Created,2026-04-29 08:00:00,West,Website
+ORD10335,Payment Approved,2026-05-07 08:00:00,West,Website
+ORD10335,Inventory Checked,2026-05-21 11:00:00,West,Website
+ORD10335,Payment Retry,2026-05-26 16:00:00,West,Website
+ORD10335,Order Packed,2026-06-05 21:00:00,West,Website
+ORD10335,Order Shipped,2026-06-11 22:00:00,West,Website
+ORD10335,Order Delivered,2026-06-21 00:00:00,West,Website
+ORD10336,Order Created,2026-03-29 01:00:00,East,Website
+ORD10336,Payment Approved,2026-04-09 05:00:00,East,Website
+ORD10336,Inventory Checked,2026-04-27 10:00:00,East,Website
+ORD10336,Order Packed,2026-05-04 10:00:00,East,Website
+ORD10336,Order Shipped,2026-05-07 14:00:00,East,Website
+ORD10336,Order Delivered,2026-05-17 20:00:00,East,Website
+ORD10337,Order Created,2026-03-03 00:00:00,South,Mobile App
+ORD10337,Payment Approved,2026-03-11 03:00:00,South,Mobile App
+ORD10337,Inventory Checked,2026-03-21 04:00:00,South,Mobile App
+ORD10337,Order Packed,2026-03-23 11:00:00,South,Mobile App
+ORD10337,Order Shipped,2026-03-29 19:00:00,South,Mobile App
+ORD10337,Order Delivered,2026-04-11 19:00:00,South,Mobile App
+ORD10338,Order Created,2026-02-09 01:00:00,West,Marketplace
+ORD10338,Payment Approved,2026-02-15 09:00:00,West,Marketplace
+ORD10338,Inventory Checked,2026-03-03 11:00:00,West,Marketplace
+ORD10338,Order Packed,2026-03-09 14:00:00,West,Marketplace
+ORD10338,Order Shipped,2026-03-12 14:00:00,West,Marketplace
+ORD10338,Order Delivered,2026-03-25 21:00:00,West,Marketplace
+ORD10339,Order Created,2026-05-14 07:00:00,West,Marketplace
+ORD10339,Payment Approved,2026-05-15 07:00:00,West,Marketplace
+ORD10339,Inventory Checked,2026-05-25 08:00:00,West,Marketplace
+ORD10339,Order Packed,2026-06-04 16:00:00,West,Marketplace
+ORD10339,Order Shipped,2026-06-06 20:00:00,West,Marketplace
+ORD10339,Order Delivered,2026-06-12 20:00:00,West,Marketplace
+ORD10340,Order Created,2026-02-24 02:00:00,East,Marketplace
+ORD10340,Payment Approved,2026-02-28 04:00:00,East,Marketplace
+ORD10340,Inventory Checked,2026-03-07 08:00:00,East,Marketplace
+ORD10340,Order Packed,2026-03-15 09:00:00,East,Marketplace
+ORD10340,Order Shipped,2026-03-17 09:00:00,East,Marketplace
+ORD10340,Order Delivered,2026-03-22 17:00:00,East,Marketplace
+ORD10341,Order Created,2026-05-20 01:00:00,South,Website
+ORD10341,Payment Approved,2026-05-29 05:00:00,South,Website
+ORD10341,Inventory Checked,2026-06-09 10:00:00,South,Website
+ORD10341,Order Packed,2026-06-14 18:00:00,South,Website
+ORD10341,Order Shipped,2026-06-19 01:00:00,South,Website
+ORD10341,Order Delivered,2026-06-22 01:00:00,South,Website
+ORD10342,Order Created,2026-05-01 05:00:00,North,Website
+ORD10342,Payment Approved,2026-05-03 09:00:00,North,Website
+ORD10342,Inventory Checked,2026-05-16 14:00:00,North,Website
+ORD10342,Inventory Recheck,2026-05-23 17:00:00,North,Website
+ORD10342,Order Packed,2026-06-05 01:00:00,North,Website
+ORD10342,Order Shipped,2026-06-13 02:00:00,North,Website
+ORD10342,Order Delivered,2026-06-23 09:00:00,North,Website
+ORD10343,Order Created,2026-04-30 03:00:00,North,Website
+ORD10343,Payment Approved,2026-05-08 05:00:00,North,Website
+ORD10343,Inventory Checked,2026-05-18 09:00:00,North,Website
+ORD10343,Order Packed,2026-05-26 14:00:00,North,Website
+ORD10343,Order Shipped,2026-06-03 20:00:00,North,Website
+ORD10343,Order Delivered,2026-06-07 22:00:00,North,Website
+ORD10344,Order Created,2026-04-28 05:00:00,East,Mobile App
+ORD10344,Payment Approved,2026-04-29 07:00:00,East,Mobile App
+ORD10344,Inventory Checked,2026-05-02 15:00:00,East,Mobile App
+ORD10344,Order Packed,2026-05-10 16:00:00,East,Mobile App
+ORD10344,Order Shipped,2026-05-13 22:00:00,East,Mobile App
+ORD10344,Order Delivered,2026-05-18 23:00:00,East,Mobile App
+ORD10345,Order Created,2026-01-20 02:00:00,East,Marketplace
+ORD10345,Payment Approved,2026-01-29 09:00:00,East,Marketplace
+ORD10345,Inventory Checked,2026-02-13 15:00:00,East,Marketplace
+ORD10345,Order Packed,2026-02-23 16:00:00,East,Marketplace
+ORD10345,Order Shipped,2026-02-27 21:00:00,East,Marketplace
+ORD10345,Order Delivered,2026-03-09 00:00:00,East,Marketplace
+ORD10346,Order Created,2026-05-27 07:00:00,West,Mobile App
+ORD10346,Payment Approved,2026-06-05 12:00:00,West,Mobile App
+ORD10346,Inventory Checked,2026-06-13 20:00:00,West,Mobile App
+ORD10346,Order Packed,2026-06-25 21:00:00,West,Mobile App
+ORD10346,Order Shipped,2026-07-04 04:00:00,West,Mobile App
+ORD10346,Order Delivered,2026-07-06 06:00:00,West,Mobile App
+ORD10347,Order Created,2026-01-18 02:00:00,East,Mobile App
+ORD10347,Payment Approved,2026-01-29 02:00:00,East,Mobile App
+ORD10347,Inventory Checked,2026-02-11 04:00:00,East,Mobile App
+ORD10347,Order Packed,2026-02-12 06:00:00,East,Mobile App
+ORD10347,Order Shipped,2026-02-14 13:00:00,East,Mobile App
+ORD10347,Order Delivered,2026-02-18 21:00:00,East,Mobile App
+ORD10348,Order Created,2026-05-29 05:00:00,East,Mobile App
+ORD10348,Payment Approved,2026-06-02 06:00:00,East,Mobile App
+ORD10348,Inventory Checked,2026-06-09 06:00:00,East,Mobile App
+ORD10348,Order Packed,2026-06-19 14:00:00,East,Mobile App
+ORD10348,Order Shipped,2026-06-24 20:00:00,East,Mobile App
+ORD10348,Order Delivered,2026-07-01 22:00:00,East,Mobile App
+ORD10349,Order Created,2026-04-05 06:00:00,East,Website
+ORD10349,Payment Approved,2026-04-06 12:00:00,East,Website
+ORD10349,Inventory Checked,2026-04-24 17:00:00,East,Website
+ORD10349,Order Packed,2026-04-29 23:00:00,East,Website
+ORD10349,Order Shipped,2026-05-01 05:00:00,East,Website
+ORD10349,Order Delivered,2026-05-05 11:00:00,East,Website
+ORD10350,Order Created,2026-02-24 04:00:00,West,Marketplace
+ORD10350,Payment Approved,2026-03-04 06:00:00,West,Marketplace
+ORD10350,Inventory Checked,2026-03-09 08:00:00,West,Marketplace
+ORD10350,Order Packed,2026-03-15 08:00:00,West,Marketplace
+ORD10350,Order Shipped,2026-03-22 09:00:00,West,Marketplace
+ORD10350,Order Delivered,2026-03-25 09:00:00,West,Marketplace
+ORD10351,Order Created,2026-05-06 02:00:00,North,Marketplace
+ORD10351,Payment Approved,2026-05-09 09:00:00,North,Marketplace
+ORD10351,Inventory Checked,2026-05-12 17:00:00,North,Marketplace
+ORD10351,Inventory Recheck,2026-05-19 23:00:00,North,Marketplace
+ORD10351,Order Packed,2026-06-01 07:00:00,North,Marketplace
+ORD10351,Order Shipped,2026-06-08 14:00:00,North,Marketplace
+ORD10351,Order Delivered,2026-06-18 20:00:00,North,Marketplace
+ORD10352,Order Created,2026-02-18 08:00:00,East,Website
+ORD10352,Payment Approved,2026-02-28 13:00:00,East,Website
+ORD10352,Inventory Checked,2026-03-01 13:00:00,East,Website
+ORD10352,Order Packed,2026-03-05 13:00:00,East,Website
+ORD10352,Order Shipped,2026-03-10 20:00:00,East,Website
+ORD10352,Order Delivered,2026-03-18 01:00:00,East,Website
+ORD10353,Order Created,2026-05-04 01:00:00,South,Marketplace
+ORD10353,Payment Approved,2026-05-07 09:00:00,South,Marketplace
+ORD10353,Inventory Checked,2026-05-24 10:00:00,South,Marketplace
+ORD10353,Order Packed,2026-05-29 13:00:00,South,Marketplace
+ORD10353,Order Shipped,2026-06-06 20:00:00,South,Marketplace
+ORD10353,Order Delivered,2026-06-15 21:00:00,South,Marketplace
+ORD10354,Order Created,2026-01-15 05:00:00,East,Marketplace
+ORD10354,Payment Approved,2026-01-24 09:00:00,East,Marketplace
+ORD10354,Inventory Checked,2026-01-25 13:00:00,East,Marketplace
+ORD10354,Order Packed,2026-02-02 15:00:00,East,Marketplace
+ORD10354,Order Shipped,2026-02-08 15:00:00,East,Marketplace
+ORD10354,Order Delivered,2026-02-15 19:00:00,East,Marketplace
+ORD10355,Order Created,2026-05-02 07:00:00,East,Website
+ORD10355,Payment Approved,2026-05-12 08:00:00,East,Website
+ORD10355,Inventory Checked,2026-05-14 10:00:00,East,Website
+ORD10355,Order Packed,2026-05-26 18:00:00,East,Website
+ORD10355,Order Shipped,2026-05-27 19:00:00,East,Website
+ORD10355,Order Delivered,2026-06-01 23:00:00,East,Website
+ORD10356,Order Created,2026-03-14 07:00:00,East,Website
+ORD10356,Payment Approved,2026-03-19 12:00:00,East,Website
+ORD10356,Inventory Checked,2026-03-20 14:00:00,East,Website
+ORD10356,Order Packed,2026-03-30 18:00:00,East,Website
+ORD10356,Order Shipped,2026-04-02 21:00:00,East,Website
+ORD10356,Order Delivered,2026-04-14 04:00:00,East,Website
+ORD10357,Order Created,2026-01-10 06:00:00,North,Marketplace
+ORD10357,Payment Approved,2026-01-12 09:00:00,North,Marketplace
+ORD10357,Inventory Checked,2026-01-17 16:00:00,North,Marketplace
+ORD10357,Order Packed,2026-01-25 18:00:00,North,Marketplace
+ORD10357,Order Shipped,2026-02-01 21:00:00,North,Marketplace
+ORD10357,Order Delivered,2026-02-15 02:00:00,North,Marketplace
+ORD10358,Order Created,2026-03-09 06:00:00,South,Marketplace
+ORD10358,Payment Approved,2026-03-10 13:00:00,South,Marketplace
+ORD10358,Inventory Checked,2026-03-16 17:00:00,South,Marketplace
+ORD10358,Order Packed,2026-03-24 19:00:00,South,Marketplace
+ORD10358,Order Shipped,2026-03-29 03:00:00,South,Marketplace
+ORD10358,Order Delivered,2026-04-05 09:00:00,South,Marketplace
+ORD10359,Order Created,2026-04-26 05:00:00,South,Mobile App
+ORD10359,Payment Approved,2026-05-07 11:00:00,South,Mobile App
+ORD10359,Inventory Checked,2026-05-18 15:00:00,South,Mobile App
+ORD10359,Order Packed,2026-05-19 20:00:00,South,Mobile App
+ORD10359,Order Shipped,2026-05-22 00:00:00,South,Mobile App
+ORD10359,Order Delivered,2026-05-31 04:00:00,South,Mobile App
+ORD10360,Order Created,2026-05-31 02:00:00,South,Mobile App
+ORD10360,Payment Approved,2026-06-08 07:00:00,South,Mobile App
+ORD10360,Inventory Checked,2026-06-16 15:00:00,South,Mobile App
+ORD10360,Order Packed,2026-06-20 15:00:00,South,Mobile App
+ORD10360,Order Shipped,2026-06-26 15:00:00,South,Mobile App
+ORD10360,Order Delivered,2026-07-07 16:00:00,South,Mobile App
+ORD10361,Order Created,2026-01-26 00:00:00,South,Mobile App
+ORD10361,Payment Approved,2026-02-06 01:00:00,South,Mobile App
+ORD10361,Inventory Checked,2026-02-21 01:00:00,South,Mobile App
+ORD10361,Order Packed,2026-02-26 04:00:00,South,Mobile App
+ORD10361,Order Shipped,2026-03-02 05:00:00,South,Mobile App
+ORD10361,Order Delivered,2026-03-03 06:00:00,South,Mobile App
+ORD10362,Order Created,2026-02-04 01:00:00,South,Marketplace
+ORD10362,Payment Approved,2026-02-15 08:00:00,South,Marketplace
+ORD10362,Inventory Checked,2026-02-21 12:00:00,South,Marketplace
+ORD10362,Order Packed,2026-02-26 18:00:00,South,Marketplace
+ORD10362,Order Shipped,2026-03-03 23:00:00,South,Marketplace
+ORD10362,Order Delivered,2026-03-12 03:00:00,South,Marketplace
+ORD10363,Order Created,2026-03-12 07:00:00,North,Website
+ORD10363,Payment Approved,2026-03-19 10:00:00,North,Website
+ORD10363,Inventory Checked,2026-04-01 16:00:00,North,Website
+ORD10363,Payment Retry,2026-04-06 18:00:00,North,Website
+ORD10363,Order Packed,2026-04-10 01:00:00,North,Website
+ORD10363,Order Shipped,2026-04-18 02:00:00,North,Website
+ORD10363,Order Delivered,2026-04-20 04:00:00,North,Website
+ORD10364,Order Created,2026-01-29 02:00:00,West,Website
+ORD10364,Payment Approved,2026-02-10 02:00:00,West,Website
+ORD10364,Inventory Checked,2026-02-19 02:00:00,West,Website
+ORD10364,Inventory Recheck,2026-02-21 08:00:00,West,Website
+ORD10364,Payment Retry,2026-02-26 12:00:00,West,Website
+ORD10364,Order Packed,2026-03-06 14:00:00,West,Website
+ORD10364,Order Shipped,2026-03-07 19:00:00,West,Website
+ORD10364,Order Delivered,2026-03-16 01:00:00,West,Website
+ORD10365,Order Created,2026-05-07 06:00:00,South,Marketplace
+ORD10365,Payment Approved,2026-05-14 13:00:00,South,Marketplace
+ORD10365,Inventory Checked,2026-05-27 14:00:00,South,Marketplace
+ORD10365,Order Packed,2026-05-29 22:00:00,South,Marketplace
+ORD10365,Order Shipped,2026-06-03 03:00:00,South,Marketplace
+ORD10365,Order Delivered,2026-06-04 08:00:00,South,Marketplace
+ORD10366,Order Created,2026-01-15 03:00:00,East,Mobile App
+ORD10366,Payment Approved,2026-01-21 05:00:00,East,Mobile App
+ORD10366,Inventory Checked,2026-02-08 13:00:00,East,Mobile App
+ORD10366,Order Packed,2026-02-16 13:00:00,East,Mobile App
+ORD10366,Order Shipped,2026-02-21 19:00:00,East,Mobile App
+ORD10366,Order Delivered,2026-03-04 22:00:00,East,Mobile App
+ORD10367,Order Created,2026-04-10 00:00:00,East,Marketplace
+ORD10367,Payment Approved,2026-04-21 03:00:00,East,Marketplace
+ORD10367,Inventory Checked,2026-05-03 03:00:00,East,Marketplace
+ORD10367,Order Packed,2026-05-11 06:00:00,East,Marketplace
+ORD10367,Order Shipped,2026-05-15 13:00:00,East,Marketplace
+ORD10367,Order Delivered,2026-05-18 19:00:00,East,Marketplace
+ORD10368,Order Created,2026-03-21 00:00:00,South,Marketplace
+ORD10368,Payment Approved,2026-03-30 06:00:00,South,Marketplace
+ORD10368,Inventory Checked,2026-04-14 07:00:00,South,Marketplace
+ORD10368,Payment Retry,2026-04-20 10:00:00,South,Marketplace
+ORD10368,Order Packed,2026-04-21 18:00:00,South,Marketplace
+ORD10368,Order Shipped,2026-04-28 01:00:00,South,Marketplace
+ORD10368,Order Delivered,2026-05-11 09:00:00,South,Marketplace
+ORD10369,Order Created,2026-05-29 00:00:00,North,Marketplace
+ORD10369,Payment Approved,2026-05-31 03:00:00,North,Marketplace
+ORD10369,Inventory Checked,2026-06-02 05:00:00,North,Marketplace
+ORD10369,Order Packed,2026-06-03 05:00:00,North,Marketplace
+ORD10369,Order Shipped,2026-06-11 07:00:00,North,Marketplace
+ORD10369,Order Delivered,2026-06-21 07:00:00,North,Marketplace
+ORD10370,Order Created,2026-04-27 03:00:00,East,Website
+ORD10370,Payment Approved,2026-05-07 09:00:00,East,Website
+ORD10370,Inventory Checked,2026-05-10 14:00:00,East,Website
+ORD10370,Order Packed,2026-05-18 20:00:00,East,Website
+ORD10370,Order Shipped,2026-05-23 01:00:00,East,Website
+ORD10370,Order Delivered,2026-05-25 02:00:00,East,Website
+ORD10371,Order Created,2026-02-24 05:00:00,North,Mobile App
+ORD10371,Payment Approved,2026-03-06 13:00:00,North,Mobile App
+ORD10371,Inventory Checked,2026-03-12 15:00:00,North,Mobile App
+ORD10371,Order Packed,2026-03-15 22:00:00,North,Mobile App
+ORD10371,Order Shipped,2026-03-23 01:00:00,North,Mobile App
+ORD10371,Order Delivered,2026-03-26 01:00:00,North,Mobile App
+ORD10372,Order Created,2026-04-07 07:00:00,North,Website
+ORD10372,Payment Approved,2026-04-08 09:00:00,North,Website
+ORD10372,Inventory Checked,2026-04-24 12:00:00,North,Website
+ORD10372,Inventory Recheck,2026-04-25 14:00:00,North,Website
+ORD10372,Order Packed,2026-04-27 18:00:00,North,Website
+ORD10372,Order Shipped,2026-05-03 02:00:00,North,Website
+ORD10372,Order Delivered,2026-05-10 09:00:00,North,Website
+ORD10373,Order Created,2026-02-14 06:00:00,West,Website
+ORD10373,Payment Approved,2026-02-24 06:00:00,West,Website
+ORD10373,Inventory Checked,2026-03-02 14:00:00,West,Website
+ORD10373,Order Packed,2026-03-04 17:00:00,West,Website
+ORD10373,Order Shipped,2026-03-09 20:00:00,West,Website
+ORD10373,Order Delivered,2026-03-15 21:00:00,West,Website
+ORD10374,Order Created,2026-04-03 02:00:00,South,Marketplace
+ORD10374,Payment Approved,2026-04-11 04:00:00,South,Marketplace
+ORD10374,Inventory Checked,2026-04-18 04:00:00,South,Marketplace
+ORD10374,Order Packed,2026-04-21 04:00:00,South,Marketplace
+ORD10374,Order Shipped,2026-04-29 09:00:00,South,Marketplace
+ORD10374,Order Delivered,2026-05-07 13:00:00,South,Marketplace
+ORD10375,Order Created,2026-03-07 00:00:00,North,Mobile App
+ORD10375,Payment Approved,2026-03-17 07:00:00,North,Mobile App
+ORD10375,Inventory Checked,2026-04-01 15:00:00,North,Mobile App
+ORD10375,Inventory Recheck,2026-04-02 16:00:00,North,Mobile App
+ORD10375,Order Packed,2026-04-05 17:00:00,North,Mobile App
+ORD10375,Order Shipped,2026-04-08 20:00:00,North,Mobile App
+ORD10375,Order Delivered,2026-04-22 03:00:00,North,Mobile App
+ORD10376,Order Created,2026-02-21 01:00:00,East,Mobile App
+ORD10376,Payment Approved,2026-02-25 08:00:00,East,Mobile App
+ORD10376,Inventory Checked,2026-03-01 15:00:00,East,Mobile App
+ORD10376,Payment Retry,2026-03-08 15:00:00,East,Mobile App
+ORD10376,Order Packed,2026-03-12 21:00:00,East,Mobile App
+ORD10376,Order Shipped,2026-03-19 23:00:00,East,Mobile App
+ORD10376,Order Delivered,2026-03-24 02:00:00,East,Mobile App
+ORD10377,Order Created,2026-04-11 02:00:00,West,Website
+ORD10377,Payment Approved,2026-04-14 02:00:00,West,Website
+ORD10377,Inventory Checked,2026-04-29 02:00:00,West,Website
+ORD10377,Order Packed,2026-05-04 06:00:00,West,Website
+ORD10377,Order Shipped,2026-05-08 08:00:00,West,Website
+ORD10377,Order Delivered,2026-05-14 09:00:00,West,Website
+ORD10378,Order Created,2026-04-18 08:00:00,West,Mobile App
+ORD10378,Payment Approved,2026-04-24 11:00:00,West,Mobile App
+ORD10378,Inventory Checked,2026-05-02 12:00:00,West,Mobile App
+ORD10378,Order Packed,2026-05-13 18:00:00,West,Mobile App
+ORD10378,Order Shipped,2026-05-17 02:00:00,West,Mobile App
+ORD10378,Order Delivered,2026-05-27 09:00:00,West,Mobile App
+ORD10379,Order Created,2026-05-03 06:00:00,North,Marketplace
+ORD10379,Payment Approved,2026-05-08 09:00:00,North,Marketplace
+ORD10379,Inventory Checked,2026-05-09 11:00:00,North,Marketplace
+ORD10379,Order Packed,2026-05-13 11:00:00,North,Marketplace
+ORD10379,Order Shipped,2026-05-17 17:00:00,North,Marketplace
+ORD10379,Order Delivered,2026-05-23 17:00:00,North,Marketplace
+ORD10380,Order Created,2026-05-10 07:00:00,South,Mobile App
+ORD10380,Payment Approved,2026-05-17 10:00:00,South,Mobile App
+ORD10380,Inventory Checked,2026-06-03 11:00:00,South,Mobile App
+ORD10380,Order Packed,2026-06-15 19:00:00,South,Mobile App
+ORD10380,Order Shipped,2026-06-17 19:00:00,South,Mobile App
+ORD10380,Order Delivered,2026-06-26 01:00:00,South,Mobile App
+ORD10381,Order Created,2026-04-03 07:00:00,North,Website
+ORD10381,Payment Approved,2026-04-07 09:00:00,North,Website
+ORD10381,Inventory Checked,2026-04-10 15:00:00,North,Website
+ORD10381,Inventory Recheck,2026-04-15 17:00:00,North,Website
+ORD10381,Order Packed,2026-04-23 22:00:00,North,Website
+ORD10381,Order Shipped,2026-04-25 05:00:00,North,Website
+ORD10381,Order Delivered,2026-05-03 05:00:00,North,Website
+ORD10382,Order Created,2026-03-27 01:00:00,South,Mobile App
+ORD10382,Payment Approved,2026-04-01 06:00:00,South,Mobile App
+ORD10382,Inventory Checked,2026-04-15 06:00:00,South,Mobile App
+ORD10382,Order Packed,2026-04-25 14:00:00,South,Mobile App
+ORD10382,Order Shipped,2026-04-29 19:00:00,South,Mobile App
+ORD10382,Order Delivered,2026-05-12 19:00:00,South,Mobile App
+ORD10383,Order Created,2026-04-05 03:00:00,South,Mobile App
+ORD10383,Payment Approved,2026-04-15 05:00:00,South,Mobile App
+ORD10383,Inventory Checked,2026-04-17 10:00:00,South,Mobile App
+ORD10383,Order Packed,2026-04-26 13:00:00,South,Mobile App
+ORD10383,Order Shipped,2026-04-28 21:00:00,South,Mobile App
+ORD10383,Order Delivered,2026-05-07 22:00:00,South,Mobile App
+ORD10384,Order Created,2026-05-29 00:00:00,West,Marketplace
+ORD10384,Payment Approved,2026-06-10 01:00:00,West,Marketplace
+ORD10384,Inventory Checked,2026-06-18 06:00:00,West,Marketplace
+ORD10384,Order Packed,2026-06-27 11:00:00,West,Marketplace
+ORD10384,Order Shipped,2026-07-04 18:00:00,West,Marketplace
+ORD10384,Order Delivered,2026-07-10 01:00:00,West,Marketplace
+ORD10385,Order Created,2026-05-18 01:00:00,South,Mobile App
+ORD10385,Payment Approved,2026-05-26 02:00:00,South,Mobile App
+ORD10385,Inventory Checked,2026-06-07 08:00:00,South,Mobile App
+ORD10385,Order Packed,2026-06-09 10:00:00,South,Mobile App
+ORD10385,Order Shipped,2026-06-13 14:00:00,South,Mobile App
+ORD10385,Order Delivered,2026-06-21 15:00:00,South,Mobile App
+ORD10386,Order Created,2026-03-12 06:00:00,South,Website
+ORD10386,Payment Approved,2026-03-24 14:00:00,South,Website
+ORD10386,Inventory Checked,2026-03-29 16:00:00,South,Website
+ORD10386,Order Packed,2026-04-07 23:00:00,South,Website
+ORD10386,Order Shipped,2026-04-09 04:00:00,South,Website
+ORD10386,Order Delivered,2026-04-14 10:00:00,South,Website
+ORD10387,Order Created,2026-01-07 05:00:00,West,Marketplace
+ORD10387,Payment Approved,2026-01-11 10:00:00,West,Marketplace
+ORD10387,Inventory Checked,2026-01-14 17:00:00,West,Marketplace
+ORD10387,Inventory Recheck,2026-01-19 01:00:00,West,Marketplace
+ORD10387,Order Packed,2026-01-28 09:00:00,West,Marketplace
+ORD10387,Order Shipped,2026-02-03 16:00:00,West,Marketplace
+ORD10387,Order Delivered,2026-02-10 23:00:00,West,Marketplace
+ORD10388,Order Created,2026-02-04 05:00:00,East,Marketplace
+ORD10388,Payment Approved,2026-02-07 09:00:00,East,Marketplace
+ORD10388,Inventory Checked,2026-02-16 16:00:00,East,Marketplace
+ORD10388,Order Packed,2026-02-21 18:00:00,East,Marketplace
+ORD10388,Order Shipped,2026-02-22 20:00:00,East,Marketplace
+ORD10388,Order Delivered,2026-02-26 04:00:00,East,Marketplace
+ORD10389,Order Created,2026-02-14 02:00:00,East,Website
+ORD10389,Payment Approved,2026-02-17 05:00:00,East,Website
+ORD10389,Inventory Checked,2026-02-25 13:00:00,East,Website
+ORD10389,Inventory Recheck,2026-03-03 13:00:00,East,Website
+ORD10389,Order Packed,2026-03-11 18:00:00,East,Website
+ORD10389,Order Shipped,2026-03-16 23:00:00,East,Website
+ORD10389,Order Delivered,2026-03-23 01:00:00,East,Website
+ORD10390,Order Created,2026-05-19 05:00:00,East,Mobile App
+ORD10390,Payment Approved,2026-05-28 07:00:00,East,Mobile App
+ORD10390,Inventory Checked,2026-06-07 07:00:00,East,Mobile App
+ORD10390,Inventory Recheck,2026-06-08 15:00:00,East,Mobile App
+ORD10390,Order Packed,2026-06-16 23:00:00,East,Mobile App
+ORD10390,Order Shipped,2026-06-20 04:00:00,East,Mobile App
+ORD10390,Order Delivered,2026-06-28 08:00:00,East,Mobile App
+ORD10391,Order Created,2026-05-27 08:00:00,West,Mobile App
+ORD10391,Payment Approved,2026-06-06 09:00:00,West,Mobile App
+ORD10391,Inventory Checked,2026-06-21 13:00:00,West,Mobile App
+ORD10391,Order Packed,2026-06-29 13:00:00,West,Mobile App
+ORD10391,Order Shipped,2026-06-30 19:00:00,West,Mobile App
+ORD10391,Order Delivered,2026-07-03 22:00:00,West,Mobile App
+ORD10392,Order Created,2026-01-25 01:00:00,West,Mobile App
+ORD10392,Payment Approved,2026-01-26 09:00:00,West,Mobile App
+ORD10392,Inventory Checked,2026-02-02 16:00:00,West,Mobile App
+ORD10392,Order Packed,2026-02-07 17:00:00,West,Mobile App
+ORD10392,Order Shipped,2026-02-12 01:00:00,West,Mobile App
+ORD10392,Order Delivered,2026-02-13 07:00:00,West,Mobile App
+ORD10393,Order Created,2026-03-23 05:00:00,North,Mobile App
+ORD10393,Payment Approved,2026-04-03 05:00:00,North,Mobile App
+ORD10393,Inventory Checked,2026-04-15 09:00:00,North,Mobile App
+ORD10393,Order Packed,2026-04-22 14:00:00,North,Mobile App
+ORD10393,Order Shipped,2026-04-28 19:00:00,North,Mobile App
+ORD10393,Order Delivered,2026-05-05 23:00:00,North,Mobile App
+ORD10394,Order Created,2026-01-23 06:00:00,West,Marketplace
+ORD10394,Payment Approved,2026-02-04 12:00:00,West,Marketplace
+ORD10394,Inventory Checked,2026-02-19 14:00:00,West,Marketplace
+ORD10394,Order Packed,2026-02-27 15:00:00,West,Marketplace
+ORD10394,Order Shipped,2026-03-04 17:00:00,West,Marketplace
+ORD10394,Order Delivered,2026-03-07 20:00:00,West,Marketplace
+ORD10395,Order Created,2026-05-16 08:00:00,East,Mobile App
+ORD10395,Payment Approved,2026-05-18 15:00:00,East,Mobile App
+ORD10395,Inventory Checked,2026-05-31 17:00:00,East,Mobile App
+ORD10395,Inventory Recheck,2026-06-07 20:00:00,East,Mobile App
+ORD10395,Order Packed,2026-06-12 22:00:00,East,Mobile App
+ORD10395,Order Shipped,2026-06-20 04:00:00,East,Mobile App
+ORD10395,Order Delivered,2026-06-23 08:00:00,East,Mobile App
+ORD10396,Order Created,2026-03-20 04:00:00,West,Website
+ORD10396,Payment Approved,2026-03-28 11:00:00,West,Website
+ORD10396,Inventory Checked,2026-04-15 12:00:00,West,Website
+ORD10396,Order Packed,2026-04-16 16:00:00,West,Website
+ORD10396,Order Shipped,2026-04-19 22:00:00,West,Website
+ORD10396,Order Delivered,2026-04-25 00:00:00,West,Website
+ORD10397,Order Created,2026-03-04 07:00:00,West,Marketplace
+ORD10397,Payment Approved,2026-03-06 13:00:00,West,Marketplace
+ORD10397,Inventory Checked,2026-03-15 17:00:00,West,Marketplace
+ORD10397,Order Packed,2026-03-26 00:00:00,West,Marketplace
+ORD10397,Order Shipped,2026-04-01 01:00:00,West,Marketplace
+ORD10397,Order Delivered,2026-04-11 06:00:00,West,Marketplace
+ORD10398,Order Created,2026-02-11 04:00:00,South,Mobile App
+ORD10398,Payment Approved,2026-02-14 09:00:00,South,Mobile App
+ORD10398,Inventory Checked,2026-02-25 15:00:00,South,Mobile App
+ORD10398,Order Packed,2026-03-03 20:00:00,South,Mobile App
+ORD10398,Order Shipped,2026-03-06 20:00:00,South,Mobile App
+ORD10398,Order Delivered,2026-03-08 00:00:00,South,Mobile App
+ORD10399,Order Created,2026-01-20 05:00:00,East,Marketplace
+ORD10399,Payment Approved,2026-01-31 09:00:00,East,Marketplace
+ORD10399,Inventory Checked,2026-02-06 13:00:00,East,Marketplace
+ORD10399,Order Packed,2026-02-09 18:00:00,East,Marketplace
+ORD10399,Order Shipped,2026-02-15 19:00:00,East,Marketplace
+ORD10399,Order Delivered,2026-03-02 03:00:00,East,Marketplace
+ORD10400,Order Created,2026-01-04 03:00:00,East,Website
+ORD10400,Payment Approved,2026-01-13 05:00:00,East,Website
+ORD10400,Inventory Checked,2026-01-23 13:00:00,East,Website
+ORD10400,Order Packed,2026-01-29 16:00:00,East,Website
+ORD10400,Order Shipped,2026-02-01 19:00:00,East,Website
+ORD10400,Order Delivered,2026-02-04 03:00:00,East,Website
+ORD10401,Order Created,2026-04-28 07:00:00,South,Mobile App
+ORD10401,Payment Approved,2026-04-30 15:00:00,South,Mobile App
+ORD10401,Inventory Checked,2026-05-05 20:00:00,South,Mobile App
+ORD10401,Order Packed,2026-05-10 22:00:00,South,Mobile App
+ORD10401,Order Shipped,2026-05-17 02:00:00,South,Mobile App
+ORD10401,Order Delivered,2026-05-20 02:00:00,South,Mobile App
+ORD10402,Order Created,2026-02-02 01:00:00,South,Website
+ORD10402,Payment Approved,2026-02-14 02:00:00,South,Website
+ORD10402,Inventory Checked,2026-02-22 02:00:00,South,Website
+ORD10402,Order Packed,2026-02-24 09:00:00,South,Website
+ORD10402,Order Shipped,2026-03-03 15:00:00,South,Website
+ORD10402,Order Delivered,2026-03-15 15:00:00,South,Website
+ORD10403,Order Created,2026-01-09 01:00:00,North,Website
+ORD10403,Payment Approved,2026-01-17 02:00:00,North,Website
+ORD10403,Inventory Checked,2026-01-21 05:00:00,North,Website
+ORD10403,Payment Retry,2026-01-26 08:00:00,North,Website
+ORD10403,Order Packed,2026-02-06 10:00:00,North,Website
+ORD10403,Order Shipped,2026-02-07 15:00:00,North,Website
+ORD10403,Order Delivered,2026-02-20 15:00:00,North,Website
+ORD10404,Order Created,2026-03-14 01:00:00,South,Website
+ORD10404,Payment Approved,2026-03-20 02:00:00,South,Website
+ORD10404,Inventory Checked,2026-03-26 02:00:00,South,Website
+ORD10404,Order Packed,2026-04-05 10:00:00,South,Website
+ORD10404,Order Shipped,2026-04-09 13:00:00,South,Website
+ORD10404,Order Delivered,2026-04-18 16:00:00,South,Website
+ORD10405,Order Created,2026-05-18 02:00:00,East,Website
+ORD10405,Payment Approved,2026-05-30 09:00:00,East,Website
+ORD10405,Inventory Checked,2026-06-03 10:00:00,East,Website
+ORD10405,Order Packed,2026-06-15 12:00:00,East,Website
+ORD10405,Order Shipped,2026-06-23 17:00:00,East,Website
+ORD10405,Order Delivered,2026-06-29 23:00:00,East,Website
+ORD10406,Order Created,2026-05-12 02:00:00,West,Website
+ORD10406,Payment Approved,2026-05-19 09:00:00,West,Website
+ORD10406,Inventory Checked,2026-05-23 14:00:00,West,Website
+ORD10406,Order Packed,2026-05-31 18:00:00,West,Website
+ORD10406,Order Shipped,2026-06-03 02:00:00,West,Website
+ORD10406,Order Delivered,2026-06-12 02:00:00,West,Website
+ORD10407,Order Created,2026-05-07 08:00:00,South,Mobile App
+ORD10407,Payment Approved,2026-05-14 14:00:00,South,Mobile App
+ORD10407,Inventory Checked,2026-05-24 18:00:00,South,Mobile App
+ORD10407,Order Packed,2026-06-05 00:00:00,South,Mobile App
+ORD10407,Order Shipped,2026-06-13 03:00:00,South,Mobile App
+ORD10407,Order Delivered,2026-06-17 04:00:00,South,Mobile App
+ORD10408,Order Created,2026-04-05 02:00:00,West,Marketplace
+ORD10408,Payment Approved,2026-04-06 08:00:00,West,Marketplace
+ORD10408,Inventory Checked,2026-04-22 14:00:00,West,Marketplace
+ORD10408,Order Packed,2026-05-01 15:00:00,West,Marketplace
+ORD10408,Order Shipped,2026-05-03 17:00:00,West,Marketplace
+ORD10408,Order Delivered,2026-05-05 18:00:00,West,Marketplace
+ORD10409,Order Created,2026-03-28 06:00:00,East,Website
+ORD10409,Payment Approved,2026-04-07 11:00:00,East,Website
+ORD10409,Inventory Checked,2026-04-20 18:00:00,East,Website
+ORD10409,Inventory Recheck,2026-04-28 00:00:00,East,Website
+ORD10409,Order Packed,2026-05-03 07:00:00,East,Website
+ORD10409,Order Shipped,2026-05-08 15:00:00,East,Website
+ORD10409,Order Delivered,2026-05-21 19:00:00,East,Website
+ORD10410,Order Created,2026-01-28 00:00:00,North,Mobile App
+ORD10410,Payment Approved,2026-02-02 01:00:00,North,Mobile App
+ORD10410,Inventory Checked,2026-02-18 08:00:00,North,Mobile App
+ORD10410,Order Packed,2026-02-21 08:00:00,North,Mobile App
+ORD10410,Order Shipped,2026-02-22 10:00:00,North,Mobile App
+ORD10410,Order Delivered,2026-02-24 16:00:00,North,Mobile App
+ORD10411,Order Created,2026-03-19 07:00:00,East,Website
+ORD10411,Payment Approved,2026-03-21 14:00:00,East,Website
+ORD10411,Inventory Checked,2026-04-07 22:00:00,East,Website
+ORD10411,Order Packed,2026-04-12 02:00:00,East,Website
+ORD10411,Order Shipped,2026-04-17 10:00:00,East,Website
+ORD10411,Order Delivered,2026-04-28 15:00:00,East,Website
+ORD10412,Order Created,2026-04-21 02:00:00,South,Website
+ORD10412,Payment Approved,2026-04-28 10:00:00,South,Website
+ORD10412,Inventory Checked,2026-05-13 14:00:00,South,Website
+ORD10412,Order Packed,2026-05-21 16:00:00,South,Website
+ORD10412,Order Shipped,2026-05-22 23:00:00,South,Website
+ORD10412,Order Delivered,2026-05-24 05:00:00,South,Website
+ORD10413,Order Created,2026-04-11 08:00:00,North,Mobile App
+ORD10413,Payment Approved,2026-04-13 10:00:00,North,Mobile App
+ORD10413,Inventory Checked,2026-04-29 18:00:00,North,Mobile App
+ORD10413,Order Packed,2026-05-09 18:00:00,North,Mobile App
+ORD10413,Order Shipped,2026-05-18 00:00:00,North,Mobile App
+ORD10413,Order Delivered,2026-05-26 04:00:00,North,Mobile App
+ORD10414,Order Created,2026-04-08 05:00:00,West,Marketplace
+ORD10414,Payment Approved,2026-04-13 11:00:00,West,Marketplace
+ORD10414,Inventory Checked,2026-04-24 12:00:00,West,Marketplace
+ORD10414,Inventory Recheck,2026-05-04 18:00:00,West,Marketplace
+ORD10414,Payment Retry,2026-05-10 23:00:00,West,Marketplace
+ORD10414,Order Packed,2026-05-17 04:00:00,West,Marketplace
+ORD10414,Order Shipped,2026-05-18 10:00:00,West,Marketplace
+ORD10414,Order Delivered,2026-05-31 15:00:00,West,Marketplace
+ORD10415,Order Created,2026-03-04 05:00:00,South,Marketplace
+ORD10415,Payment Approved,2026-03-08 07:00:00,South,Marketplace
+ORD10415,Inventory Checked,2026-03-18 07:00:00,South,Marketplace
+ORD10415,Order Packed,2026-03-20 15:00:00,South,Marketplace
+ORD10415,Order Shipped,2026-03-25 20:00:00,South,Marketplace
+ORD10415,Order Delivered,2026-03-27 20:00:00,South,Marketplace
+ORD10416,Order Created,2026-04-20 06:00:00,West,Marketplace
+ORD10416,Payment Approved,2026-04-25 11:00:00,West,Marketplace
+ORD10416,Inventory Checked,2026-04-26 12:00:00,West,Marketplace
+ORD10416,Order Packed,2026-05-02 19:00:00,West,Marketplace
+ORD10416,Order Shipped,2026-05-09 20:00:00,West,Marketplace
+ORD10416,Order Delivered,2026-05-19 23:00:00,West,Marketplace
+ORD10417,Order Created,2026-05-10 08:00:00,East,Mobile App
+ORD10417,Payment Approved,2026-05-13 11:00:00,East,Mobile App
+ORD10417,Inventory Checked,2026-05-23 15:00:00,East,Mobile App
+ORD10417,Order Packed,2026-05-31 19:00:00,East,Mobile App
+ORD10417,Order Shipped,2026-06-02 19:00:00,East,Mobile App
+ORD10417,Order Delivered,2026-06-16 23:00:00,East,Mobile App
+ORD10418,Order Created,2026-01-24 03:00:00,West,Website
+ORD10418,Payment Approved,2026-02-03 08:00:00,West,Website
+ORD10418,Inventory Checked,2026-02-14 09:00:00,West,Website
+ORD10418,Order Packed,2026-02-23 13:00:00,West,Website
+ORD10418,Order Shipped,2026-03-03 21:00:00,West,Website
+ORD10418,Order Delivered,2026-03-11 01:00:00,West,Website
+ORD10419,Order Created,2026-05-20 08:00:00,West,Marketplace
+ORD10419,Payment Approved,2026-05-24 10:00:00,West,Marketplace
+ORD10419,Inventory Checked,2026-06-07 17:00:00,West,Marketplace
+ORD10419,Order Packed,2026-06-15 20:00:00,West,Marketplace
+ORD10419,Order Shipped,2026-06-19 03:00:00,West,Marketplace
+ORD10419,Order Delivered,2026-06-20 07:00:00,West,Marketplace
+ORD10420,Order Created,2026-01-16 05:00:00,West,Marketplace
+ORD10420,Payment Approved,2026-01-22 06:00:00,West,Marketplace
+ORD10420,Inventory Checked,2026-02-06 09:00:00,West,Marketplace
+ORD10420,Inventory Recheck,2026-02-09 15:00:00,West,Marketplace
+ORD10420,Order Packed,2026-02-14 19:00:00,West,Marketplace
+ORD10420,Order Shipped,2026-02-21 23:00:00,West,Marketplace
+ORD10420,Order Delivered,2026-03-01 01:00:00,West,Marketplace
+ORD10421,Order Created,2026-03-03 08:00:00,East,Marketplace
+ORD10421,Payment Approved,2026-03-07 14:00:00,East,Marketplace
+ORD10421,Inventory Checked,2026-03-11 20:00:00,East,Marketplace
+ORD10421,Inventory Recheck,2026-03-12 20:00:00,East,Marketplace
+ORD10421,Order Packed,2026-03-17 23:00:00,East,Marketplace
+ORD10421,Order Shipped,2026-03-26 01:00:00,East,Marketplace
+ORD10421,Order Delivered,2026-04-03 05:00:00,East,Marketplace
+ORD10422,Order Created,2026-03-09 00:00:00,North,Website
+ORD10422,Payment Approved,2026-03-20 00:00:00,North,Website
+ORD10422,Inventory Checked,2026-04-07 01:00:00,North,Website
+ORD10422,Order Packed,2026-04-19 06:00:00,North,Website
+ORD10422,Order Shipped,2026-04-27 10:00:00,North,Website
+ORD10422,Order Delivered,2026-05-10 11:00:00,North,Website
+ORD10423,Order Created,2026-01-25 08:00:00,West,Mobile App
+ORD10423,Payment Approved,2026-02-06 12:00:00,West,Mobile App
+ORD10423,Inventory Checked,2026-02-11 19:00:00,West,Mobile App
+ORD10423,Order Packed,2026-02-20 20:00:00,West,Mobile App
+ORD10423,Order Shipped,2026-02-22 23:00:00,West,Mobile App
+ORD10423,Order Delivered,2026-03-04 00:00:00,West,Mobile App
+ORD10424,Order Created,2026-05-31 04:00:00,East,Mobile App
+ORD10424,Payment Approved,2026-06-12 11:00:00,East,Mobile App
+ORD10424,Inventory Checked,2026-06-20 17:00:00,East,Mobile App
+ORD10424,Order Packed,2026-06-22 21:00:00,East,Mobile App
+ORD10424,Order Shipped,2026-06-25 21:00:00,East,Mobile App
+ORD10424,Order Delivered,2026-06-30 04:00:00,East,Mobile App
+ORD10425,Order Created,2026-01-30 07:00:00,East,Marketplace
+ORD10425,Payment Approved,2026-02-08 12:00:00,East,Marketplace
+ORD10425,Inventory Checked,2026-02-22 16:00:00,East,Marketplace
+ORD10425,Order Packed,2026-02-27 16:00:00,East,Marketplace
+ORD10425,Order Shipped,2026-03-02 16:00:00,East,Marketplace
+ORD10425,Order Delivered,2026-03-08 16:00:00,East,Marketplace
+ORD10426,Order Created,2026-05-23 07:00:00,North,Mobile App
+ORD10426,Payment Approved,2026-05-28 13:00:00,North,Mobile App
+ORD10426,Inventory Checked,2026-06-09 13:00:00,North,Mobile App
+ORD10426,Order Packed,2026-06-18 19:00:00,North,Mobile App
+ORD10426,Order Shipped,2026-06-22 23:00:00,North,Mobile App
+ORD10426,Order Delivered,2026-07-07 03:00:00,North,Mobile App
+ORD10427,Order Created,2026-03-18 00:00:00,South,Website
+ORD10427,Payment Approved,2026-03-21 04:00:00,South,Website
+ORD10427,Inventory Checked,2026-04-05 05:00:00,South,Website
+ORD10427,Order Packed,2026-04-16 12:00:00,South,Website
+ORD10427,Order Shipped,2026-04-23 19:00:00,South,Website
+ORD10427,Order Delivered,2026-05-07 01:00:00,South,Website
+ORD10428,Order Created,2026-04-19 00:00:00,East,Marketplace
+ORD10428,Payment Approved,2026-04-22 00:00:00,East,Marketplace
+ORD10428,Inventory Checked,2026-05-01 02:00:00,East,Marketplace
+ORD10428,Order Packed,2026-05-11 09:00:00,East,Marketplace
+ORD10428,Order Shipped,2026-05-17 11:00:00,East,Marketplace
+ORD10428,Order Delivered,2026-05-25 11:00:00,East,Marketplace
+ORD10429,Order Created,2026-03-21 06:00:00,West,Website
+ORD10429,Payment Approved,2026-03-31 11:00:00,West,Website
+ORD10429,Inventory Checked,2026-04-03 18:00:00,West,Website
+ORD10429,Inventory Recheck,2026-04-08 01:00:00,West,Website
+ORD10429,Order Packed,2026-04-19 03:00:00,West,Website
+ORD10429,Order Shipped,2026-04-22 07:00:00,West,Website
+ORD10429,Order Delivered,2026-05-06 09:00:00,West,Website
+ORD10430,Order Created,2026-02-20 00:00:00,East,Mobile App
+ORD10430,Payment Approved,2026-02-27 08:00:00,East,Mobile App
+ORD10430,Inventory Checked,2026-03-11 11:00:00,East,Mobile App
+ORD10430,Order Packed,2026-03-21 12:00:00,East,Mobile App
+ORD10430,Order Shipped,2026-03-25 19:00:00,East,Mobile App
+ORD10430,Order Delivered,2026-03-26 22:00:00,East,Mobile App
+ORD10431,Order Created,2026-02-13 01:00:00,East,Marketplace
+ORD10431,Payment Approved,2026-02-20 01:00:00,East,Marketplace
+ORD10431,Inventory Checked,2026-03-06 09:00:00,East,Marketplace
+ORD10431,Order Packed,2026-03-12 15:00:00,East,Marketplace
+ORD10431,Order Shipped,2026-03-15 22:00:00,East,Marketplace
+ORD10431,Order Delivered,2026-03-26 05:00:00,East,Marketplace
+ORD10432,Order Created,2026-02-22 03:00:00,South,Website
+ORD10432,Payment Approved,2026-02-27 07:00:00,South,Website
+ORD10432,Inventory Checked,2026-03-09 10:00:00,South,Website
+ORD10432,Order Packed,2026-03-16 16:00:00,South,Website
+ORD10432,Order Shipped,2026-03-20 18:00:00,South,Website
+ORD10432,Order Delivered,2026-03-31 00:00:00,South,Website
+ORD10433,Order Created,2026-03-17 00:00:00,North,Website
+ORD10433,Payment Approved,2026-03-21 07:00:00,North,Website
+ORD10433,Inventory Checked,2026-04-05 09:00:00,North,Website
+ORD10433,Order Packed,2026-04-16 14:00:00,North,Website
+ORD10433,Order Shipped,2026-04-24 20:00:00,North,Website
+ORD10433,Order Delivered,2026-04-26 23:00:00,North,Website
+ORD10434,Order Created,2026-04-20 00:00:00,West,Marketplace
+ORD10434,Payment Approved,2026-04-22 00:00:00,West,Marketplace
+ORD10434,Inventory Checked,2026-04-26 04:00:00,West,Marketplace
+ORD10434,Payment Retry,2026-04-30 12:00:00,West,Marketplace
+ORD10434,Order Packed,2026-05-08 18:00:00,West,Marketplace
+ORD10434,Order Shipped,2026-05-14 22:00:00,West,Marketplace
+ORD10434,Order Delivered,2026-05-25 04:00:00,West,Marketplace
+ORD10435,Order Created,2026-05-24 01:00:00,East,Website
+ORD10435,Payment Approved,2026-06-03 06:00:00,East,Website
+ORD10435,Inventory Checked,2026-06-09 14:00:00,East,Website
+ORD10435,Order Packed,2026-06-15 20:00:00,East,Website
+ORD10435,Order Shipped,2026-06-23 22:00:00,East,Website
+ORD10435,Order Delivered,2026-06-27 02:00:00,East,Website
+ORD10436,Order Created,2026-01-12 04:00:00,South,Mobile App
+ORD10436,Payment Approved,2026-01-20 12:00:00,South,Mobile App
+ORD10436,Inventory Checked,2026-01-29 17:00:00,South,Mobile App
+ORD10436,Order Packed,2026-02-03 23:00:00,South,Mobile App
+ORD10436,Order Shipped,2026-02-09 01:00:00,South,Mobile App
+ORD10436,Order Delivered,2026-02-19 06:00:00,South,Mobile App
+ORD10437,Order Created,2026-05-24 07:00:00,West,Website
+ORD10437,Payment Approved,2026-05-25 13:00:00,West,Website
+ORD10437,Inventory Checked,2026-06-01 14:00:00,West,Website
+ORD10437,Inventory Recheck,2026-06-05 21:00:00,West,Website
+ORD10437,Order Packed,2026-06-13 21:00:00,West,Website
+ORD10437,Order Shipped,2026-06-19 04:00:00,West,Website
+ORD10437,Order Delivered,2026-06-22 09:00:00,West,Website
+ORD10438,Order Created,2026-05-07 02:00:00,West,Mobile App
+ORD10438,Payment Approved,2026-05-19 10:00:00,West,Mobile App
+ORD10438,Inventory Checked,2026-05-24 14:00:00,West,Mobile App
+ORD10438,Inventory Recheck,2026-05-26 17:00:00,West,Mobile App
+ORD10438,Order Packed,2026-05-31 17:00:00,West,Mobile App
+ORD10438,Order Shipped,2026-06-04 01:00:00,West,Mobile App
+ORD10438,Order Delivered,2026-06-18 03:00:00,West,Mobile App
+ORD10439,Order Created,2026-03-06 01:00:00,West,Website
+ORD10439,Payment Approved,2026-03-17 06:00:00,West,Website
+ORD10439,Inventory Checked,2026-03-21 08:00:00,West,Website
+ORD10439,Payment Retry,2026-03-23 08:00:00,West,Website
+ORD10439,Order Packed,2026-03-30 09:00:00,West,Website
+ORD10439,Order Shipped,2026-04-05 16:00:00,West,Website
+ORD10439,Order Delivered,2026-04-15 23:00:00,West,Website
+ORD10440,Order Created,2026-03-10 00:00:00,West,Marketplace
+ORD10440,Payment Approved,2026-03-16 04:00:00,West,Marketplace
+ORD10440,Inventory Checked,2026-03-18 09:00:00,West,Marketplace
+ORD10440,Order Packed,2026-03-24 09:00:00,West,Marketplace
+ORD10440,Order Shipped,2026-03-27 10:00:00,West,Marketplace
+ORD10440,Order Delivered,2026-03-31 18:00:00,West,Marketplace
+ORD10441,Order Created,2026-04-14 03:00:00,West,Website
+ORD10441,Payment Approved,2026-04-17 05:00:00,West,Website
+ORD10441,Inventory Checked,2026-04-25 11:00:00,West,Website
+ORD10441,Order Packed,2026-04-27 17:00:00,West,Website
+ORD10441,Order Shipped,2026-04-28 21:00:00,West,Website
+ORD10441,Order Delivered,2026-05-12 23:00:00,West,Website
+ORD10442,Order Created,2026-05-07 05:00:00,South,Mobile App
+ORD10442,Payment Approved,2026-05-19 13:00:00,South,Mobile App
+ORD10442,Inventory Checked,2026-05-29 16:00:00,South,Mobile App
+ORD10442,Order Packed,2026-06-04 23:00:00,South,Mobile App
+ORD10442,Order Shipped,2026-06-07 06:00:00,South,Mobile App
+ORD10442,Order Delivered,2026-06-21 12:00:00,South,Mobile App
+ORD10443,Order Created,2026-05-26 00:00:00,West,Mobile App
+ORD10443,Payment Approved,2026-05-28 08:00:00,West,Mobile App
+ORD10443,Inventory Checked,2026-06-11 13:00:00,West,Mobile App
+ORD10443,Order Packed,2026-06-18 20:00:00,West,Mobile App
+ORD10443,Order Shipped,2026-06-25 23:00:00,West,Mobile App
+ORD10443,Order Delivered,2026-06-28 01:00:00,West,Mobile App
+ORD10444,Order Created,2026-05-15 02:00:00,West,Marketplace
+ORD10444,Payment Approved,2026-05-20 06:00:00,West,Marketplace
+ORD10444,Inventory Checked,2026-06-04 09:00:00,West,Marketplace
+ORD10444,Order Packed,2026-06-12 17:00:00,West,Marketplace
+ORD10444,Order Shipped,2026-06-17 23:00:00,West,Marketplace
+ORD10444,Order Delivered,2026-06-21 03:00:00,West,Marketplace
+ORD10445,Order Created,2026-01-20 04:00:00,South,Marketplace
+ORD10445,Payment Approved,2026-01-29 05:00:00,South,Marketplace
+ORD10445,Inventory Checked,2026-02-02 13:00:00,South,Marketplace
+ORD10445,Order Packed,2026-02-10 13:00:00,South,Marketplace
+ORD10445,Order Shipped,2026-02-15 14:00:00,South,Marketplace
+ORD10445,Order Delivered,2026-02-21 21:00:00,South,Marketplace
+ORD10446,Order Created,2026-04-11 07:00:00,North,Website
+ORD10446,Payment Approved,2026-04-13 11:00:00,North,Website
+ORD10446,Inventory Checked,2026-04-27 16:00:00,North,Website
+ORD10446,Order Packed,2026-05-07 18:00:00,North,Website
+ORD10446,Order Shipped,2026-05-15 21:00:00,North,Website
+ORD10446,Order Delivered,2026-05-28 23:00:00,North,Website
+ORD10447,Order Created,2026-03-08 06:00:00,South,Marketplace
+ORD10447,Payment Approved,2026-03-15 13:00:00,South,Marketplace
+ORD10447,Inventory Checked,2026-04-02 17:00:00,South,Marketplace
+ORD10447,Inventory Recheck,2026-04-09 22:00:00,South,Marketplace
+ORD10447,Order Packed,2026-04-13 04:00:00,South,Marketplace
+ORD10447,Order Shipped,2026-04-21 08:00:00,South,Marketplace
+ORD10447,Order Delivered,2026-04-29 09:00:00,South,Marketplace
+ORD10448,Order Created,2026-01-04 02:00:00,North,Website
+ORD10448,Payment Approved,2026-01-06 05:00:00,North,Website
+ORD10448,Inventory Checked,2026-01-07 11:00:00,North,Website
+ORD10448,Order Packed,2026-01-08 19:00:00,North,Website
+ORD10448,Order Shipped,2026-01-12 22:00:00,North,Website
+ORD10448,Order Delivered,2026-01-20 23:00:00,North,Website
+ORD10449,Order Created,2026-02-08 00:00:00,East,Mobile App
+ORD10449,Payment Approved,2026-02-15 07:00:00,East,Mobile App
+ORD10449,Inventory Checked,2026-02-16 10:00:00,East,Mobile App
+ORD10449,Inventory Recheck,2026-02-19 13:00:00,East,Mobile App
+ORD10449,Order Packed,2026-02-27 17:00:00,East,Mobile App
+ORD10449,Order Shipped,2026-03-07 23:00:00,East,Mobile App
+ORD10449,Order Delivered,2026-03-15 23:00:00,East,Mobile App
+ORD10450,Order Created,2026-01-28 07:00:00,East,Website
+ORD10450,Payment Approved,2026-02-04 13:00:00,East,Website
+ORD10450,Inventory Checked,2026-02-20 20:00:00,East,Website
+ORD10450,Order Packed,2026-03-02 04:00:00,East,Website
+ORD10450,Order Shipped,2026-03-07 11:00:00,East,Website
+ORD10450,Order Delivered,2026-03-08 14:00:00,East,Website
+ORD10451,Order Created,2026-01-06 01:00:00,South,Marketplace
+ORD10451,Payment Approved,2026-01-16 08:00:00,South,Marketplace
+ORD10451,Inventory Checked,2026-01-27 13:00:00,South,Marketplace
+ORD10451,Order Packed,2026-02-07 20:00:00,South,Marketplace
+ORD10451,Order Shipped,2026-02-15 02:00:00,South,Marketplace
+ORD10451,Order Delivered,2026-02-23 02:00:00,South,Marketplace
+ORD10452,Order Created,2026-02-20 07:00:00,North,Mobile App
+ORD10452,Payment Approved,2026-02-26 09:00:00,North,Mobile App
+ORD10452,Inventory Checked,2026-03-13 13:00:00,North,Mobile App
+ORD10452,Order Packed,2026-03-24 19:00:00,North,Mobile App
+ORD10452,Order Shipped,2026-03-31 01:00:00,North,Mobile App
+ORD10452,Order Delivered,2026-04-10 06:00:00,North,Mobile App
+ORD10453,Order Created,2026-02-24 07:00:00,West,Website
+ORD10453,Payment Approved,2026-03-08 08:00:00,West,Website
+ORD10453,Inventory Checked,2026-03-11 14:00:00,West,Website
+ORD10453,Order Packed,2026-03-15 21:00:00,West,Website
+ORD10453,Order Shipped,2026-03-19 01:00:00,West,Website
+ORD10453,Order Delivered,2026-03-29 04:00:00,West,Website
+ORD10454,Order Created,2026-01-13 01:00:00,North,Marketplace
+ORD10454,Payment Approved,2026-01-19 06:00:00,North,Marketplace
+ORD10454,Inventory Checked,2026-01-28 12:00:00,North,Marketplace
+ORD10454,Order Packed,2026-02-06 13:00:00,North,Marketplace
+ORD10454,Order Shipped,2026-02-07 16:00:00,North,Marketplace
+ORD10454,Order Delivered,2026-02-20 17:00:00,North,Marketplace
+ORD10455,Order Created,2026-03-09 00:00:00,North,Mobile App
+ORD10455,Payment Approved,2026-03-15 07:00:00,North,Mobile App
+ORD10455,Inventory Checked,2026-03-17 14:00:00,North,Mobile App
+ORD10455,Order Packed,2026-03-20 15:00:00,North,Mobile App
+ORD10455,Order Shipped,2026-03-22 16:00:00,North,Mobile App
+ORD10455,Order Delivered,2026-04-03 17:00:00,North,Mobile App
+ORD10456,Order Created,2026-01-27 07:00:00,South,Marketplace
+ORD10456,Payment Approved,2026-02-07 15:00:00,South,Marketplace
+ORD10456,Inventory Checked,2026-02-11 22:00:00,South,Marketplace
+ORD10456,Order Packed,2026-02-14 23:00:00,South,Marketplace
+ORD10456,Order Shipped,2026-02-20 01:00:00,South,Marketplace
+ORD10456,Order Delivered,2026-03-04 06:00:00,South,Marketplace
+ORD10457,Order Created,2026-02-01 02:00:00,East,Website
+ORD10457,Payment Approved,2026-02-09 03:00:00,East,Website
+ORD10457,Inventory Checked,2026-02-23 07:00:00,East,Website
+ORD10457,Payment Retry,2026-03-03 12:00:00,East,Website
+ORD10457,Order Packed,2026-03-09 18:00:00,East,Website
+ORD10457,Order Shipped,2026-03-14 23:00:00,East,Website
+ORD10457,Order Delivered,2026-03-24 02:00:00,East,Website
+ORD10458,Order Created,2026-04-18 07:00:00,North,Marketplace
+ORD10458,Payment Approved,2026-04-21 09:00:00,North,Marketplace
+ORD10458,Inventory Checked,2026-05-05 09:00:00,North,Marketplace
+ORD10458,Order Packed,2026-05-13 17:00:00,North,Marketplace
+ORD10458,Order Shipped,2026-05-19 18:00:00,North,Marketplace
+ORD10458,Order Delivered,2026-05-20 19:00:00,North,Marketplace
+ORD10459,Order Created,2026-04-13 08:00:00,East,Mobile App
+ORD10459,Payment Approved,2026-04-20 12:00:00,East,Mobile App
+ORD10459,Inventory Checked,2026-04-22 18:00:00,East,Mobile App
+ORD10459,Payment Retry,2026-04-26 00:00:00,East,Mobile App
+ORD10459,Order Packed,2026-05-06 08:00:00,East,Mobile App
+ORD10459,Order Shipped,2026-05-07 12:00:00,East,Mobile App
+ORD10459,Order Delivered,2026-05-18 17:00:00,East,Mobile App
+ORD10460,Order Created,2026-03-13 05:00:00,East,Website
+ORD10460,Payment Approved,2026-03-25 11:00:00,East,Website
+ORD10460,Inventory Checked,2026-04-07 14:00:00,East,Website
+ORD10460,Order Packed,2026-04-16 18:00:00,East,Website
+ORD10460,Order Shipped,2026-04-24 19:00:00,East,Website
+ORD10460,Order Delivered,2026-05-06 19:00:00,East,Website
+ORD10461,Order Created,2026-02-03 00:00:00,East,Mobile App
+ORD10461,Payment Approved,2026-02-07 08:00:00,East,Mobile App
+ORD10461,Inventory Checked,2026-02-10 12:00:00,East,Mobile App
+ORD10461,Order Packed,2026-02-16 15:00:00,East,Mobile App
+ORD10461,Order Shipped,2026-02-19 19:00:00,East,Mobile App
+ORD10461,Order Delivered,2026-02-21 01:00:00,East,Mobile App
+ORD10462,Order Created,2026-01-17 00:00:00,South,Marketplace
+ORD10462,Payment Approved,2026-01-22 07:00:00,South,Marketplace
+ORD10462,Inventory Checked,2026-02-08 12:00:00,South,Marketplace
+ORD10462,Payment Retry,2026-02-10 15:00:00,South,Marketplace
+ORD10462,Order Packed,2026-02-18 23:00:00,South,Marketplace
+ORD10462,Order Shipped,2026-02-24 02:00:00,South,Marketplace
+ORD10462,Order Delivered,2026-03-06 07:00:00,South,Marketplace
+ORD10463,Order Created,2026-05-27 05:00:00,East,Mobile App
+ORD10463,Payment Approved,2026-06-08 12:00:00,East,Mobile App
+ORD10463,Inventory Checked,2026-06-21 13:00:00,East,Mobile App
+ORD10463,Order Packed,2026-06-27 15:00:00,East,Mobile App
+ORD10463,Order Shipped,2026-07-01 21:00:00,East,Mobile App
+ORD10463,Order Delivered,2026-07-16 03:00:00,East,Mobile App
+ORD10464,Order Created,2026-01-17 04:00:00,South,Website
+ORD10464,Payment Approved,2026-01-20 11:00:00,South,Website
+ORD10464,Inventory Checked,2026-02-05 17:00:00,South,Website
+ORD10464,Payment Retry,2026-02-13 00:00:00,South,Website
+ORD10464,Order Packed,2026-02-23 07:00:00,South,Website
+ORD10464,Order Shipped,2026-03-02 13:00:00,South,Website
+ORD10464,Order Delivered,2026-03-16 15:00:00,South,Website
+ORD10465,Order Created,2026-02-03 07:00:00,North,Marketplace
+ORD10465,Payment Approved,2026-02-15 07:00:00,North,Marketplace
+ORD10465,Inventory Checked,2026-03-02 09:00:00,North,Marketplace
+ORD10465,Inventory Recheck,2026-03-11 17:00:00,North,Marketplace
+ORD10465,Order Packed,2026-03-13 22:00:00,North,Marketplace
+ORD10465,Order Shipped,2026-03-17 23:00:00,North,Marketplace
+ORD10465,Order Delivered,2026-03-26 05:00:00,North,Marketplace
+ORD10466,Order Created,2026-04-06 07:00:00,South,Website
+ORD10466,Payment Approved,2026-04-07 07:00:00,South,Website
+ORD10466,Inventory Checked,2026-04-24 09:00:00,South,Website
+ORD10466,Inventory Recheck,2026-04-30 11:00:00,South,Website
+ORD10466,Order Packed,2026-05-06 17:00:00,South,Website
+ORD10466,Order Shipped,2026-05-11 17:00:00,South,Website
+ORD10466,Order Delivered,2026-05-16 21:00:00,South,Website
+ORD10467,Order Created,2026-02-17 04:00:00,East,Website
+ORD10467,Payment Approved,2026-02-18 11:00:00,East,Website
+ORD10467,Inventory Checked,2026-02-22 16:00:00,East,Website
+ORD10467,Payment Retry,2026-02-23 22:00:00,East,Website
+ORD10467,Order Packed,2026-03-03 05:00:00,East,Website
+ORD10467,Order Shipped,2026-03-11 07:00:00,East,Website
+ORD10467,Order Delivered,2026-03-21 09:00:00,East,Website
+ORD10468,Order Created,2026-04-25 06:00:00,West,Mobile App
+ORD10468,Payment Approved,2026-05-07 11:00:00,West,Mobile App
+ORD10468,Inventory Checked,2026-05-18 19:00:00,West,Mobile App
+ORD10468,Inventory Recheck,2026-05-28 19:00:00,West,Mobile App
+ORD10468,Order Packed,2026-06-05 02:00:00,West,Mobile App
+ORD10468,Order Shipped,2026-06-12 06:00:00,West,Mobile App
+ORD10468,Order Delivered,2026-06-16 07:00:00,West,Mobile App
+ORD10469,Order Created,2026-01-08 07:00:00,North,Marketplace
+ORD10469,Payment Approved,2026-01-17 15:00:00,North,Marketplace
+ORD10469,Inventory Checked,2026-01-21 15:00:00,North,Marketplace
+ORD10469,Payment Retry,2026-01-22 16:00:00,North,Marketplace
+ORD10469,Order Packed,2026-02-02 00:00:00,North,Marketplace
+ORD10469,Order Shipped,2026-02-06 02:00:00,North,Marketplace
+ORD10469,Order Delivered,2026-02-19 02:00:00,North,Marketplace
+ORD10470,Order Created,2026-03-05 00:00:00,East,Website
+ORD10470,Payment Approved,2026-03-07 05:00:00,East,Website
+ORD10470,Inventory Checked,2026-03-25 11:00:00,East,Website
+ORD10470,Order Packed,2026-03-26 13:00:00,East,Website
+ORD10470,Order Shipped,2026-04-03 19:00:00,East,Website
+ORD10470,Order Delivered,2026-04-17 19:00:00,East,Website
+ORD10471,Order Created,2026-03-07 01:00:00,East,Mobile App
+ORD10471,Payment Approved,2026-03-09 03:00:00,East,Mobile App
+ORD10471,Inventory Checked,2026-03-13 07:00:00,East,Mobile App
+ORD10471,Order Packed,2026-03-16 13:00:00,East,Mobile App
+ORD10471,Order Shipped,2026-03-21 15:00:00,East,Mobile App
+ORD10471,Order Delivered,2026-04-03 15:00:00,East,Mobile App
+ORD10472,Order Created,2026-01-07 01:00:00,East,Website
+ORD10472,Payment Approved,2026-01-12 01:00:00,East,Website
+ORD10472,Inventory Checked,2026-01-25 04:00:00,East,Website
+ORD10472,Inventory Recheck,2026-01-28 07:00:00,East,Website
+ORD10472,Order Packed,2026-02-03 10:00:00,East,Website
+ORD10472,Order Shipped,2026-02-08 17:00:00,East,Website
+ORD10472,Order Delivered,2026-02-16 01:00:00,East,Website
+ORD10473,Order Created,2026-03-10 04:00:00,West,Website
+ORD10473,Payment Approved,2026-03-16 12:00:00,West,Website
+ORD10473,Inventory Checked,2026-03-31 13:00:00,West,Website
+ORD10473,Payment Retry,2026-04-01 16:00:00,West,Website
+ORD10473,Order Packed,2026-04-09 00:00:00,West,Website
+ORD10473,Order Shipped,2026-04-13 02:00:00,West,Website
+ORD10473,Order Delivered,2026-04-14 06:00:00,West,Website
+ORD10474,Order Created,2026-01-22 07:00:00,West,Mobile App
+ORD10474,Payment Approved,2026-01-25 07:00:00,West,Mobile App
+ORD10474,Inventory Checked,2026-02-06 07:00:00,West,Mobile App
+ORD10474,Order Packed,2026-02-10 14:00:00,West,Mobile App
+ORD10474,Order Shipped,2026-02-17 18:00:00,West,Mobile App
+ORD10474,Order Delivered,2026-02-26 20:00:00,West,Mobile App
+ORD10475,Order Created,2026-05-05 08:00:00,South,Website
+ORD10475,Payment Approved,2026-05-15 12:00:00,South,Website
+ORD10475,Inventory Checked,2026-05-24 12:00:00,South,Website
+ORD10475,Order Packed,2026-05-30 14:00:00,South,Website
+ORD10475,Order Shipped,2026-06-03 22:00:00,South,Website
+ORD10475,Order Delivered,2026-06-13 23:00:00,South,Website
+ORD10476,Order Created,2026-04-12 05:00:00,East,Website
+ORD10476,Payment Approved,2026-04-15 09:00:00,East,Website
+ORD10476,Inventory Checked,2026-05-03 16:00:00,East,Website
+ORD10476,Order Packed,2026-05-07 20:00:00,East,Website
+ORD10476,Order Shipped,2026-05-13 23:00:00,East,Website
+ORD10476,Order Delivered,2026-05-25 04:00:00,East,Website
+ORD10477,Order Created,2026-04-29 02:00:00,East,Website
+ORD10477,Payment Approved,2026-04-30 08:00:00,East,Website
+ORD10477,Inventory Checked,2026-05-05 16:00:00,East,Website
+ORD10477,Payment Retry,2026-05-13 23:00:00,East,Website
+ORD10477,Order Packed,2026-05-15 05:00:00,East,Website
+ORD10477,Order Shipped,2026-05-16 13:00:00,East,Website
+ORD10477,Order Delivered,2026-05-27 14:00:00,East,Website
+ORD10478,Order Created,2026-01-09 02:00:00,South,Marketplace
+ORD10478,Payment Approved,2026-01-20 02:00:00,South,Marketplace
+ORD10478,Inventory Checked,2026-01-24 03:00:00,South,Marketplace
+ORD10478,Order Packed,2026-02-03 10:00:00,South,Marketplace
+ORD10478,Order Shipped,2026-02-09 15:00:00,South,Marketplace
+ORD10478,Order Delivered,2026-02-16 18:00:00,South,Marketplace
+ORD10479,Order Created,2026-02-26 03:00:00,West,Website
+ORD10479,Payment Approved,2026-03-03 06:00:00,West,Website
+ORD10479,Inventory Checked,2026-03-15 13:00:00,West,Website
+ORD10479,Order Packed,2026-03-26 18:00:00,West,Website
+ORD10479,Order Shipped,2026-03-31 18:00:00,West,Website
+ORD10479,Order Delivered,2026-04-13 22:00:00,West,Website
+ORD10480,Order Created,2026-02-23 03:00:00,West,Marketplace
+ORD10480,Payment Approved,2026-02-27 05:00:00,West,Marketplace
+ORD10480,Inventory Checked,2026-03-12 06:00:00,West,Marketplace
+ORD10480,Inventory Recheck,2026-03-17 08:00:00,West,Marketplace
+ORD10480,Order Packed,2026-03-25 09:00:00,West,Marketplace
+ORD10480,Order Shipped,2026-03-28 11:00:00,West,Marketplace
+ORD10480,Order Delivered,2026-04-06 15:00:00,West,Marketplace
+ORD10481,Order Created,2026-03-12 08:00:00,North,Marketplace
+ORD10481,Payment Approved,2026-03-23 15:00:00,North,Marketplace
+ORD10481,Inventory Checked,2026-03-24 15:00:00,North,Marketplace
+ORD10481,Order Packed,2026-04-02 21:00:00,North,Marketplace
+ORD10481,Order Shipped,2026-04-07 21:00:00,North,Marketplace
+ORD10481,Order Delivered,2026-04-19 02:00:00,North,Marketplace
+ORD10482,Order Created,2026-03-12 04:00:00,West,Mobile App
+ORD10482,Payment Approved,2026-03-23 10:00:00,West,Mobile App
+ORD10482,Inventory Checked,2026-04-09 18:00:00,West,Mobile App
+ORD10482,Order Packed,2026-04-11 01:00:00,West,Mobile App
+ORD10482,Order Shipped,2026-04-15 06:00:00,West,Mobile App
+ORD10482,Order Delivered,2026-04-16 06:00:00,West,Mobile App
+ORD10483,Order Created,2026-03-27 03:00:00,West,Website
+ORD10483,Payment Approved,2026-04-06 06:00:00,West,Website
+ORD10483,Inventory Checked,2026-04-07 08:00:00,West,Website
+ORD10483,Order Packed,2026-04-19 13:00:00,West,Website
+ORD10483,Order Shipped,2026-04-26 17:00:00,West,Website
+ORD10483,Order Delivered,2026-04-28 18:00:00,West,Website
+ORD10484,Order Created,2026-05-04 00:00:00,South,Website
+ORD10484,Payment Approved,2026-05-05 05:00:00,South,Website
+ORD10484,Inventory Checked,2026-05-16 13:00:00,South,Website
+ORD10484,Order Packed,2026-05-24 16:00:00,South,Website
+ORD10484,Order Shipped,2026-05-28 17:00:00,South,Website
+ORD10484,Order Delivered,2026-06-04 00:00:00,South,Website
+ORD10485,Order Created,2026-04-25 02:00:00,South,Marketplace
+ORD10485,Payment Approved,2026-04-27 02:00:00,South,Marketplace
+ORD10485,Inventory Checked,2026-04-29 09:00:00,South,Marketplace
+ORD10485,Order Packed,2026-05-11 09:00:00,South,Marketplace
+ORD10485,Order Shipped,2026-05-13 13:00:00,South,Marketplace
+ORD10485,Order Delivered,2026-05-26 19:00:00,South,Marketplace
+ORD10486,Order Created,2026-01-15 00:00:00,South,Website
+ORD10486,Payment Approved,2026-01-20 07:00:00,South,Website
+ORD10486,Inventory Checked,2026-02-02 13:00:00,South,Website
+ORD10486,Order Packed,2026-02-09 20:00:00,South,Website
+ORD10486,Order Shipped,2026-02-14 02:00:00,South,Website
+ORD10486,Order Delivered,2026-02-28 03:00:00,South,Website
+ORD10487,Order Created,2026-01-08 03:00:00,East,Marketplace
+ORD10487,Payment Approved,2026-01-17 05:00:00,East,Marketplace
+ORD10487,Inventory Checked,2026-01-28 13:00:00,East,Marketplace
+ORD10487,Order Packed,2026-01-29 17:00:00,East,Marketplace
+ORD10487,Order Shipped,2026-01-31 22:00:00,East,Marketplace
+ORD10487,Order Delivered,2026-02-11 04:00:00,East,Marketplace
+ORD10488,Order Created,2026-04-24 05:00:00,West,Marketplace
+ORD10488,Payment Approved,2026-04-28 09:00:00,West,Marketplace
+ORD10488,Inventory Checked,2026-05-03 17:00:00,West,Marketplace
+ORD10488,Payment Retry,2026-05-08 19:00:00,West,Marketplace
+ORD10488,Order Packed,2026-05-18 21:00:00,West,Marketplace
+ORD10488,Order Shipped,2026-05-26 04:00:00,West,Marketplace
+ORD10488,Order Delivered,2026-06-04 08:00:00,West,Marketplace
+ORD10489,Order Created,2026-04-05 05:00:00,East,Mobile App
+ORD10489,Payment Approved,2026-04-14 08:00:00,East,Mobile App
+ORD10489,Inventory Checked,2026-04-19 11:00:00,East,Mobile App
+ORD10489,Inventory Recheck,2026-04-28 14:00:00,East,Mobile App
+ORD10489,Order Packed,2026-05-07 15:00:00,East,Mobile App
+ORD10489,Order Shipped,2026-05-08 20:00:00,East,Mobile App
+ORD10489,Order Delivered,2026-05-15 23:00:00,East,Mobile App
+ORD10490,Order Created,2026-05-01 00:00:00,West,Marketplace
+ORD10490,Payment Approved,2026-05-11 07:00:00,West,Marketplace
+ORD10490,Inventory Checked,2026-05-22 10:00:00,West,Marketplace
+ORD10490,Order Packed,2026-05-25 10:00:00,West,Marketplace
+ORD10490,Order Shipped,2026-05-27 13:00:00,West,Marketplace
+ORD10490,Order Delivered,2026-06-04 16:00:00,West,Marketplace
+ORD10491,Order Created,2026-02-24 00:00:00,West,Marketplace
+ORD10491,Payment Approved,2026-03-04 05:00:00,West,Marketplace
+ORD10491,Inventory Checked,2026-03-15 05:00:00,West,Marketplace
+ORD10491,Order Packed,2026-03-22 06:00:00,West,Marketplace
+ORD10491,Order Shipped,2026-03-25 11:00:00,West,Marketplace
+ORD10491,Order Delivered,2026-04-08 11:00:00,West,Marketplace
+ORD10492,Order Created,2026-03-17 04:00:00,South,Website
+ORD10492,Payment Approved,2026-03-21 06:00:00,South,Website
+ORD10492,Inventory Checked,2026-04-02 11:00:00,South,Website
+ORD10492,Inventory Recheck,2026-04-03 19:00:00,South,Website
+ORD10492,Order Packed,2026-04-08 22:00:00,South,Website
+ORD10492,Order Shipped,2026-04-12 00:00:00,South,Website
+ORD10492,Order Delivered,2026-04-16 03:00:00,South,Website
+ORD10493,Order Created,2026-03-09 04:00:00,South,Website
+ORD10493,Payment Approved,2026-03-10 11:00:00,South,Website
+ORD10493,Inventory Checked,2026-03-15 14:00:00,South,Website
+ORD10493,Order Packed,2026-03-17 19:00:00,South,Website
+ORD10493,Order Shipped,2026-03-24 00:00:00,South,Website
+ORD10493,Order Delivered,2026-03-28 02:00:00,South,Website
+ORD10494,Order Created,2026-01-17 06:00:00,West,Marketplace
+ORD10494,Payment Approved,2026-01-20 09:00:00,West,Marketplace
+ORD10494,Inventory Checked,2026-01-25 09:00:00,West,Marketplace
+ORD10494,Order Packed,2026-02-01 12:00:00,West,Marketplace
+ORD10494,Order Shipped,2026-02-07 20:00:00,West,Marketplace
+ORD10494,Order Delivered,2026-02-14 00:00:00,West,Marketplace
+ORD10495,Order Created,2026-03-05 01:00:00,North,Mobile App
+ORD10495,Payment Approved,2026-03-16 08:00:00,North,Mobile App
+ORD10495,Inventory Checked,2026-03-25 09:00:00,North,Mobile App
+ORD10495,Order Packed,2026-04-04 11:00:00,North,Mobile App
+ORD10495,Order Shipped,2026-04-12 19:00:00,North,Mobile App
+ORD10495,Order Delivered,2026-04-17 01:00:00,North,Mobile App
+ORD10496,Order Created,2026-05-14 04:00:00,East,Mobile App
+ORD10496,Payment Approved,2026-05-17 10:00:00,East,Mobile App
+ORD10496,Inventory Checked,2026-05-28 10:00:00,East,Mobile App
+ORD10496,Order Packed,2026-06-05 13:00:00,East,Mobile App
+ORD10496,Order Shipped,2026-06-13 16:00:00,East,Mobile App
+ORD10496,Order Delivered,2026-06-21 19:00:00,East,Mobile App
+ORD10497,Order Created,2026-04-12 01:00:00,West,Website
+ORD10497,Payment Approved,2026-04-17 03:00:00,West,Website
+ORD10497,Inventory Checked,2026-05-01 04:00:00,West,Website
+ORD10497,Order Packed,2026-05-07 08:00:00,West,Website
+ORD10497,Order Shipped,2026-05-12 15:00:00,West,Website
+ORD10497,Order Delivered,2026-05-21 23:00:00,West,Website
+ORD10498,Order Created,2026-05-30 05:00:00,East,Website
+ORD10498,Payment Approved,2026-06-07 12:00:00,East,Website
+ORD10498,Inventory Checked,2026-06-24 17:00:00,East,Website
+ORD10498,Order Packed,2026-07-02 21:00:00,East,Website
+ORD10498,Order Shipped,2026-07-10 03:00:00,East,Website
+ORD10498,Order Delivered,2026-07-17 03:00:00,East,Website
+ORD10499,Order Created,2026-03-02 01:00:00,North,Mobile App
+ORD10499,Payment Approved,2026-03-13 02:00:00,North,Mobile App
+ORD10499,Inventory Checked,2026-03-16 07:00:00,North,Mobile App
+ORD10499,Payment Retry,2026-03-18 07:00:00,North,Mobile App
+ORD10499,Order Packed,2026-03-23 15:00:00,North,Mobile App
+ORD10499,Order Shipped,2026-03-27 18:00:00,North,Mobile App
+ORD10499,Order Delivered,2026-03-29 23:00:00,North,Mobile App
+ORD10500,Order Created,2026-03-27 04:00:00,North,Marketplace
+ORD10500,Payment Approved,2026-04-01 08:00:00,North,Marketplace
+ORD10500,Inventory Checked,2026-04-10 13:00:00,North,Marketplace
+ORD10500,Order Packed,2026-04-13 19:00:00,North,Marketplace
+ORD10500,Order Shipped,2026-04-19 01:00:00,North,Marketplace
+ORD10500,Order Delivered,2026-04-20 01:00:00,North,Marketplace
